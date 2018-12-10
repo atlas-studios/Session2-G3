@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1656,6 +1656,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“大哥果然聪明！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T065507Z" creationid="sangni" creationdate="20181210T065507Z">
+        <seg>"My brother is indeed intelligent!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“大爷爷，你没事真的太好了……”睡梦中的江逸满脸泪痕地唤了一声。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T010756Z" creationid="Joey" creationdate="20180803T102204Z">
@@ -3184,6 +3192,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062631Z" creationid="USER" creationdate="20180809T125701Z">
         <seg>"Forget about it! I'll just drag dealing with the problem first! I'll see how long I can put it off!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“管他呢，兵来将挡水来土掩，反正学院内不能斗殴，江麒麟还能用眼神和口水杀死我？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T065442Z" creationid="sangni" creationdate="20181210T065442Z">
+        <seg>"Who cares, </seg>
       </tuv>
     </tu>
     <tu>
@@ -5852,6 +5868,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T160647Z" creationid="Ho Jin Liang" creationdate="20181203T160647Z">
         <seg>Everyone awoke from the realization and followed up with a respectful bow, "Greetings Martial Court Elder."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>其余人江逸不管，这江麒麟可是认出了他。以江麒麟的本事，他进了学院很快就会找来吧？那可是神武国第二世家的公子啊！姬听雨让他低调些，没想到还没进学院就已经得罪了一个大人物。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T065345Z" creationid="sangni" creationdate="20181210T065345Z">
+        <seg>Jiang Yi did not take the rest of the people in regard, with the exception of Jiang QiLin, whom he had recognized. With Jiang QiLin's abilities, he would have been here in no time to search for Jiang Yi? He is the young master of the second aristocratic family Divine Martial Kingdom! Ji Tingyu had reminded him to be more low-profiled, but little did she know that he had already offended a great personage.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -15467,8 +15491,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>这群人刚才在下面还打打杀杀的，此刻却宛如什么事都没有发生，和和气气的走来上来，各自将灵牌交了上去。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181210T063742Z" creationid="sangni" creationdate="20181210T063525Z">
-        <seg>The group of people were just fighting each other at the previous moment and yet they behaved as if there wasnt, they walked up together </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T064211Z" creationid="sangni" creationdate="20181210T063525Z">
+        <seg>The group of people were just fighting each other at the previous moment and yet they behaved as if there wasn't a conflict and nothing had happened, they walked up together amiably and submitted the spirit tablets respectively.  </seg>
       </tuv>
     </tu>
     <tu>
