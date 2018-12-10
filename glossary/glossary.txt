@@ -1038,3 +1038,4 @@
 灵兽	spiritual beasts
 精英学员	elite scholar
 长孙家	Zhang Sun Family
+少主	young master
