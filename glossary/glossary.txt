@@ -1021,3 +1021,5 @@
 武堂长老	Martial Court Elder
 偏殿	side hall
 小胖子	Piggy
+钱万贯	Qian Wan Guan	Junior, follower of Di Yuan Dan
+世子	Crowned Prince
