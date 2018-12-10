@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14361,8 +14361,8 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>要想伤势尽快复原，关键在于外药内调。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011454Z" creationid="Joey" creationdate="20180807T151915Z">
-        <seg>The most important factor behind the speedy recovery of any wound was to apply medicine on the exterior and “regulate” from the interior.</seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T051242Z" creationid="Joey" creationdate="20180807T151915Z">
+        <seg>1The most important factor behind the speedy recovery of any wound was to apply medicine on the exterior and “regulate” from the interior.</seg>
       </tuv>
     </tu>
     <tu>
