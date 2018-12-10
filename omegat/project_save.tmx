@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3526,8 +3526,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“这个女子的来历无人知晓，她被江别离带进王府住了两年，王府却没有给她任何名分，在江别离登上镇西王之位后还突然离开了。而在她离开后，江云海也告病回到了老家天羽城，据我们安排在镇西王府的内线传回的消息，那女子离开时肚子里已经有些孩子！江云海回到天羽城后一直呆在江家，三年后才突然离去抱回来两个婴儿，那就是你和你的侍女！既然江云海认你为少主，那么你的身份就再明显不过了……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181210T062402Z" creationid="Irene Tan" creationdate="20181210T062402Z">
-        <seg>No one knew the origin of this lady. She was brought into Western Garrison Liege Lord's household by Jiang Bie Li </seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181210T062729Z" creationid="Irene Tan" creationdate="20181210T062402Z">
+        <seg>No one knew the origin of this lady. She was brought into the Western Garrison Liege Lord's household by Jiang Bie Li for two years, but was not given a status. When Jiang Bie Li mount onto the throne of Western Garrison Liege Lord, she left suddenly. After her departure, Grand Elder Jiang Yun Hai reported being sick and returned to the Skyplume City. Based on the   </seg>
       </tuv>
     </tu>
     <tu>
