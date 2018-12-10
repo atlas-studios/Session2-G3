@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3270,8 +3270,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“管他呢，兵来将挡水来土掩，反正学院内不能斗殴，江麒麟还能用眼神和口水杀死我？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181210T065442Z" creationid="sangni" creationdate="20181210T065442Z">
-        <seg>"Who cares, </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T070720Z" creationid="sangni" creationdate="20181210T065442Z">
+        <seg>"Who cares, whatever comes I'll just deal with it with the appropriate measure, since we can't fight in the training college, Jiang QiLin can't do anything to threaten my safety, will his stares and spit to kill me?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4012,6 +4012,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181020T153802Z" creationid="tianqi" creationdate="20181020T153802Z">
         <seg>"Young Master Fei, stand back!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“马勒戈壁！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T070054Z" creationid="sangni" creationdate="20181210T070054Z">
+        <seg>"Damn it!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -7728,6 +7736,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子发现是一名漂亮的少女，小眼睛一亮立即露出猥琐的笑容凑过来说道：“大哥，这个月媚儿可是王城月家的小姐啊，怎么……你和她有一腿？或者你做了对不起人家的事情？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T074726Z" creationid="sangni" creationdate="20181210T074726Z">
+        <seg>Once Little Fatty had realised that it was a beautiful maiden, his small eyes lit up instantly and he gave away a frivolous smile while shifting over and saying, "My brother, this</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小胖子哑然失笑，摇头道：“江逸，其实你应该猜到了一些吧？否则你不会如此暴怒！江云海曾经是王府的内院总管，有一次他因为做错了事情差点被杀了，是一位住在王府女子出言求情这才被免一死，不过最后还是被打瘸了腿，此事在镇西王府闹的很大，很多人都知道，他认这位女子为主也是情理之中的事情。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181210T062053Z" creationid="Irene Tan" creationdate="20181210T061349Z">
@@ -7772,6 +7788,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181210T060352Z" creationid="USER" creationdate="20181210T060352Z">
         <seg>The smile on Piggy's face froze, and became more serious. He nodded, "Alright, just tell me what you need. That being said, you would owe me a favour."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>小胖子被打了一下，没有半点生气，反而谄媚笑道：“嘿嘿，大哥别用担心那么多，我保证江麒麟不敢惹你，就算他敢惹你我绝对叫人帮你揍他。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T072200Z" creationid="sangni" creationdate="20181210T072200Z">
+        <seg>Little Fatty was hit by Jiang Yi but there was no anger in him, instead, he had tried to flatter Jiang Yi by saying smilingly, "Hehe, my brother, you need not worry that much, I dare to guarantee that Jiang QiLin wouldn't dare provoke you, well even if he dared to provoke you I would hire hit men to help you seek revenge and beat him up.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -8168,6 +8192,14 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="Joey" creationdate="20180803T102103Z">
         <seg>There were many moments when Jiang Yi had wanted to head out to work, to make some money and supplement their daily expenses. But these overtures were all strongly rejected by Xiaonu. Jiang Yi was a scion of the Jiang Clan, a person destined to do great things! To say nothing of the work demanded by the family, how could a scion like himself head out to do this kind of lowly menial work?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>很多知道钱万贯身份的人却是内心一震，纷纷猜测江逸的身份起来，敢拍这个小胖子脑袋的人那可都是猛人啊，这个小胖子表面看起来人蓄无害，很多人被他怎么阴死的不知道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T073452Z" creationid="sangni" creationdate="20181210T073452Z">
+        <seg>Those who knew of Qian Wanguan's real identity were astounded, they were speculating about Jiang Yi's background and identity, those who were confident enough to smack the back of Little Fatty's head were all bold and powerful. This Little Fatty looked harmless on the surface, but many people suffered horrible consequences without knowing the cause of it - Little Fatty.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -11194,6 +11226,14 @@ However, for someone like him who faced difficulty in even getting food to eat, 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸微微一叹身子隐入人群中，不想让江麒麟等人看到。谁料那个小胖子钱万贯目光一扫，突然满脸笑容的朝江逸靠了过来，老远就叫道：“大哥，你在这啊，害我一顿好找。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T070742Z" creationid="sangni" creationdate="20181210T070651Z">
+        <seg>Jiang Yi sighed softly and hif himself among the crowd, wishing that Jiang QiLin and the others wouldn't spot him. Who knew that Little Fatty Qian Wan Guan had conducted a thorough scan of the venue, and leaned towards Jiang Yi with a face wreathed with smiles, speaking loudly from afar, "My brother, you're here, you've caused me so much trouble trying to find you."  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸微微宽心，江家很重规矩，祸不及家人这一条尤为重要，江如虎就算要找他麻烦也不会为难江小奴的，否则被家族知道，那事情就严重了。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="tianqi" creationdate="20181023T143950Z">
@@ -12422,6 +12462,14 @@ As he had already predicted the incoming attacks in advance, he had already take
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸眸子一冷，下意识的朝江麒麟望去，果然看到他正注视着自己，眸子内都是杀意。看到小胖子亲热的走过来，江逸顿时气不打一处来，抬手对着他的后脑勺就是一下，低骂道：“钱万贯，你故意的是不是？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T071542Z" creationid="sangni" creationdate="20181210T071542Z">
+        <seg>Jiang Yi's gave a chilly look, he gathered his determination and looked at Jiang QiLin, Jiang Yi indeed saw Jiang QiLin looking at himself, with a deathly stare in his pupil. When Little Fatty walked over affectionately, Jiang Yi couldn’t help but feel angry, he smacked the back of Little Fatty's head and scolded angrily, "Qian WanGuan, you did that on purpose right?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸眸子内冷意一闪，不过他却没有像昨日那般冒然过去查看，不想再惹事端的话，只能佯装没看到，继续清点草参。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011957Z" creationid="Joey" creationdate="20180807T152958Z">
@@ -13290,6 +13338,14 @@ Hesitating briefly, he asked, "Can I leave at any time I want?"</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸飞了一个白眼，这小胖子很是欠揍，但又不让人讨厌。不知为何他对于这个神武国第四家族的公子他半点没有畏惧，反而倍感亲切，就像自己的小弟般。或许这也正是小胖子的个人魅力，天生的能力，能让人消除戒心和他交好。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T072938Z" creationid="sangni" creationdate="20181210T072938Z">
+        <seg>Jiang Yi rolled his eyes, Little Fatty was indeed annoying and needed a spanking, but he did not reach the point where he was disliked and hated by people. Jiang Yi did not understand why  he did not fear Little Fatty, the young master of the fourth family clan of the Divine Martial Kingdom, on the contrary, he felt really close with Little Fatty and treated him as though he was his own little brother. Maybe it was Little Fatty's personal charisma, innate capabilities that allowed people to drop their guard against him and hang out with him without worries. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸飞射而来，拉着江小奴的手满脸都是惭愧，随即想起什么，咧嘴一笑：“小奴，走回家，我给你看好东西，还有一件天大的好事告诉你。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T142248Z" creationid="Joey" creationdate="20180817T044252Z">
@@ -13912,6 +13968,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T080132Z" creationid="USER" creationdate="20180807T115643Z">
         <seg>Suddenly—</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>突然下方又冲上来一人，江逸目光一扫顿时一缩，身子躲在小胖子后面，压低声音说道：“别闹了，帮我挡挡。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T073905Z" creationid="sangni" creationdate="20181210T073905Z">
+        <seg>Suddenly, a group of people rushed from downstairs. Jiang Yi took a glance and instantly shrank back, hidding his body behind Little Fatty, lowering his voice and warning, "stop joking, help cover me up." </seg>
       </tuv>
     </tu>
     <tu>
