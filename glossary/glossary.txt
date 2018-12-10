@@ -1034,3 +1034,6 @@
 学员	candidate
 少爷	Young Master
 长孙家	Zhangsun Family
+驯化	tame
+灵兽	spiritual beasts
+精英学员	elite scholar
