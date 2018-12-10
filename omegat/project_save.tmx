@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2496,6 +2496,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“是你？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181210T063624Z" creationid="ACER" creationdate="20181210T063624Z">
+        <seg>"It's you?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“是啊，这位大爷快进去吧，我们家烟火姑娘最近可是学会了一种新的玩法，叫吹箫弄月，可舒坦了……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180819T075659Z" creationid="USER" creationdate="20180807T095839Z">
@@ -4098,6 +4106,14 @@ He always felt that the greatest motivation for him—the reason why he could en
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一片目光扫了过来，两边的人虽然多，但是铸鼎境九重的武者每边也只有十来个，如果江逸轻松能一招重创一名铸鼎境九重武者，那么胜利的天秤将会立即朝这边倾泻。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181210T062200Z" creationid="ACER" creationdate="20181210T061946Z">
+        <seg>A gaze swept over, although there are a lot of people on both sides, but there was only around 10 martial artists from Cast Tripod Realm on each side. If Jiang Yi can easily inflict serious damage on a martial artist of the ninth stage of the Cast Tripod Realm with one attack, he will definitely have a higher chance of winning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一直修炼到黄昏时分，江逸才停了下来，内视了一下丹田内的元力，他眼中都是火热。只是修炼了一下午，他积累的元力就可比以前的一个月，武殿内修炼速度的增幅，加上黑色元力丹药，还有他本身封印符文的破解，让他修炼速度呈火箭般快速增长。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180924T013912Z" creationid="Joey" creationdate="20180924T013912Z">
@@ -5010,6 +5026,14 @@ Jiang Yi ran like a madman for some time, before changing his direction and turn
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005638Z" creationid="USER" creationdate="20180803T123606Z">
         <seg>He presided over the Heavenly Court, ruling the various worlds for as long as seven thousand years. As the Celestial Thearch was nameless, people eventually addressed him as the Nine-Yang Celestial Thearch in his twilight years due to his extreme attainment in the martial realm of Yang.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他境界提升到铸鼎境五重，融合黑色元力力气已经达到了九马之力，可比铸鼎境九重武者，偷袭之下重创一名铸鼎境七重的武者太简单了……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181210T063546Z" creationid="ACER" creationdate="20181210T063546Z">
+        <seg>His strength has already advances to the fifth stage of the Cast Tripod Realm, and combining the black essence forces, he has already reached a ______. Comparing to the martial artist of the ninth stage of the Cast Tripod Realm, attacking a martial artist of the seventh stage of the Cast Tripod Realm is a piece of cake. </seg>
       </tuv>
     </tu>
     <tu>
@@ -8342,6 +8366,14 @@ In other words, other people could beat you up as they fancied. You could always
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>接下来的场景，让战无双和黑衣少女还有躲在灌木丛中的小胖子惊呆了。江逸突然拍出一掌，一股强大的元力爆炸开来，那铸鼎境九重的武者竟一招都挡不住，直接被炸得半死。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181210T061255Z" creationid="ACER" creationdate="20181210T061255Z">
+        <seg>the following scenarios shocked Zhan Wu Shuang, the young lady in black clothing and Piggy who was hiding in the shrubbery. Suddenly, Jiang Yi slapped once, and a strong essence force exploded which the martial artist of the ninth stage of the Cast Tripod Realm is unable to even block off a single attack, and was killed on the spot. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>接待他的还是上次的刘管事，刘管事客气的将江逸带进雅阁内，招来侍女奉上香茗后，才微笑问道：“公子，您这次是又准备出售丹药吗？难道有好货色？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T143349Z" creationid="USER" creationdate="20180813T080736Z">
@@ -10307,6 +10339,14 @@ The plump shopkeeper's facial expression changed. He gave a forced, awkward laug
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180918T210146Z" creationid="Joey" creationdate="20180918T205303Z">
         <seg>Jiang Yi gave a burst of cold laughter. Not only did he not retreat to avoid the incoming assault, he instead used his hand to grab Jiang Ruhu's remaining unbroken leg, swinging swinging Jiang Ruhu's obese body around in a sweeping motion in the direction of the incoming group of opponents. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸凭借爆元掌重创一人，身子并没有片刻停歇，携带刚才之威，在附近一名铸鼎境七重武者还没反应之前，再次狠狠一拳把一人砸飞。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181210T062918Z" creationid="ACER" creationdate="20181210T062918Z">
+        <seg>Jiang Yi did not stop even after inflicting serious damage on the martial artist, in fact, he brought over his power then to a martial artist of the seventh stage of Cast Tripod Realm who hasn't reacted yet, and viscously punched till he flew off. </seg>
       </tuv>
     </tu>
     <tu>
@@ -12987,6 +13027,14 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T154038Z" creationid="Ho Jin Liang" creationdate="20181203T154038Z">
         <seg>Jiang Gushui and the others looked at each other helplessly, but had long went to seek for help. They never would have though the sealed trash, who they looked with disdain, would become such a ferocious existence that could not only oppress dozens of clansmen but easily defeat the Jiang Rulong who was the no.2 of the clan's younger generation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江麒麟看了江逸一阵，开始看他的身子有些眼熟，很快想起爆元掌，幡然醒悟暴怒大喝起来：“我杀了你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181210T064124Z" creationid="ACER" creationdate="20181210T063553Z">
+        <seg>Jiang Qi Lin looked at Jiang Yi for a moment, finding his figure familiar, and soon remembered the exploded slap. Snapping out of his dazed, he raged violently, "I want to kill you."    </seg>
       </tuv>
     </tu>
     <tu>
@@ -16179,6 +16227,14 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180921T051609Z" creationid="Joey" creationdate="20180921T051609Z">
         <seg>Black essence force could increase his power by two times. At the moment, with the boundary of his power-level at the second stage of the Cast Tripod Realm, after merging with some black essence force, his power-level could hit the fourth stage of the Cast Tripod Realm, equivalent to four horsepower worth of strength. Besides being compatible with and increasing his ability of sight, his mixed martial arts techniques and strategies certainly allowed him to be on par with any typical martial artists with a power level at the fourth stage of the Cast Tripod Realm. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>黑衣少女气鼓鼓的转过身子去，眼睛死死盯着江逸。她那天说江逸比战无双实力强大，毕竟只是一种感觉，还有气气战无双的想法，心底倒是不认为江逸能赢战无双，毕竟战无双是战神一族这一代的传人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181210T060213Z" creationid="ACER" creationdate="20181210T060116Z">
+        <seg>The young lady in black clothing turned away furiously, staring at Jiang Yi. That day, although she said that Jiang Yi is stronger than Wu Shuang, it was only based on her instinct, and it was to anger Zhan Wu Shuang. Deep in her heart, she don't believe that Jiang Yi will be able to win Wu Shuang, because undeniably, Zhan Wu Shuang is the descendant of the God of War family.   </seg>
       </tuv>
     </tu>
     <tu>
