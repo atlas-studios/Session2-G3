@@ -1232,6 +1232,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“唉！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T080701Z" creationid="USER" creationdate="20181210T080701Z">
+        <seg>"Sigh"...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“唉，我总是说不过你！不过爱好和平的我既然死到临头，也就没心情再打上一场了……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005802Z" creationid="USER" creationdate="20180804T030624Z">
