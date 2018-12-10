@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3040,6 +3040,14 @@ Jiang Yi had no desire to stir up trouble, but Jiang Bao clearly had no desire t
         <seg>“With my lack of strength, I, Jiang Yi, am doomed to be trampled under the feet of swine like Jiang Ruhu and fated to endure countless humiliations! This is not the life I want—neither now, nor in the future!”
 
 Jiang Yi recalled the sequence of events that had taken place in the morning. His face burning with rage and indignation, he clenched his fists tightly, letting his fingernails pierce deep into his palms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“没有的事，别说话！”江逸脸色一红，脑袋更加低了几分，好在这月媚儿交上令牌后进了人群中，没有看到江逸。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T081809Z" creationid="sangni" creationdate="20181210T081809Z">
+        <seg>"This isn't real, don't speak!", Jiang Yi's face went red, and his brains became</seg>
       </tuv>
     </tu>
     <tu>
