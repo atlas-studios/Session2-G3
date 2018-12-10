@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5330,6 +5330,14 @@ To say nothing of being faster than Jiang Henshui, even if he were slower than J
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他现在有变态的修炼速度，有黑色元力如此神奇的能量，那么多有利的条件还不努力修炼，那么他就是真的是废材了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T065544Z" creationid="USER" creationdate="20181210T065544Z">
+        <seg>He has </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>他的意思很明显，江逸在这，他不方面下手偷药……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T012055Z" creationid="Joey" creationdate="20180807T153154Z">
@@ -6658,6 +6666,16 @@ Additionally, once his sense of smell became stronger, he was able to smell even
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180923T195654Z" creationid="Joey" creationdate="20180923T195654Z">
         <seg>Returning to the Great Hall, Jiang Yi had very quickly felt silently excited in his heart as he sat down cross-legged. The five-year sale of his person has at least relieved him of his crisis in the short term. With the advance of ten taels of purple gold coming after ten days, which he could bring to the Fengyue Brothel and redeem his command token, all will be well at long last. As for Jiang Rulong? Jiang Yi no longer took him to heart. With the Martial Arts Hall presently providing him with elixirs, he had great confidence; furthermore, with his power-level stages of the Cast Tripod Realm continuously increasingly in the immediate short term, so long as his power level reached the fourth stage of the Cast Tripod Realm, he would have no need to fear Jiang Rulong.   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>回到房间后，江逸直接闭关了，他现在迫切需要变得强大，变强之心从所未有的强烈。他明白一个道理，要想主宰自己的人生，要想随心所欲的过自己的生活，那就必须成为强者。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T065648Z" creationid="USER" creationdate="20181210T065519Z">
+        <seg>After retreating to his room, Jiang Yi started to contemplate. 
+
+What I needed to do now is to make myself stronger. I understand that if I want to take charge of my life, and live life the way I wish to, authority is a must.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10129,6 +10147,15 @@ This person not only maintained his position as a person of outstanding talent w
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>江逸一阵头疼，目前只能走一步看一步了，至于小胖子会不会把他卖了，这一点他不担心。要卖的话钱万贯也不会想方设法接近他了，直接去找江逆流更好一些。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T065044Z" creationid="USER" creationdate="20181210T065044Z">
+        <seg>Jiang Yi felt so troubled. At the present moment, the only thing he could do is to proceed with precaution. He is not worried about Piggy's loyalty to him. If Piggy wanted to betray him, he would have gone to Jiang Ni Liu and not have tried to befriend to him.
+ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>江逸不懂炼丹，生怕把差事给干砸了，连忙慌乱的运转元力，拼命注入丹炉内。而在慌乱之中，他不小心……把两缕黑色元力一起给运转出来，融合了蓝色元力内注入了丹炉。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055749Z" creationid="Joey" creationdate="20180811T202442Z">
@@ -13013,8 +13040,10 @@ At the moment of impact, that martial artist at the third stage of the Cast Trip
       <tuv lang="ZH-CN">
         <seg>江逸面色沉了下来，要想得到学院的重视，那必须成为精英学员，这样才能有机会认识那位天阶的治疗师，从而求他治疗江小奴。也只有成为精英学员才能得到驯化灵兽的秘术，而一旦成为精英学员，将会引起各大家族的注意和招揽，资料也会无可避免的被调查……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181210T064249Z" creationid="USER" creationdate="20181210T063430Z">
-        <seg>Jiang Yi's face dimmed. In order to gain the respect of the college, I must become an elite scholar. It will then give me opportunity to meet the therapist of the Upperworld, to save Jiang Xiaonu's life. However, only the elite scholars would be taught the secrets in the taming of the spiritual beasts. If I were to become an elite scholar, I would attract the attention of the family clans, and my identity would naturally be under investigation.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T064540Z" creationid="USER" creationdate="20181210T063430Z">
+        <seg>Jiang Yi's face dimmed. 
+
+In order to gain the respect of the college, I must become an elite scholar. It will then give me opportunity to meet the therapist of the Upperworld, to save Jiang Xiaonu's life. However, only the elite scholars would be taught the secrets in the taming of the spiritual beasts. If I were to become an elite scholar, I would attract the attention of the family clans, and my identity would naturally be under investigation.</seg>
       </tuv>
     </tu>
     <tu>
