@@ -1030,3 +1030,5 @@
 钱万贯	Qian Wanguan
 大爷爷	Grandfather
 江别离	Jiang Bie Li
+导师	mentor
+学员	candidate
