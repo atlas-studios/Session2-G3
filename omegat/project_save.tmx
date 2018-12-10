@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1554,8 +1554,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“嘿嘿！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181210T060825Z" creationid="USER" creationdate="20181210T060825Z">
-        <seg>"Haha!"</seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T062425Z" creationid="sangni" creationdate="20181210T062425Z">
+        <seg>"Hehe"</seg>
       </tuv>
     </tu>
     <tu>
@@ -1684,6 +1684,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T054909Z" creationid="Joey" creationdate="20180808T155052Z">
         <seg>"Alright, trust in your young master; I will come up with a plan. Head on in."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好吧……我说实话！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T062323Z" creationid="sangni" creationdate="20181210T062323Z">
+        <seg>"Okay... I'll speak the truth!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -2340,6 +2348,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T061835Z" creationid="Joey" creationdate="20180813T145226Z">
         <seg>"I have talent my ass."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我的身份？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T062511Z" creationid="sangni" creationdate="20181210T062511Z">
+        <seg>"My identity?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -4004,6 +4020,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T062106Z" creationid="USER" creationdate="20180809T065431Z">
         <seg>the condition had changed completely!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一名导师走了过来，江逸连忙将包裹内的令牌全部取了出去，那导师又询问了江逸的名字年龄，这才朝导师群中沉喝道：“学员江逸，得到令牌总四十七枚，通过血炼，目前排名第十八。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T055817Z" creationid="sangni" creationdate="20181210T055817Z">
+        <seg>When a mentor had walked over, Jian Yi hastily removed all the tokens that were stored in the bag. The mentor then enquired about Jiang Yi's name and age, and shouted towards the group of mentors, "Candidate Jiang Yi, acquired a total of 47 tokens and passed the blood refining process, he is currently at the 18th place.</seg>
       </tuv>
     </tu>
     <tu>
@@ -7144,6 +7168,14 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>姬听雨和那个冰山美人苏若雪导师美眸亮了起来，战无双和旁边的黑衣少女微笑颔首，几人对于江逸能获得足够的令牌一点不觉得奇怪，江逸的实力在他们眼里可是很强横的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T054443Z" creationid="sangni" creationdate="20181210T053216Z">
+        <seg>The beautiful eyes of Ji Tingyu and ice beauty Mentor Su Ruoxue lit up, while Zhan WuShuang and the maiden dressed in black nodded smilingly, they were not surprised by the ability of Jiang Yi to obtain the token, as Jiang Yi was tough and overbearing in their eyes.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>姬听雨和鹤大师对视了一眼，两人眼中都闪过一丝愕然，炼出丹纹的丹药竟然卖二十两银子一枚？能炼制出这样丹药的炼丹师会在意这点小钱？难道这少年是偷了别人的丹药？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180910T043829Z" creationid="USER" creationdate="20180812T103417Z">
@@ -7364,6 +7396,14 @@ Two fingers stabbed forward towards his opponent's eyes like arrows.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>导师的话引起一片哗然，江逸只有铸鼎境五重，竟能通过血炼？还排名在前二十？莫非江逸和战无双一样也是特殊种族？隐瞒了实力？或者江逸身份特殊？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T061019Z" creationid="sangni" creationdate="20181210T061019Z">
+        <seg>The mentor's words had invited a commotion, Jiang Yi was only in the fifth stage of the Cast Tripod Realm , yet he was able to pass the blood refining process? He was placed in the top 20? Could it be that Jiang Yi is just like Zhan Wushuang, he is of a peculiar species? Did he hide his actual capabilities, or does he have a special identity?  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>封印仅仅刚开始破解，江水决的修炼速度竟提升了两倍，尽管还是很慢很慢，但他已经看到了一缕曙光，一道希望之门……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T142142Z" creationid="Joey" creationdate="20180817T030911Z">
@@ -7482,6 +7522,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       </tuv>
       <tuv lang="EN-US" changeid="Ho Jin Liang" changedate="20181203T125506Z" creationid="Ho Jin Liang" creationdate="20181203T125347Z">
         <seg>Right at this crucial moment was a cold voice from the side door. A gigantic and stalwart figure dashed in and saw Jiang Yi's fist approaching Jiang Ruhu's back, he shouted furiously, "You brat! How dare you hurt my younger brother? You shall die today for sure."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>就在这时，山顶的另外一边数人飙射而上，吸引了众人的注意。江逸连忙快速走进人群中，这才顺着众人目光看去，这一看之下他脸色立即沉了下来，来的是长孙家那位少爷，还有江麒麟小胖子钱万贯等人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T062258Z" creationid="sangni" creationdate="20181210T062258Z">
+        <seg>Just at that moment, the people on the other side of the summit suddenly rised and attracted the attention of the mass. Jiang Yi hurriedly walked into the human crowd and looked in the direction of the masses, his   </seg>
       </tuv>
     </tu>
     <tu>
@@ -13761,6 +13809,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180813T150523Z" creationid="Joey" creationdate="20180813T150523Z">
         <seg>Chapter 12: Crawling Back</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第十五章 世子殿下</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T053118Z" creationid="sangni" creationdate="20181210T053118Z">
+        <seg>Chapter 15: Royal Highness</seg>
       </tuv>
     </tu>
     <tu>
