@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -7502,6 +7502,14 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>小胖子委屈的看着江逸，看到他又要打，连忙摆手道：“我之所以想结交大哥，是因为你……的身份！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T063541Z" creationid="sangni" creationdate="20181210T062953Z">
+        <seg>Little Fatty looked at Jiang Yi pitifully, seeing that Jiang Yi was about to be beaten again, he hurriedly explained, "The reason for me wanting to associate with you and make you my brother is because ... of your identity!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>小胖子脸上的笑容凝固，面色认真起来，点头道：“行，大哥你说吧，你这人情我要定了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181210T060352Z" creationid="USER" creationdate="20181210T060352Z">
@@ -7536,8 +7544,8 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       <tuv lang="ZH-CN">
         <seg>就在这时，山顶的另外一边数人飙射而上，吸引了众人的注意。江逸连忙快速走进人群中，这才顺着众人目光看去，这一看之下他脸色立即沉了下来，来的是长孙家那位少爷，还有江麒麟小胖子钱万贯等人。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181210T062258Z" creationid="sangni" creationdate="20181210T062258Z">
-        <seg>Just at that moment, the people on the other side of the summit suddenly rised and attracted the attention of the mass. Jiang Yi hurriedly walked into the human crowd and looked in the direction of the masses, his   </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T063434Z" creationid="sangni" creationdate="20181210T062258Z">
+        <seg>Just at that moment, the people on the other side of the summit suddenly rised and attracted the attention of the mass. Jiang Yi hurriedly walked into the human crowd and looked in the direction of the masses, his face instantly turned dark, it was the Young Master of the Zhangsun Family, and also Qian QiLin, Little Fatty, Qian Wan Guan etc.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -15357,6 +15365,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T153404Z" creationid="USER" creationdate="20180811T122203Z">
         <seg>Since this alchemist was from the Pearl Gathering Pavilion, his abilities were definitely not poor. Elder Liu was a superior-grade alchemist and was of a high Elder status at the Jiang Clan. One could easily tell that the status of alchemists was high. How could he ever dare to accept this one greeting?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这群人刚才在下面还打打杀杀的，此刻却宛如什么事都没有发生，和和气气的走来上来，各自将灵牌交了上去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181210T063742Z" creationid="sangni" creationdate="20181210T063525Z">
+        <seg>The group of people were just fighting each other at the previous moment and yet they behaved as if there wasnt, they walked up together </seg>
       </tuv>
     </tu>
     <tu>
