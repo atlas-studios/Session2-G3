@@ -1023,3 +1023,5 @@
 小胖子	Piggy
 钱万贯	Qian Wan Guan	Junior, follower of Di Yuan Dan
 世子	Crowned Prince
+江云海	Grand Elder Jiang Yun Hai
+身世	origins
