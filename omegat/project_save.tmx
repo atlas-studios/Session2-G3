@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3220,6 +3220,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“苍狼参见白管事！我是杨管事……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T030703Z" creationid="USER" creationdate="20181210T025801Z">
+        <seg>“Greetings Manager Bai! I am Manager Yang……”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“苍狼！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181024T160808Z" creationid="tianqi" creationdate="20181024T160808Z">
@@ -5656,6 +5664,14 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>偏殿内没有护卫，只有一个中年管事。这管事正在看看一本古籍，江逸取出令牌将杨管事的话复述了一遍，那管事好奇的扫了江逸一眼，伸手指着偏殿内的一个房间说道：“你去里面挑选三本秘籍吧！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T051346Z" creationid="USER" creationdate="20181210T051346Z">
+        <seg>There are no security officers in the side hall, only a middle-aged manager who is reading an ancient text. Holding the command token in his hands, Jiang Yi reiterated Manager Yang's words. Glancing at  Jiang Yi curiously, the manager pointed to a room in the side hall and said, "Go and pick three secret manuals!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>元力刚刚融合，两个拳头就对撞而上，江逸身子一震倒退了三四步，没事！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T014452Z" creationid="USER" creationdate="20180807T130458Z">
@@ -7674,6 +7690,14 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>当然在武殿内，你只要有实力也能赚钱，你可以在这接受各种任务，比如猎杀妖兽，寻找珍贵药草，比如接受暗杀任务。在这里赚了钱后，你用这些钱又可以在武殿继续快速提升实力，然后又去接更高级的任务……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T030628Z" creationid="USER" creationdate="20181210T030628Z">
+        <seg>Of course, in Wu Dian, you can make money as long as you have the strength. You can accept various tasks here, from hunting monsters, looking for precious herbs, to accepting assassination missions. After making money here, you can use this money to improve your martial arts, and then take on more advanced tasks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>当然，或许也是因为姬听雨今日的看轻，激起了他心底的傲骨，他也想证明给这个绝色倾城的女子看一看。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181028T113612Z" creationid="tianqi" creationdate="20181028T113458Z">
@@ -9052,6 +9076,14 @@ If one wished to enter the Martial Arts Hall without a level of power in the Pur
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>武殿造就了很多强者，武殿对于武者至关重要，没有武殿整个大陆武者的整体实力都要下降两成，而天星大陆武者数不胜数，如此多的武者也造就了武殿，让它成为了大陆商号中的无冕之王。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T050545Z" creationid="USER" creationdate="20181210T032130Z">
+        <seg>Wu Dian has created a lot of strong people. Crucial to the military, the numerous warriors in the Stellarsky Continent has formed the Wu Dian, which makes up twenty percent of the entire continent. The vast amount of warriors thus make Wu Dian an uncrowned king???.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>武殿！</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180910T230701Z" creationid="USER" creationdate="20180815T034136Z">
@@ -9761,6 +9793,14 @@ He must have wanted to beat me unconscious. Perhaps… he even meant to kill me!
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T152847Z" creationid="Joey" creationdate="20180912T074224Z">
         <seg>Jiang Yi was startled, but quickly came to his senses. Was he himself not the person wearing a wolf mask? He hastily stood up and walked into the technique-practicing room. At the door, however, he made the decision to turn back and scan the room, but all he could see were the gazes of all the remaining sparring partners seemingly observing a moment of silence in tribute of Jiang Yi. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>江逸一怔，这管事也不派人跟着自己？任凭自己进里面观看？他记忆力可是很变态的，过目不忘，这随意给他查看秘籍，不要一个时辰他就能轻松将几十本秘籍背得滚瓜烂熟……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181210T051801Z" creationid="USER" creationdate="20181210T051801Z">
+        <seg>A stupefied Jiang Yi wondered, why does the manager not YADA </seg>
       </tuv>
     </tu>
     <tu>
