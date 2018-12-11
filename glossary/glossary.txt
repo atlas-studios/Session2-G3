@@ -1141,3 +1141,4 @@ MDZZ	fucking retard
 冒险者	Adventurers
 魔法公会	Guild of Magic
 冒险者公会	Adventurers Guild
+魔法师	mage
