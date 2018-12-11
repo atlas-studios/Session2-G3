@@ -1142,3 +1142,5 @@ MDZZ	fucking retard
 魔法公会	Guild of Magic
 冒险者公会	Adventurers Guild
 魔法师	mage
+格兰芬多	Gryffindor
+燃烧火球	Flaming Sphera	A special power
