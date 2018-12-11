@@ -1,4 +1,4 @@
-好马不吃回头草	a good man doesn't backtrack
+﻿好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
 说曹操，曹操到	speak of the devil
@@ -1141,7 +1141,7 @@ MDZZ	fucking retard
 冒险者	Adventurers
 魔法公会	Guild of Magic
 冒险者公会	Adventurers Guild
-魔法师	mage
+魔法师	Mage
 格兰芬多	Gryffindor
 燃烧火球	Flaming Sphera	A special power
 加洛斯魔法公会	Jarrosus Guild of Magic
