@@ -1134,6 +1134,9 @@ MDZZ	fucking retard
 瘟神	pestilence
 麦德林	Macklin
 马森	Mason
-奥拉吉尔	Oleandro
 欧灵	Olive
 大哥	brother
+奥拉吉尔	Oleandro;leader of the Adventurers Guild
+奥兰纳	Alanna
+冒险者	Adventurers
+魔法公会	Guild of Magic
