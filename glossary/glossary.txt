@@ -1144,3 +1144,5 @@ MDZZ	fucking retard
 魔法师	mage
 格兰芬多	Gryffindor
 燃烧火球	Flaming Sphera	A special power
+加洛斯魔法公会	Jarrosus Guild of Magic
+葛瑞安	Gerian
