@@ -28866,8 +28866,8 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       <tuv lang="ZH-CN">
         <seg>没人想被折断四肢，也没人想躺在地上当虾米。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T083859Z" creationid="USER" creationdate="20181211T083859Z">
-        <seg>Neither would ever want to be mutilated nor lie on the ground lifelessly like dried shrimps.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181211T130002Z" creationid="USER" creationdate="20181211T083859Z">
+        <seg>Neither would ever want to be mutilated nor lie lifelessly on the ground like dried shrimps.</seg>
       </tuv>
     </tu>
     <tu>
@@ -36878,6 +36878,14 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180922T022418Z" creationid="Vivian" creationdate="20180914T105425Z">
         <seg>The hubbub continued for about half an hour when at last the hall gradually quiet down. Kevin, standing on the stage, still had the smile on his face as he hit the table with the gavel in his hand. “The auction for the Arcane Magic Potion officially begins now!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>骨折确实有些麻烦，一瓶恢复药剂下去，还不一定能完全治好，想要彻底愈合的话，可能还需要加点料才行……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181211T130035Z" creationid="USER" creationdate="20181211T130035Z">
+        <seg>It is </seg>
       </tuv>
     </tu>
     <tu>
