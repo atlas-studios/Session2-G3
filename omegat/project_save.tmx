@@ -17091,6 +17091,14 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>只可惜，这两个老家伙在锻造上的天赋，实在差得有些吓人，就算跟药剂爱好者安度因比起来，恐怕都还稍稍有些不如，好歹人家安度因还能配几瓶低级药剂呢，这两个老家伙，可是连铁锤都拿得吃力……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T145748Z" creationid="Irene Tan" creationdate="20181211T145748Z">
+        <seg>Its a pity that these two old folks were lacking greatly in terms of talent for forging. By drawing similarities with the pharmaceutics lover, Andoine, they were still lacking in many aspects. No matter what, Andoine was still able to concoct several low level potions. These two old fellows however, are struggling to even hold the hammer... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>只损失了大量的野钢花，这确实是不幸中的大幸，比起智慧之树树叶来，野钢花实在太常见了，它们生长的唯一条件就是阴凉，越是阴暗潮湿的地方越利于它们生长，这种环境随处可见，光是这落日山脉上就有不知道多少。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180831T040257Z" creationid="Vivian" creationdate="20180801T060154Z">
@@ -36748,8 +36756,8 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>难怪这两个老家伙悄悄躲在屋里打铁，原来是因为公会内找不到适合的人选，这才咬了咬牙亲自上阵……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T144935Z" creationid="Irene Tan" creationdate="20181211T144935Z">
-        <seg>No wonder these two old folks were hiding in their homes to forge the iron.  The reason behind it was that the Guild was unable to find a suitable candidate and therefore, they had to grit their teeth and step up and take the challenge. </seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T144949Z" creationid="Irene Tan" creationdate="20181211T144935Z">
+        <seg>No wonder these two old folks were hiding in their homes to forge the iron. The reason behind it was that the Guild was unable to find a suitable candidate and therefore, they had to grit their teeth and step up and take the challenge. </seg>
       </tuv>
     </tu>
     <tu>
