@@ -1147,3 +1147,4 @@ MDZZ	fucking retard
 加洛斯魔法公会	Jarrosus Guild of Magic
 葛瑞安	Gerian
 法兰王国	Felan Kingdom
+级	level-
