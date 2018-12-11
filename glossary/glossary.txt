@@ -1147,9 +1147,11 @@ MDZZ	fucking retard
 加洛斯魔法公会	Jarrosus Guild of Magic
 葛瑞安	Gerian
 法兰王国	Felan Kingdom
-级	level-
 奥斯瑞克	Osrick
 奥德文	Odin
 幽纹魔豹	Fantama Panthera
 红月佣兵团	Ruby Luna soldiers
 千叶酒馆	Thousand Leaf Tavern
+级	level
+奥术飞弹	Arcane Missile
+魔导士	Archmage
