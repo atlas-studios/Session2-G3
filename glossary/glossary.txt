@@ -1150,7 +1150,6 @@ MDZZ	fucking retard
 奥斯瑞克	Osrick
 奥德文	Odin
 幽纹魔豹	Fantama Panthera
-红月佣兵团	Ruby Luna soldiers
 千叶酒馆	Thousand Leaf Tavern
 级	level
 奥术飞弹	Arcane Missile
@@ -1187,3 +1186,4 @@ MDZZ	fucking retard
 地刺术	Pierce Spell
 打铁	ironworks
 老家伙	old fellow
+红月佣兵团	Blood Moon Troops
