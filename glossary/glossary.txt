@@ -1163,3 +1163,4 @@ MDZZ	fucking retard
 加洛斯	Jarrosus
 麦格雷尼	McGrenn
 洛特丹公会	Rosterdam Guild
+恢复药剂	Recovery Potion
