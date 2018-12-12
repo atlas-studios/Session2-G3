@@ -1185,4 +1185,5 @@ MDZZ	fucking retard
 飞火流星	Fiery Meteoroid	A skill
 血狼	Blood Wolves
 地刺术	Pierce Spell
-
+打铁	ironworks
+老家伙	old fellow
