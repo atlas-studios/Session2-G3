@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -149,8 +149,8 @@ Although Lin Li has seen many who decided to betray their own team in the very l
       <tuv lang="ZH-CN">
         <seg>“……”林立只觉得一脑袋的黑线，这老家伙真是吃饱了撑的，堂堂大魔导士，想要什么弄不到？有必要搞成这样吗……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181212T151317Z" creationid="sangni" creationdate="20181212T151317Z">
-        <seg>"...", Lin Li was speechless and confused, feeling that the old fellow </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181212T151502Z" creationid="sangni" creationdate="20181212T151317Z">
+        <seg>"...", Lin Li was speechless and confused, feeling that the old fellow had nothing else to do. The old fellow was a great Archmage, what else would be unattainable for him? Why did he need to make things difficult...  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5706,6 +5706,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“快……把门关好！”林立刚一进屋，就听见火炉旁有人说话。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181212T151602Z" creationid="sangni" creationdate="20181212T151602Z">
+        <seg>"Hurry up... Close the door!", Lin Li had just entered the house and he heard someone speaking beside the fireplace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“快三更了，拖了这么久，得尽快把伤口处理好，免得小奴回来唠叨！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T011444Z">
@@ -6664,6 +6672,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180802T160447Z">
         <seg>"I need an explanation!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我靠……”看清这个驼背老人的那一刻，林立觉得自己真的疯掉了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181212T153238Z" creationid="sangni" creationdate="20181212T153238Z">
+        <seg>"Damn it...", Lin Li cursed after looking clearly at the hunchbacked elderly. He felt as though he had really went crazy at that moment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14995,6 +15011,14 @@ The threads of friendship he had formed with Jiang Henshui when they were childr
         <seg>Looking at Jiang Yi's current state, Qian WanGuan dared not persuade him excessively and nodded in approval, uttering, "Sure, I give you my promise that I would not leak this information to any people. However, the information about you is too obvious and anyone who goes to the Skyplume City to check will know.
 
 Unless you conduct a massacre at the Skyplume City, your identity will not be concealed. If Jiang QiLin goes on to check your information and reports it to Western Garrison Liege Lord..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>他真的很想问问这两个老家伙，现在世道真有那么艰难吗？连你们都沦落到打铁的地步了……麦德林也就算了，现在连奥德文，这个二十一级的传奇法师，居然也敢往火炉旁边站！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181212T153401Z" creationid="sangni" creationdate="20181212T153241Z">
+        <seg>Lin Li really wanted to confront the two old fellows and question them abut whether times were really that hard for them? Even the elders had fallen to having to work as a blacksmith... forget about Macklin, even Odin</seg>
       </tuv>
     </tu>
     <tu>
@@ -30642,6 +30666,14 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>火炉旁的老人又矮又瘦，身上穿着一件宽大的黑色法师袍，远远看去还有些驼背，清脆的敲打声中，老人正吃力的挥动铁锤，在铁砧上砸起一片耀眼的火星。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181212T153154Z" creationid="sangni" creationdate="20181212T153154Z">
+        <seg>The old man beside the fireplace seemed short and skinny, while he wore a loosely fitted black mage robe. Looking from afar, he appeared to be hunchbacked. While a clear striking sound was heard, the old man was seen swinging the hammer with difficultly, he had created a shining galaxy on the anvil. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>火焰中的天帝无名静静地凝望着碎片消失的远方，半响，他叹了口气，转头看向冥皇：“老不死，你虽然惊才绝艳，但终究不算神仙，只望你在接下来的日子里悠着点，统治别太过头。须知你我最初皆是大道的一员，从某种意义上说，和众生并无差别。善因多了，说不定会有天道积攒其中，最终帮助你我跳出循环。大概，我今生成仙所差的那一点契机就藏在其中吧……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20180825T005933Z">
@@ -30888,6 +30920,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181013T020025Z">
         <seg>Then, Rowling, who had been sitting there quietly, noticed the look on Old Grimm's face changed at once. It was a look of disbelief, as if what he had seen was not a blue glass bottle, but an elephant who had been bitten to death by an ant.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>然后，林立就疯掉了……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181212T151614Z" creationid="sangni" creationdate="20181212T151614Z">
+        <seg>Lin Li went crazy after then...</seg>
       </tuv>
     </tu>
     <tu>
