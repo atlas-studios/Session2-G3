@@ -5704,8 +5704,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“恩。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181212T053530Z" creationid="Irene Tan" creationdate="20181212T053530Z">
-        <seg>“Alright!"</seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181212T053638Z" creationid="Irene Tan" creationdate="20181212T053530Z">
+        <seg>“Thats right."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6740,6 +6740,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180823T072003Z" creationid="Vivian" creationdate="20180823T070131Z">
         <seg>"Doesn't matter. Your son is a piece of cake anyway..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“日出城魔法公会来的，叫什么马迪亚斯，另外两个家伙，都是跟他一个小队，叫什么名字我倒是忘了，听说昨天的试炼任务，他们这个小队完成的很不错，估计有点实力……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181212T053646Z" creationid="Irene Tan" creationdate="20181212T053646Z">
+        <seg>"</seg>
       </tuv>
     </tu>
     <tu>
