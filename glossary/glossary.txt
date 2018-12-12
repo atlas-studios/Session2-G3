@@ -1155,3 +1155,5 @@ MDZZ	fucking retard
 级	level
 奥术飞弹	Arcane Missile
 魔导士	Archmage
+费雷	Felic
+魔力反馈	Back Coupling Spell
