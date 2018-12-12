@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24095,8 +24095,8 @@ With his strength still stuck at the first stage of the Cast Tripod Realm, shoul
       <tuv lang="ZH-CN">
         <seg>早上一出门，就杀了一头幽纹魔豹，跟着又在千叶酒馆里，跟红月佣兵团的人干了一架，还用冰锥杀了一个冒险者，下午回到魔法公会，有被两个老家伙弄去打铁，这一天搞下来，真是人都快累散架了，就算林立再怎么精力充沛，此时也是忍不住有些犯困。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T155253Z">
-        <seg>After leaving his house in the morning, he killed a Fantama Panthera, followed by having a fight with the Ruby Luna soldiers at the Thousand Leaf Tavern. 
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181212T154837Z">
+        <seg>After leaving his house in the morning, he killed a Fantama Panthera, followed by having a fight with the Blood Moon Troops at the Thousand Leaf Tavern. 
 
 He also killed an Adventurer by shooting icicles. In the afternoon, he returned to the Guild of Magic and was dragged by the two old folks to forge iron. With such a hectic schedule today, he was beyond beat. Although Lin Li was a person bursting with energy, he couldn't help but feel tired currently.     </seg>
       </tuv>
