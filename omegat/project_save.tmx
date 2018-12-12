@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5716,8 +5716,8 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       <tuv lang="ZH-CN">
         <seg>“快去快去，你们只有一个下午的时间，如果今天天黑之前，还不能把那件东西给我拿出来的话，哼哼……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T065452Z">
-        <seg>"Swift, swift. You only have an afternoon to complete the task. If you fail to get the object back to me before the sky darkens, hehhehheh..."</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181212T152143Z">
+        <seg>"Swift, swift. You only have an afternoon to complete the task. If you fail to get the object back to me before the sky darkens, heh..."</seg>
       </tuv>
     </tu>
     <tu>
