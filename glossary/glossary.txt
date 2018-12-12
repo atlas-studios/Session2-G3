@@ -1165,3 +1165,24 @@ MDZZ	fucking retard
 洛特丹公会	Rosterdam Guild
 恢复药剂	Recovery Potion
 日出城魔法公会	City of Ortus' Guild of Magic
+洛丹特	Rosterdam
+最高议会	Supreme Council
+恢复药剂	Recovery Potion
+怒焰法袍	Robe of Wrath
+寒冬法杖	Winter Staff	a magic equipment
+加洛斯	Jarrosus
+噩梦山脉	Mountains of Koshmar	Name of the mountains
+漂浮术	Levitation Spell
+迅捷术	Hastening Spell
+羽落术	Feather Fall Spell
+传奇境界	Legendary Realm
+飞行术	Power of Flight
+狮鹫	Griffin
+幽纹猎豹	Fantama Panthera
+三眼血狼	Three-eyed Blood Wolves	A type of wolf species
+落日山脉	Sunset Mountains
+黑暗魔法	Dark Magic
+飞火流星	Fiery Meteoroid	A skill
+血狼	Blood Wolves
+地刺术	Pierce Spell
+
