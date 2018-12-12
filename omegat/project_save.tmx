@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19300,6 +19300,14 @@ with the time that the elixir medical efficacy lasted also having extended up to
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180830T051423Z" creationid="cktal" creationdate="20180813T075031Z">
         <seg>A mighty level-eight magical beast beaten to the ground, where did its previous arrogance go?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>堂堂十九级的大魔导士，却悄悄躲在屋里打铁……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181212T150336Z" creationid="sangni" creationdate="20181212T150336Z">
+        <seg>Despite being a level 19 archmage, he was quietly peening in the house.</seg>
       </tuv>
     </tu>
     <tu>
