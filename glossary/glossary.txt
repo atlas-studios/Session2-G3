@@ -1157,3 +1157,4 @@ MDZZ	fucking retard
 魔导士	Archmage
 费雷	Felic
 魔力反馈	Back Coupling Spell
+费雷	Felic	A new identiy that Andoine created for Lin Li
