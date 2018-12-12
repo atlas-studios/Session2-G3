@@ -18435,6 +18435,14 @@ What I needed to do now is to make myself stronger. I understand that if I want 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>在加洛斯冒险者公会里，想麦格雷尼这样的六级战士，就已经算是不错的了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181212T040341Z" creationid="ACER" creationdate="20181212T040341Z">
+        <seg>In Jarrosus Adventurers Guild, a level-six adventurer like McGrenn is already not bad. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>在加洛斯城年轻人中，凯文也算是首屈一指的天才了，从一懂事起就接触魔法，一直到二十五岁成为八级魔法师，这种速度连骄傲的克伦威尔都不得不说个服字，可一到了林立这妖孽面前，自己的天才就忽然变得什么都不是了，从一无所知到八级魔法师，再从八级突破到九级之上，前前后后满打满算，也不过三个多月时间，这样的人与禽兽有什么区别？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180921T024614Z" creationid="Vivian" creationdate="20180906T053033Z">
@@ -20741,8 +20749,8 @@ He released a long sigh and gave a malevolent look. Gritting his teeth, he swore
       <tuv lang="ZH-CN">
         <seg>就连冒险者公会出入的人群，也跟加洛斯有着很大的不同。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181212T035944Z" creationid="ACER" creationdate="20181212T035944Z">
-        <seg>Even the Adventurers entering the Adventurers Guild differ vastly from Jarrosus. </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181212T035956Z" creationid="ACER" creationdate="20181212T035944Z">
+        <seg>Even the Adventurers entering the Adventurers Guild differed vastly from Jarrosus. </seg>
       </tuv>
     </tu>
     <tu>
