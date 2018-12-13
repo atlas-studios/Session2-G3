@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1377,6 +1377,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="ACER" changedate="20181213T090355Z" creationid="ACER" creationdate="20181213T090355Z">
         <seg>"Leader Ina... .... She was met with a mishap!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“伊娜！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T115907Z" creationid="ACER" creationdate="20181213T115907Z">
+        <seg>"Ina!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -9237,8 +9245,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“而真正致命的却是第二个方面，你接触魔法实在太晚了，根据黑暗年代的资料记载，格雷斯科出身于魔法师世家，父母都是黑暗年代著名的大法师，他一出生就开始接触魔法，到你这个年纪的时候，格雷斯科早就已经突破了魔导士的水准，而你却才刚刚开始学习最低级的法术。虽然时间可以靠天赋来弥补，但天赋却不能帮你打下足够坚实的基础，魔法的世界里没有捷径可走，在打下足够坚实的基础之前，一切的强大法术都只不过是空谈。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Vivian" changedate="20180829T054806Z">
-        <seg>"What's really deadly is the second aspect, that is you've been exposed to magic too late. According to the records of the Dark Ages, Geresco was born into a family of mages. His parents were famous mages of the Dark Ages. He had been exposed to magic from birth and by the time he got to your age, he had already surpassed the standards of a Magic Shooter, and you're just beginning to learn the lowest level of magic.While a late start can be compensated for by talent, it does not give you a solid enough foundation. There are no shortcuts in the world of magic, and all powerful spells are nothing but talk until a solid foundation is laid.”</seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T120425Z">
+        <seg>"What's really deadly is the second aspect, that is you've been exposed to magic too late. According to the records of the Dark Ages, Geresco was born into a family of mages. His parents were famous mages of the Dark Ages. He had been exposed to magic from birth and by the time he got to your age, he had already surpassed the standards of a Magic Shooter, and you're just beginning to learn the lowest level of magic. While a late start can be compensated for by talent, it does not give you a solid enough foundation. There are no shortcuts in the world of magic, and all powerful spells are nothing but talk until a solid foundation is laid.”</seg>
       </tuv>
     </tu>
     <tu>
@@ -9822,6 +9830,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“费……费雷先生？”在这一刻，伊娜几乎以为自己是在做梦，她怎么也没有想到，在千里之外的奥兰纳，自己竟还能见到这个年轻的魔法师，林立的出现，勾起了伊娜无数的回忆，她想起了落日山脉，想起了双足飞龙，想起了克伦威尔，想起了独自面对一群魔导士的父亲……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T120514Z" creationid="ACER" creationdate="20181213T120345Z">
+        <seg>"Fe... ... Mr Felic?" Ina mumbled. At that moment, Ina seemed to think that she was dreaming. She could not believe that Alanna which is so far away from here, she could see the Young Mage and Lin Li's presence led to her memories of the Sunset Mountains, Wyvern, Cromwell and facing a group of Father Wizards alone.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“费雷……出事了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181015T043323Z">
@@ -9874,6 +9890,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180906T040220Z">
         <seg>"Mr Felic... I..." Ina's small, fair hands were clenched, and she was cheering for herself mentally. But after a few stammers of "I", all she said at last was, "Goodbye, Mr Felic."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“费雷先生……爸爸……爸爸他……”先前还异常坚强，手持利剑力抗强敌的姑娘，此时竟“哇”的一声哭了出来。(未完待续，如欲知后事如何，请登陆www.qidian.com，章节更多，支持作者，支持正版阅读！)</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T120824Z" creationid="ACER" creationdate="20181213T120824Z">
+        <seg>"Mr Felic... ... Daddy... ... Daddy he .... ..." Ina mumbled. A women who was seen to be strong and holding on to sharp sword, was actually crying right now!  </seg>
       </tuv>
     </tu>
     <tu>
@@ -35283,6 +35307,14 @@ Only the word "stunning" could be used to describe his Back Coupling Spell. Mack
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180930T114401Z">
         <seg>And the risk he had undertaken was not that high as he had imagined.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>而在那群白银之手的人当中，正有一个手持利剑的身影无比熟悉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T115859Z" creationid="ACER" creationdate="20181213T115859Z">
+        <seg>Among the White Silver Hand Guild people, there was one familiar shadow, holding on to a sharp sword.  </seg>
       </tuv>
     </tu>
     <tu>
