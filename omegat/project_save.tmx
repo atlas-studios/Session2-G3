@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1409,6 +1409,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20180809T090817Z">
         <seg>"Stop!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“何止是认识，我跟他可是老交情了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T091330Z" creationid="sangni" creationdate="20181213T091330Z">
+        <seg>"We aren't only acquaintances, we are old friends." </seg>
       </tuv>
     </tu>
     <tu>
@@ -4960,6 +4968,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“安度因没告诉过你？”奥德文笑了笑，脸上露出几分无奈：“那老家伙，可是跟我吹过好几次了，说自己在落日山脉上白捡了个天才。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T090428Z" creationid="sangni" creationdate="20181213T090428Z">
+        <seg>"Didn't Andoine tell you?", Odin laughed and helplessly said, "That old fellow had lauded about effortlessly discovering a genius by the Sunset Mountains.    </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“安度因法师说他还有些事情要办，大概要过一两周才能回加洛斯城。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180806T094534Z">
@@ -5132,6 +5148,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180811T181426Z">
         <seg>"Right, off to the Elixir Room to retrieve an elixir!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“对了，我还有个孙子，你肯定也认识。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T105348Z" creationid="sangni" creationdate="20181213T105348Z">
+        <seg>"Right, I have a grandson and you would definitely know him."</seg>
       </tuv>
     </tu>
     <tu>
@@ -6242,6 +6266,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“您孙子？”林立又莫名了，说认识安度因也就算了，怎么还有个孙子自己也认识的？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T105444Z" creationid="sangni" creationdate="20181213T105444Z">
+        <seg>"Your grandson?", Lin Li was puzzled. Nevermind that the old fellow knew who Andoine was, but he still had another grandson who Lin Li knew of?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“您就是葛瑞安会长吧？”林立赶紧翻了翻口袋，从里面掏出安度因的信递了过去：“我叫费雷，是安度因法师叫我来找您的，这是他给您写的一封信。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180906T040925Z">
@@ -6278,6 +6310,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181007T085930Z">
         <seg>"You really flatter me." Lin Li's expression was modest and respectful, but his eyes were furtively glancing at Bathrilor. He was silently calculating the time Bathrilor's hands were bleeding while repressing him with a hint of mental strength.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“您认识安度因？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T090458Z" creationid="sangni" creationdate="20181213T090458Z">
+        <seg>"Do you know who is Andoine?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -11218,6 +11258,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180906T041546Z">
         <seg>"Anytime!" Gerian pulled Lin Li up the stairs. His chubby face was completely distorted from trying so hard to hold back his emotions. He wanted to pull Andoine into his arms and give him a few pecks on his cheeks. The old chap had been too lovely, he had to thank him when he returned to Jarrosus City.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“难怪……”林立这才明白过来，原来是这么回事，难怪今天早上在公会大厅的时候，这老头会无缘无故的对着自己笑，原来他早知道自己是谁了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T105322Z" creationid="sangni" creationdate="20181213T105322Z">
+        <seg>"No wonder...", Lin Li had finally realized why the old fellow had laughed at him in the morning while he was at the the guild's hall. The old fellow had figured out who Lin Li was long ago. </seg>
       </tuv>
     </tu>
     <tu>
