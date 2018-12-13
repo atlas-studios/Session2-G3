@@ -211,6 +211,14 @@ Although Lin Li has seen many who decided to betray their own team in the very l
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“……”林立真想一脚踹在他脸上，铁匠……还很厉害的一种职业？欺负我是从加洛斯来的是吧？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T114759Z" creationid="sangni" creationdate="20181213T114657Z">
+        <seg>"...", Lin Li desperately wanted to kick him in the face. Blacksmith...is a formidable occupation? Your'e looking down on me for coming from Jarrosus right? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“……”罗琳是真的想学习药剂，她从小就学习医术，又曾受过药剂师指点，等到医术渐渐精深之后，才发现很多医术难以解决的问题，其实只需要一瓶小小的药剂，但安瑞尔世界药剂师如凤毛麟角，即便是以罗琳的尊贵身份，学习药剂也是一件虚无飘渺的事。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181005T033750Z">
@@ -5874,6 +5882,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“当然，你也用不着紧张。”见林立没吭声，麦德林很满意的拈着山羊胡子，死不要脸的吹嘘起来：“有我们这两个锻造大师在，包你很快就能成为一个不错的铁匠，来来来……你先看看，我是怎么使用铁锤的……这可是技术含量很高的事。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T115017Z" creationid="sangni" creationdate="20181213T115017Z">
+        <seg>"Of course, but you dont have to be nervous.", seeing Lin Li stay quiet made Macklin extremely proud of himself. He held his goatee and shamelessly boasted, "With such formidable trainers like us, I'll guarantee that you'll become a skilled blacksmith soon...you shall first observe how I am going to sue the hammer...this is a technical matter."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“很好。”老家伙点了点头，又从口袋里摸出了一张地图：“我在那片树林里的某个地方，藏了一件有趣的东西，而你们的任务，就是根据这张地图，去把那件东西找出来，并且交到我手里。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181212T055656Z">
@@ -10360,8 +10376,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“这个……这个叫锻造！”麦德林可不管这些，使劲吹嘘起来：“铁匠知道吧？很厉害的一种职业！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T114621Z" creationid="sangni" creationdate="20181213T114621Z">
-        <seg>"This...this is called forging!", Macklin couldn't be bother with these and just started boasting, "You know who's a blacksmith? It's a formidable career!" </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T114706Z" creationid="sangni" creationdate="20181213T114621Z">
+        <seg>"This...this is called forging!", Macklin couldn't be bother with these and just started boasting, "You know who's a blacksmith? It's a formidable occupation!" </seg>
       </tuv>
     </tu>
     <tu>
