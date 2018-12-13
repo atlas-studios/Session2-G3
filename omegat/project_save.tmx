@@ -7198,6 +7198,14 @@ The collaboration of the trio had only enabled them to slain 20 wolves. Now that
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“是不是我眼花了……刚才那个真是燃烧火球？怎么可能轰不死人的……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T035057Z" creationid="Irene Tan" creationdate="20181213T035057Z">
+        <seg>"Did I see wrongly... was that really the Flaming Sphera? How is it possible that it didn't killed him..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“是你？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="ACER" changedate="20181210T063624Z">
@@ -36616,8 +36624,8 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
       <tuv lang="ZH-CN">
         <seg>这一声咒骂，就好象会传染一样，很快在人群中蔓延开来，随之而起的，是一阵窃窃私语的声音。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T034937Z" creationid="Irene Tan" creationdate="20181213T034937Z">
-        <seg>Soon, the curses spread like wildfire and there was a sudden frenzy of bustling among the crowd. </seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T034947Z" creationid="Irene Tan" creationdate="20181213T034937Z">
+        <seg>Soon, the curses spread like wildfire and there was a frenzy of bustling among the crowd. </seg>
       </tuv>
     </tu>
     <tu>
