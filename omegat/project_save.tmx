@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1249,6 +1249,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T044839Z">
         <seg>"Look like? These are the divinity metals. Oh, God! More than twenty pieces, did this low-level mage just rob a dragon?“ The guy had guessed it half right, Lin Li had indeed raided a dragon's lair. But at the same time while raiding the dragon's lair, he had finished off the Dragon of Destruction Azardas. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“什么忙？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155322Z" creationid="sangni" creationdate="20181213T155322Z">
+        <seg>"What do you need?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -5865,6 +5873,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180801T043007Z">
         <seg>“How about helping me?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“帮我们打造一把魔法武器！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155401Z" creationid="sangni" creationdate="20181213T155401Z">
+        <seg>"Please help us build a magical weapon!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -10736,6 +10752,14 @@ Just as Lin Li was about to help Olive up, he spotted Mason from afar who was pa
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这个……”林立神色间有些犹豫，魔法武器倒不难打造，反正这两个老家伙都没什么追求，随便弄两件带魔法属性的武器，估计就能把他们敷衍过去，可林立总觉得，这件事不太正常，从头到尾都好象透着一种诡异气息。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155841Z" creationid="sangni" creationdate="20181213T155841Z">
+        <seg>"This...", Lin Li hesitated a while and thought, a magical weapon was not difficult to build, since the two old fellows had nothing else to ask for, simply creating two weapons with magical properties would be able to please them easily. However, Lin Li still felt skeptical about the favor they had asked for. They didn't seem to have pure intentions and the favor appeared to be rather shady. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这个……原来您就是大名鼎鼎的格林－伯恩塞德魔法师！真是久仰久仰……”在老格林矜持的目光下，林立面露惊骇之色，一边拼命在脸上挤出惊喜交加的表情，一边却已悄悄的捅了捅身旁的凯文，以极隐蔽极隐蔽的声音悄悄问道：“格林－伯恩塞德到底是谁？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181013T142610Z">
@@ -13889,6 +13913,14 @@ He had just the right time to carefully research the black essence force.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>两个超级强者躲在屋里打铁，这件事就先不说了，也许是爱好，也许是兴趣，大千世界无奇不有，反正连艾斯艾姆都有很多爱好者，打打铁好象也没什么大不了的……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T160414Z" creationid="sangni" creationdate="20181213T160414Z">
+        <seg>Not mentioning the fact that two powerful people were hiding in the house to work on ironworks, as they might have been engaging in their hobby or interest. The world is filled with many interesting and different things, even Ace and Ames had fans, ironworks weren't that weird at all.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>两个魔力回路分别通往尾端魔晶，从那里源源不断的吸取着魔力，二十六个魔力节点分别包围着一红一绿两块宝石，就仿佛众星拱月一般，将两道魔纹的力量，通过一红一绿两块宝石彻底激发出来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181001T035604Z">
@@ -15165,6 +15197,14 @@ Due to unknown reasons, Jiang BieLi did not marry his mother and his mother left
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180831T040831Z">
         <seg>He turned his head in a hurry, just in time to see a dark-red shadow lurking there.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>仔细想想看……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155905Z" creationid="sangni" creationdate="20181213T155905Z">
+        <seg>When he thought carefully...</seg>
       </tuv>
     </tu>
     <tu>
@@ -19737,6 +19777,14 @@ It was definitely the case that as he could not identify the additional ingredie
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T064859Z" creationid="Irene Tan" creationdate="20181213T064859Z">
         <seg>Then again... how do you explain what just happened？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>可是一把普通铁剑，却能换来一条十五级咒语，而且还是一条如此强大的十五级咒语，这可就让林立有些想不通了，麦德林又不是白痴，他会傻到连铁剑和咒语谁更珍贵都分不清楚？林立可从来不觉得自己身上有什么王霸之气，只要虎躯一震，就能唬得麦德林奥德文这种人物纳头便拜。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T163722Z" creationid="sangni" creationdate="20181213T163722Z">
+        <seg>Lin Li was pondering over the deal, why is it that a normal sword could be exchanged for such a powerful, level-15 spell. Macklin was not an idiot and why would he that dumb to not be discerning with the differing values of a sword and a spell? Lin Li had never felt that he had qualifying qualities to be a powerful person, but as long as he displayed his prowess, he would be able to get people like Macklin to be under his calling. </seg>
       </tuv>
     </tu>
     <tu>
@@ -25471,6 +25519,14 @@ Despite this, after researching for a single day, no matter what ideas he could 
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055759Z">
         <seg>From the side room immediately came a furious roar: "Damn it! This cauldron contained Man-tier superior-grade Spirit Pills! I’m going to kill you, Jiang Yi!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>无事献殷勤，非奸即盗！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T163820Z" creationid="sangni" creationdate="20181213T163820Z">
+        <seg>One who is unaccountably solicitous is hiding evil intentions!</seg>
       </tuv>
     </tu>
     <tu>
