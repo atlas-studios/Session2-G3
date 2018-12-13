@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11280,6 +11280,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T111834Z">
         <seg>"Crawl! Crawl through it!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“铁剑打好了，麦德林先生，这个十五级咒语……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T135152Z" creationid="sangni" creationdate="20181213T135152Z">
+        <seg>"The sword has been built, Mr Macklin, the level-15 spell..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -26244,6 +26252,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180911T062714Z">
         <seg>Lin Li fed half a beaker of Purifying Potion into McGrenn's mouth and massaged him for a while to make the potion work as soon as possible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林立将手上铁锤一放，拍了拍手上的灰尘。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T135105Z" creationid="sangni" creationdate="20181213T135105Z">
+        <seg>Lin Li placed the hammer down, before he patted the dust off his hands.</seg>
       </tuv>
     </tu>
     <tu>
