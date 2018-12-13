@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1217,6 +1217,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180917T165924Z">
         <seg>"What's the situation?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“什么！”林立魂都差点背吓掉了，他怎么也没想到，这这这……这老家伙，居然是巴瑟罗尔的爷爷！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T110130Z" creationid="sangni" creationdate="20181213T110130Z">
+        <seg>"What!", Lin Li was bewildered, he had never thought that, this...old fellow was actually Bathrilor's grandfather!</seg>
       </tuv>
     </tu>
     <tu>
@@ -2950,6 +2958,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20180804T031608Z">
         <seg>"Ping!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“呵……呵呵……”林立脸上的笑容很僵，这件事他可是记得轻轻楚楚，远不是断两根手指那么轻松，当时要不是老格林阻拦，他早把巴瑟罗尔给干掉了，如今站在奥德文面前，就算他脸皮再厚，也不禁有些不自在起来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T111804Z" creationid="sangni" creationdate="20181213T111804Z">
+        <seg>"Heh...heh heh...", Lin Li had a stiff smile on his face. He remembers the matter exactly as it is. It is not as easy as just breaking Bathrilor's two fingers. If it wasn't for Old Grimm's obstruction, he would have gotten rid of Bathrilor long ago. Standing infront of Odin was not easy for Lin Li, even if he had no shame, it was still rather awkward for him. </seg>
       </tuv>
     </tu>
     <tu>
@@ -32364,6 +32380,14 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       </tuv>
       <tuv lang="EN-US" changeid="tianqi" changedate="20181028T084635Z">
         <seg>Jiang Yi headed to the Technique Practising Room, inwardly vexed by the faint glance Ma Heiqi and Liu He sent his way before they left.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>看林立反应这么大，奥德文呵呵笑道：“放轻松点小伙子，我不会把你怎么样的，我那孙子不成器，全奥兰纳都知道，你断了他两根手指，让他得了个教训的，这是好事，我奥德文活了一大把年纪，又不是不通情理的人，再说你还是安度因的弟子，那老家伙，我可不能不给面子，听说他最近跟药剂师公会的格林-伯恩塞德走得很近，我以后要求他的事可还多着呢……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T111441Z" creationid="sangni" creationdate="20181213T111441Z">
+        <seg>Seeing Lin Li's reaction, Odin laughed and said, "Chill, I won't do anything to you. The whole city of city Alanna knows that my grandson is useless. When you break his two fingers and let him receive his deserving treatment, this will be a good matter. I've lived a for long time and I'm not an unreasonable person. Moreover, you are Andoine's disciple. I will definitely give that old fellow some face. I've heard that he has close ties with Grimm Burnside of the Pharmacists Guild, I've still got some matters to ask them for help..."  </seg>
       </tuv>
     </tu>
     <tu>
