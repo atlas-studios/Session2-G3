@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -101,6 +101,14 @@ Although Lin Li has seen many who decided to betray their own team in the very l
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180929T020541Z">
         <seg>"..." Little Merlin could see nothing but blackness, and blood almost spat out from his mouth. This fellow was really a lunatic. He didn't even have the strength to speak; he barely managed to lift his arm and with the idea of leaving things to luck at last, he quoted a price with much difficulty, "8... 820,000..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“……”就算是脸皮厚如城墙的麦德林，此时也是不禁老脸一红，只见他手忙脚乱的将铁胚夹起，重新放到铁砧上面，然后又很不要脸的向林立说道：“看到没有，我刚刚为你示范的，就是一次失败的锻造，你以后可千万不能这么干，你可没有我这样的大师级技术，万一失误的话，是很容易伤到人的。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T120126Z" creationid="sangni" creationdate="20181213T120126Z">
+        <seg>"...", even the ultra shameless Macklin felt embarrassed by himself. He picked up the iron embryo hurriedly and placed it on the anvil. He then shamelessly asked Lin Li, "Do you see that, I've just demonstrated the essence of a failure to forge. Remember, you shall never make this mistake and without expertise like myself, doing this will hurt people easily.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5886,6 +5894,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181213T115017Z" creationid="sangni" creationdate="20181213T115017Z">
         <seg>"Of course, but you dont have to be nervous.", seeing Lin Li stay quiet made Macklin extremely proud of himself. He held his goatee and shamelessly boasted, "With such formidable trainers like us, I'll guarantee that you'll become a skilled blacksmith soon...you shall first observe how I am going to sue the hammer...this is a technical matter."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“当！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T115114Z" creationid="sangni" creationdate="20181213T115105Z">
+        <seg>"Dang!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18771,6 +18787,14 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T145817Z">
         <seg>Its a pity that these two old folks were lacking greatly in terms of talent for forging. By comparing them to the pharmaceutics lover, Andoine, they were still lacking in many aspects. No matter what, Andoine was still able to concoct several low level potions. These two old fellows however, are struggling to even hold the hammer... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>只听一声脆响，这一锤结结实实的落到了铁砧上，至于那块已经冷却的铁胚，被铁锤这么一碰，“当”的一下就落到了地上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T115733Z" creationid="sangni" creationdate="20181213T115733Z">
+        <seg>With a sniffle, the hammer solidly fell on the anvil. As for the iron embryo that had cooled down, it fell on the floor with a "Dang" sound when it was hammered. </seg>
       </tuv>
     </tu>
     <tu>
@@ -31840,6 +31864,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T111221Z">
         <seg>"Next, would be the amount of members we have. Based on this aspect alone, the Guild of Magic already pale in comparison.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>然后林立就看见，这老家伙居然是双手举起铁锤……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T115045Z" creationid="sangni" creationdate="20181213T115045Z">
+        <seg>It was after then that Lin Li saw, the old fellow had used both his hands to lift up the hammer...</seg>
       </tuv>
     </tu>
     <tu>
