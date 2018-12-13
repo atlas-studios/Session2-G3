@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12576,6 +12576,14 @@ He always felt that the greatest motivation for him—the reason why he could en
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181016T051856Z">
         <seg>Until around noon, all the forces suddenly realized that it was a false alarm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一直到她贴上那温暖的胸膛，往日的彷徨与悲伤，才渐渐离它而去……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T144004Z" creationid="ACER" creationdate="20181213T144004Z">
+        <seg>With the warm chest that she was lying on right now, those past depression started to leave her... ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -32681,6 +32689,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T212117Z">
         <seg>The words of the elderly man with white hair caused Manager Yang to become very excited. He did not leave in a hurry, but rather paused for a moment before once again speaking. He asked, "Then, Elder Fei, should we invite or try to attract this youngster into joining the Martial Arts Hall?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>白天的伊娜依然坚强，她加入白银之手佣兵团，带着一群冒险者们猎杀魔兽，与他们一起在酒馆庆祝，看上去跟以前没什么两样。但是每到夜深人静之时，伊娜却常常从梦中哭醒，在黑暗中发呆发到天亮。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T143859Z" creationid="ACER" creationdate="20181213T143859Z">
+        <seg>During the day, Ina was strong. She joined White Silver Hand Guild, leading a group of Adventurers to kill the Demon beast and to celebrate with them in the Tavern, which was no different from the past. However, every night, Ina would wake up from her dreams, crying and staring blankly in the night afterwards till the next morning. </seg>
       </tuv>
     </tu>
     <tu>
