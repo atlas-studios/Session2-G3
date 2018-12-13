@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -24660,8 +24660,8 @@ If they are able to open this relic, who still has the authority to challenge Al
       <tuv lang="ZH-CN">
         <seg>想想马迪亚斯，两人已是吓得脸色发白，这家伙这么变态，万一改变主意，自己岂不是也要象马迪亚斯一样？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T090939Z">
-        <seg>The thought of the current state of Matthias has caused them to tremble in fear. What if this freak, Lin Li, changed his mind? Are they going to be treated like Matthias?</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165110Z">
+        <seg>The thought of the current state of Matthias caused them to tremble in fear. What if this freak, Lin Li, changed his mind? Are they going to be treated like Matthias?</seg>
       </tuv>
     </tu>
     <tu>
@@ -32286,8 +32286,8 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       <tuv lang="ZH-CN">
         <seg>没人想被折断四肢，也没人想躺在地上当虾米。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T174542Z">
-        <seg>No one would ever want to be mutilated nor lie lifelessly on the ground like dried shrimps.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165054Z">
+        <seg>No one would ever want to be mutilated nor roll in excruciating pain, and lie lifelessly on the ground like dried shrimps. </seg>
       </tuv>
     </tu>
     <tu>
@@ -38650,8 +38650,8 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
       <tuv lang="ZH-CN">
         <seg>这一场争斗的双方，一前一后的走了，只留下一群目瞪口呆的围观者。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T101605Z">
-        <seg>The parties who have partaken in the battle left, leaving behind a crowd of dumb-founded audience.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165336Z">
+        <seg>The parties who had partaken in the battle left, leaving behind a crowd of dumb-founded audience.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38956,8 +38956,8 @@ Who would be so bored to stay in the hall and waste their time? </seg>
       <tuv lang="ZH-CN">
         <seg>这个看起来象七级魔法师的家伙，根本就是个变态，看看躺在地上的马迪亚斯，两人就不禁想问问，他家伙到底是不是人？实力强得变态不说，还动不动就下狠手，在两人看来，这种人无疑是最可怕的，因为你不知道自己什么时候会招惹上他，也不知道他会用什么理由干掉你……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T135659Z">
-        <seg>What seemed like a level-seven Mage was indeed a freak. The sight of Matthias lying gruesomely on the ground made both men question if he was even human. He was not only extremely powerful but was also one who was vicious and ruthless. To the two men, these type of people were the most terrifying—nobody knew the triggers that would provoke them, nor the reasons behind their desire to kill...</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164948Z">
+        <seg>What seemed like a level-seven Mage was actually a freak. The sight of Matthias lying gruesomely on the ground made both men question if he was even human. He was not only extremely powerful but was also one who was vicious and ruthless. To the two men, these type of people were the most terrifying—nobody knew the triggers that would provoke them, nor the reasons behind their desire to kill...</seg>
       </tuv>
     </tu>
     <tu>
