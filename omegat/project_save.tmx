@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -159,6 +159,14 @@ Although Lin Li has seen many who decided to betray their own team in the very l
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181212T151502Z" creationid="sangni" creationdate="20181212T151317Z">
         <seg>"...", Lin Li was speechless and confused, feeling that the old fellow had nothing else to do. The old fellow was a great Archmage, what else would be unattainable for him? Why did he need to make things difficult...  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“……”林立听得头都大了，这家伙的身份，恐怕比奥德文还要狠些，奥兰纳冒险者公会是什么概念？法兰王国最畸形的怪物，掌握着天文数字的金钱，数以百万计的冒险者，这样的势力，光是想想都觉得恐怖。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T171058Z" creationid="sangni" creationdate="20181213T171058Z">
+        <seg>"...", Lin Li felt troubled listening to that. This fellow is probably more risky than Odin, and what exactly is the concept of the Alanna Adventurers Guild? Felan Kingdom's weirdest creature would be holding on to an immense amount of wealth, counting millions of Adventurers. Such powers is terrifying.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10884,6 +10892,14 @@ After her departure, Grand Elder Jiang Yun Hai reported being sick and returned 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这么厉害？”他一直觉得，二十级以上的妖孽，出一个就已经够多了，没想到法兰王国国内，竟还不止一个这种怪物。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T170705Z" creationid="sangni" creationdate="20181213T170705Z">
+        <seg>"He is that good?", Lin Li had always felt that the number of those above level-20 should be kept to the minimum and yet in the Felan Kingdom, there's not only one of such a monster. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这么大一块，估计十万都不止吧……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180918T144316Z">
@@ -11226,6 +11242,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180905T171447Z">
         <seg>"This alchemist is so powerful!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这算什么……”麦德林撇了撇嘴，又继续说道：“这个贱人除了是一个二十一级强者之外，其实还是奥兰纳冒险者公会的幕后黑手！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T170849Z" creationid="sangni" creationdate="20181213T170814Z">
+        <seg>"What is this counted as...", Lin Li puted and continued saying, "This bitch is not only a level-21 powerful existence, he is also the hidden mastermind of the Alanna Adventurers Guild!" </seg>
       </tuv>
     </tu>
     <tu>
