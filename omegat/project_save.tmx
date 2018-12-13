@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14883,8 +14883,8 @@ Jiang Yi shut his eyes again and looked inward. He trembled more and more violen
       <tuv lang="ZH-CN">
         <seg>他们一直以为，这一次的试炼，胜利者非格兰芬多莫属，可是在这一场战斗之后，他们的信心却不由自主的动摇了，看看那个自称七级魔法师的家伙是什么实力……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T133715Z">
-        <seg>They always thought that Gryffindor would emerge as the victor. Yet, the ultimate defeat of the self-proclaimed level-seven Mage in this round of battle has inevitably wavered their confidence.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T134902Z">
+        <seg>They always thought that Gryffindor would emerge as the victor. Yet, the emergence of Lin Li, the self-proclaimed level-seven Mage in this round of battle inevitably wavered their confidence.</seg>
       </tuv>
     </tu>
     <tu>
