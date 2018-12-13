@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5399,8 +5399,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“对对对，都是这家伙不好！”仿佛是为了增加说服力，这人连连点头之下，还义愤填膺的走了过去，在马迪亚斯身上，狠狠的踢了一脚。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T075602Z" creationid="Irene Tan" creationdate="20181213T075602Z">
-        <seg>"Thats right, its this fellow's fault!" In order to make it sound more convincing, this person nodded repetitively in agreement and went up to Matthias angrily to deliver him a strong kick.   </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164639Z" creationid="Irene Tan" creationdate="20181213T075602Z">
+        <seg>"That's right, its this fellow's fault!" In order to make it sound more convincing, this person nodded profusely in agreement and went up to Matthias angrily and delivered a strong kick.   </seg>
       </tuv>
     </tu>
     <tu>
@@ -19379,8 +19379,8 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       <tuv lang="ZH-CN">
         <seg>只可怜马迪亚斯四肢尽断，此时已是痛得连眼泪都快流下来了，这一脚踹上去，更是火上浇油，当场痛得马迪亚斯满地打滚，惨叫一声比一声凄惨，听得一众围观者，都忍不住暗暗同情。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T080035Z" creationid="Irene Tan" creationdate="20181213T080009Z">
-        <seg>Poor Matthias was already cowering in pain due to the excruciating pain he felt when his four limbs were broken. With the addition of this kick, it was like rubbing salt to the wound. The pain Matthias was inflicted with caused him to roll around in pain and his spine-thrilling screams made the onlookers cast him a sympathetic look. </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164803Z" creationid="Irene Tan" creationdate="20181213T080009Z">
+        <seg>Poor Matthias was already cowering due to the excruciating pain he felt when he broke his four limbs. With the addition of this kick, it was like rubbing salt to the wound. The pain Matthias was inflicted with caused him to roll around in pain and his spine-thrilling screams made the onlookers cast him a sympathetic look. </seg>
       </tuv>
     </tu>
     <tu>
