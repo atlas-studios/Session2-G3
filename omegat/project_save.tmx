@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -25896,6 +25896,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林立一句安慰的话还没出口，伊娜已带着一阵香风扑进了他怀里，一张俏脸紧紧贴着林立的胸膛，哭得比先前更加厉害，就好象所有的委屈，所有的思念，都在这一刻尽情释放。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T142516Z" creationid="ACER" creationdate="20181213T142516Z">
+        <seg>Without any consolation words from Lin Li, Ina instantly threw herself into his arms, landing her face onto his chest, and cried even harder, as though all her miseries and her misses were relieved. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林立一句话出口，宾客众当场晕了三四个。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181010T073030Z">
@@ -33247,6 +33255,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181212T093731Z">
         <seg>Chapter 114: Matthias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第一百零九章 杀人</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T141931Z" creationid="ACER" creationdate="20181213T141931Z">
+        <seg>Chapter 109 Killing Them </seg>
       </tuv>
     </tu>
     <tu>
