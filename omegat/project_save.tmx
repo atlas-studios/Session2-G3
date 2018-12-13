@@ -2388,8 +2388,8 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“加洛斯魔法公会来的，听说是葛瑞安的私生子……葛瑞安这老家伙可真够偏心的，把个私生子教得这么厉害！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T035935Z" creationid="Irene Tan" creationdate="20181213T035935Z">
-        <seg>He's from Jarrosus' Guild of Magic. I heard that he is Gerian's illegitimate child... This old fogey is showing unjust favoritism, how could he taught this child so well?" </seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T035943Z" creationid="Irene Tan" creationdate="20181213T035935Z">
+        <seg>"He's from Jarrosus' Guild of Magic. I heard that he is Gerian's illegitimate child... This old fogey is showing unjust favoritism, how could he taught this child so well?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -5686,6 +5686,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180908T062236Z">
         <seg>"Of course. How can a place like Jarrosus Exchange not have the protection of some sort of force?" Kevin's head throbbed at the mention of this. "The one who protects this place is Old Odin, the largest underground force in Jarrosus. The important thing is, Old Odin has always maintained a good relationship with the Guild of Magic, and has been friends with President Gerian since young. You've beaten them up without a word, it'll be hard for President Gerian to explain it to Old Odin..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“当然是真的！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T040133Z" creationid="Irene Tan" creationdate="20181213T040133Z">
+        <seg>“Definitely!"</seg>
       </tuv>
     </tu>
     <tu>
