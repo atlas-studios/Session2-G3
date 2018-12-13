@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -5305,6 +5305,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181005T033546Z">
         <seg>Both of them did not speak at all until the redheaded beauty broke the silence. "Sorry..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“对了……我可先说好了，要求归要求，试炼归试炼，这可是最高议会安排的试炼，我跟奥德文胆子再大，也不敢把手伸进去。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T165726Z" creationid="sangni" creationdate="20181213T165726Z">
+        <seg>"Alright...I'll have to say this first, requests and quests should be isolated and not be mixed up. This is the quest organised by the Supreme Council, Odin and I wouldn't have the guts to interfere in it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -13889,6 +13897,14 @@ He had just the right time to carefully research the black essence force.</seg>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>两个二十一级的家伙，一场打下来完全不分胜负，两人打了两天两夜，最后一个耗尽魔力一个耗尽体力，竟同时在擂台上晕了过去……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T165355Z" creationid="sangni" creationdate="20181213T165355Z">
+        <seg>Two level-21 fellows fighting for two days and nights, eventually ends up in a tie when one had exhausted his magical powers and the other had exhausted his physical strength. They had both fainted on the ring. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>两个加洛斯最强的魔法师，只是一瞬间就碰撞出了耀眼的火花。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180914T031653Z">
@@ -14621,6 +14637,14 @@ As such, he decided to keep the fact that his power was improving by leaps and b
 Jiang BieLi met his mother and both of them returned back to Western Garrison Liege Lord's household when they were deeply in love. At Western Garrison Liege Lord's household, his mother saved the life of Grand Elder Jiang Yun Hai, which was why Jiang YunHai regarded her as his master! 
 
 Due to unknown reasons, Jiang BieLi did not marry his mother and his mother left the household grudgingly while she was pregnant with him. Two years after giving birth to him, she left the world with grief and entrusted him and Xiaonu to Grand Elder Jiang Yun Hai. She also sealed his dantian and Grand Elder Jiang Yun Hai's memories purposefully so that he will never know about his parental heritage and live peacefully at Skyplume City for life...    </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>事情发展到这个地步，简直就象走进了死胡同。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T165125Z" creationid="sangni" creationdate="20181213T165125Z">
+        <seg>With thing developing till this stage, it was almost like walking into a dead-end.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23619,6 +23643,14 @@ This meant his essence force refining speed was an entire thirty times slower th
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181006T064236Z">
         <seg>Luckily...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>幸亏……有人一句话提醒了他们。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T165047Z" creationid="sangni" creationdate="20181213T165047Z">
+        <seg>Luckily...someone's words had reminded them.</seg>
       </tuv>
     </tu>
     <tu>
@@ -38538,8 +38570,8 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
       <tuv lang="ZH-CN">
         <seg>这一个要求，意味着太多太多的东西，只要自己愿意的话，甚至可以请他们出马扫平阴影之巢，让加洛斯魔法公会，从此再不用担心觊觎屠魔山谷的敌人。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T164801Z" creationid="sangni" creationdate="20181213T164801Z">
-        <seg>This request had many connotations. As long as he was willing to accept it, </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T165550Z" creationid="sangni" creationdate="20181213T164801Z">
+        <seg>This request had many connotations. As long as he was willing to accept it, he could request for the two old fellows to destroy the Shadow's Nest, to allow Jarrosus to join the Guild of Magic and never worry about those who were coveting the Demon Fall Valley.  </seg>
       </tuv>
     </tu>
     <tu>
