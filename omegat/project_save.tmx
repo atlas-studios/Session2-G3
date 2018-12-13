@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6252,6 +6252,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“怎么样小子，这个忙帮得划算吧？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155057Z" creationid="sangni" creationdate="20181213T155057Z">
+        <seg>"How was it, isn't this favor a good deal?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“怎么样？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180914T104342Z">
@@ -11211,6 +11219,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180928T110942Z">
         <seg>"What has it got to do with me?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那再帮我们个忙如何？”麦德林打铁手艺虽然糟糕，却也明白打铁趁热的道理，一看林立被那条咒语迷住，老家伙趁势就加了一句。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155310Z" creationid="sangni" creationdate="20181213T155310Z">
+        <seg>"How about you do us a favor again?", although Macklin had horrible skills in ironworks, he understood the theory of striking the iron while it is hot. Seeing that Lin Li was smitten by the spell, he added.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24272,6 +24288,14 @@ Jiang Yi's mood immediately improved significantly when he realized this. So lon
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>想到这条咒语可能带来的一切，林立不由紧紧的将它握住。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155034Z" creationid="sangni" creationdate="20181213T155034Z">
+        <seg>Lin Li couldn't help but tightly hold on the the script, thinking about what it might bring for him. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>想到这里林立就知道，那座黑色城堡，恐怕也不象是任务里说的那么简单……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180919T025657Z">
@@ -27279,6 +27303,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180915T062910Z">
         <seg>Lin Li stood at the bottom of the tower a distance away. He'd realized his previous battling styles were in no sense perfect after watching the battle of the two archmages. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林立连连点头：“划算划算……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155132Z" creationid="sangni" creationdate="20181213T155132Z">
+        <seg>Lin Li hurriedly nodded and said, "It's worth it it's worth it..."</seg>
       </tuv>
     </tu>
     <tu>
