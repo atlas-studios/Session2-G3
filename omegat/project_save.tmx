@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6734,8 +6734,8 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       <tuv lang="ZH-CN">
         <seg>“我只是随便问问，你不用这么紧张。”见他脸色不对，麦德林还以为是被自己认真的神态吓到了，一时间不由有些后悔，这小子现在可是魔法公会的宝贝，可千万吓不得，万一要把他给吓坏了，魔法公会上上下下都会遇到麻烦。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T141841Z" creationid="sangni" creationdate="20181213T141841Z">
-        <seg>"I'm just asking about this casually, you don't need to be that nervous.", after observing Lin Li's expression, Macklin had thought that Lin Li had been intimidated by his serious tone and regretted his question. </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T143149Z" creationid="sangni" creationdate="20181213T141841Z">
+        <seg>"I'm just asking about this casually, you don't need to be that nervous.", after observing Lin Li's expression, Macklin thought that Lin Li had been intimidated by his serious tone and totally regretted his decision. Lin Li was now the treasure of the Guild of Magic and if Lin Li were to be harmed, there would be a lot of trouble for the Guild of Magic. </seg>
       </tuv>
     </tu>
     <tu>
@@ -35120,6 +35120,14 @@ Only the word "stunning" could be used to describe his Back Coupling Spell. Mack
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T092407Z">
         <seg>"To be frank, this itself was an absurd suggestion. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老家伙一边出言安慰，还一边在脸上挤出和蔼的笑容，只是这笑容看在林立眼中，总感觉象是狐狸在给鸡拜年……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T143439Z" creationid="sangni" creationdate="20181213T143439Z">
+        <seg>The old fellow tried to console and appease Lin Li, with a pseudo-smile on his face. However, this smile was superficial in Lin Li's eyes. </seg>
       </tuv>
     </tu>
     <tu>
