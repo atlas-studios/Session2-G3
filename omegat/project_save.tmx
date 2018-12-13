@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -123,10 +123,10 @@ Although Lin Li has seen many who decided to betray their own team in the very l
       <tuv lang="ZH-CN">
         <seg>“……”最后那一句威胁的话，更是当场把马森吓得两脚发软，完了完了……这老家伙可是变态的，万一再弄一头幽纹魔豹来收拾老子，那可真是要把半条命都给收拾掉……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T134829Z">
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170242Z">
         <seg>"..." Macklin's threat caused Mason to tremble in fear.
 
-"Darn it, I'm dead... What if that crazy old dude finds a Fantama Panthera to kill me..." </seg>
+"Darn it, I'm dead... What if that crazy old dude finds another Fantama Panthera to kill me..." </seg>
       </tuv>
     </tu>
     <tu>
@@ -1215,8 +1215,8 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       <tuv lang="ZH-CN">
         <seg>“什么事什么事，是不是马迪亚斯又来找麻烦了？”马森连法师袍都没来得及穿，就急匆匆的从房里冲了出来，然后……他就看到了正黑着一张脸的麦德林。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T034256Z">
-        <seg>"What's the matter... Did Matthias create a racket again?" exclaimed Mason as dashed out of the room anxiously, without even putting on his robes. Then... he saw the face of Macklin that was filled with fury.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170224Z">
+        <seg>"What's the matter... Did Matthias create a racket again?" exclaimed Mason as he dashed out of the room anxiously, without even putting on his robes. Then... he saw the face of Macklin that was filled with fury.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8700,8 +8700,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“滚，老子不跟蠢货交流。”麦德林狠狠的瞪了他一眼，这才一脸郑重的宣布：“老实说，除了这个蠢货之外，你们两个小家伙的实力都不错，而且……昨天那只小猫太温顺，完全没给你们造成什么威胁，所以我考虑了一下，决定把任务难度，稍稍调高那么一点点……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T063229Z">
-        <seg>"Scram... I don't want to converse with fools," Macklin replied, not forgetting to give Mason a deadly glare. Then, he announced solemnly, "To be honest, other than this fool here, the two of you are with much potential. Furthermore, the opponent yesterday was just a gentle kitten that had failed to pose any challenge to you. After much consideration, I have decided to increase the level of difficulty by just a little bit..." </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170508Z">
+        <seg>"Scram... I don't converse with fools," Macklin replied, not forgetting to give Mason a deadly glare. Then, he announced solemnly, "To be honest, other than this fool here, the two of you have more potential. Furthermore, the opponent yesterday was just a gentle kitten that had failed to pose any challenge to you. After much consideration, I have decided to increase the level of difficulty by just a tiny little bit..." </seg>
       </tuv>
     </tu>
     <tu>
@@ -15027,8 +15027,8 @@ Due to unknown reasons, Jiang BieLi did not marry his mother and his mother left
       <tuv lang="ZH-CN">
         <seg>今天的噩梦山脉，似乎比昨天多了一些人气，一行四人上山的路上，竟然遇到了两支同样从奥兰纳魔法公会出来的试炼小队，看来这噩梦山脉，确实是个适合锻炼年轻人的地方，几个试炼导师，都是不约而同的选中了这里。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T044540Z">
-        <seg>The Mountains of Koshmar seemed more popular today. Throughout their journey, the four people met two other small groups from the Guild of Alanna, who were on a quest. It seemed that the Mountains of Koshmar was a conducive environment to train the young people. All of these mentors had selected this region to train their students.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170354Z">
+        <seg>The Mountains of Koshmar seemed more lively today. Throughout their journey, the four people met two other small groups from the Guild of Alanna, who were on a quest. It seemed that the Mountains of Koshmar was a conducive environment to train the young people. All of these mentors had selected this region to train their students.</seg>
       </tuv>
     </tu>
     <tu>
@@ -19565,8 +19565,8 @@ As they walked, the guard consoled him by saying, "Don't worry; the Martial Arts
       <tuv lang="ZH-CN">
         <seg>只是比起其余两人的仓促之外，欧灵显然要镇定许多，一件黑色法师袍早已穿好，看见麦德林的时候，也只是微微一愣，然后就很干脆的承认了错误：“对不起，麦德林先生，我迟到了。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T134637Z">
-        <seg>As compared to the two of them who were more unsettled, Olive appeared to be more composed. He had worn a black robe and only taken aback slightly by the sight of Macklin. Olive also apologized immediately, "I'm sorry Mr. Macklin, I'm late."</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170334Z">
+        <seg>As compared to the two of them who were more unsettled, Olive appeared to be more composed. Donned in a black robe, he was only taken aback slightly by the sight of Macklin. Olive also apologized immediately, "I'm sorry Mr. Macklin, I'm late."</seg>
       </tuv>
     </tu>
     <tu>
@@ -34823,8 +34823,8 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       <tuv lang="ZH-CN">
         <seg>等他再次打开房门的时候，麦德林已经敲响了另外两位室友的房门。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T031800Z">
-        <seg>When he opened his door again, Macklin had already knocked on the doors of his two other roommates.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170205Z">
+        <seg>When he opened his door again, Macklin was already knocking on the doors of his two other roommates.</seg>
       </tuv>
     </tu>
     <tu>
@@ -35177,8 +35177,8 @@ When she saw Jiang Yi enter, she hurriedly and nervously asked, "Young Master, w
       <tuv lang="ZH-CN">
         <seg>管你从什么公会来的，先教训教训再说。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T025644Z">
-        <seg>Who cared which Guild you are from? Just receive your due punishment.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170139Z">
+        <seg>Who cared which Guild you were from? Just receive your due punishment.</seg>
       </tuv>
     </tu>
     <tu>
@@ -39686,8 +39686,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>这样一位大爷，麦德林又怎么敢去得罪？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T030756Z">
-        <seg>How would Macklin even dare to offend such an individual?</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170153Z">
+        <seg>How would Macklin dare to offend such an individual?</seg>
       </tuv>
     </tu>
     <tu>
