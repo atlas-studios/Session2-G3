@@ -9269,8 +9269,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“老子虽然不是锻造大师，可老子随便一找，就找了个锻造大师来帮忙，这可比锻造大师厉害多了……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134353Z" creationid="sangni" creationdate="20181213T134353Z">
-        <seg>"</seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134621Z" creationid="sangni" creationdate="20181213T134353Z">
+        <seg>"Even though I'm not a Master of forging, but I've just invited a Master of forging easily, this would have to be far more formidable than a Master of forging.</seg>
       </tuv>
     </tu>
     <tu>
@@ -18947,6 +18947,14 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T145817Z">
         <seg>Its a pity that these two old folks were lacking greatly in terms of talent for forging. By comparing them to the pharmaceutics lover, Andoine, they were still lacking in many aspects. No matter what, Andoine was still able to concoct several low level potions. These two old fellows however, are struggling to even hold the hammer... </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>只听“滋”的一声，一片白烟升腾而起，铁剑已完成了最后的淬火。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134825Z" creationid="sangni" creationdate="20181213T134825Z">
+        <seg>Only a fizzing pop could be heard, a cloud of white smoke rose, the sword had completed the final stage- quenching.</seg>
       </tuv>
     </tu>
     <tu>
@@ -40806,10 +40814,18 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>麦德林在那自我安慰，林立那边却早已将铁剑铁进了水桶。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134702Z" creationid="sangni" creationdate="20181213T134702Z">
+        <seg>Macklin was just consoling himself, while Lin Li had long ago thrown the sword into the bucket. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>麦德林就更不用说了，刚刚在人家面前吹嘘了一番锻造大师什么的，结果一转眼却发现，人家手艺比自己强一百倍，这感觉简直比被人捉奸在床还尴尬……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134404Z" creationid="sangni" creationdate="20181213T134033Z">
-        <seg>Macklin was worse, he had just boasted about being a Master of forging but didn't have the skills to back it up. Lin Li was about a hundred times more skillful than himself, and this feeling was even more embarrassing for Macklin than being caught red-handed in an affair. </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134519Z" creationid="sangni" creationdate="20181213T134033Z">
+        <seg>Macklin was worse off, he had just boasted about being a Master of forging but didn't have the skills to back it up. Lin Li was about a hundred times more skillful than himself, and this feeling was even more embarrassing for Macklin than being caught red-handed in an affair. </seg>
       </tuv>
     </tu>
     <tu>
