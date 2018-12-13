@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -775,6 +775,14 @@ Although Lin Li has seen many who decided to betray their own team in the very l
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180731T075718Z">
         <seg>"I don't know..." Lin Li nodded honestly.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不知道……”林立说的是实话，自从穿越之后，因为安度因的关系，他接触得最多的职业就是魔法师，一直以来，他也只关心与魔法有关的东西，至于什么剑圣什么影王，他还真没怎么留意过。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T170318Z" creationid="sangni" creationdate="20181213T170318Z">
+        <seg>"I don't know...", Lin Li was speaking the truth, ever since he transcended from the future, and also partly because of Andoine, the most common occupation he had to deal with was Mages. He has always been in touch with all things Magic related all along, but as for whatever blade0master whatever shadow king, he had never paid attention to those things. </seg>
       </tuv>
     </tu>
     <tu>
