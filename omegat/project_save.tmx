@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -35994,6 +35994,14 @@ Definitely not what he claimed to be.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181007T034516Z">
         <seg>If their guesses were correct, the abject-looking young mage in front of them was currently the most legendary figure in Jarrosus City—the hope for revival of the Guild of Magic, the potion master below the age of 20, the one who had single-handedly facilitated the million gold coins auction, and the one who, after having triggered the battle between the most powerful mages, was wrapped up in rumors but rarely appeared in public—Mage Felic!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>要知道现在可是中午，冒险者公会一天之中最冷清的时间。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T080522Z" creationid="ACER" creationdate="20181213T080522Z">
+        <seg>It was only in the afternoon, and this timing was the least crowded in the Adventurers Guild. </seg>
       </tuv>
     </tu>
     <tu>
