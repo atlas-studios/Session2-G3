@@ -9710,6 +9710,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“费雷先生……”可是才刚走到公会大厅门口，却又看见汉克折了回来，只见他站在台阶下面，脸上神色异常犹豫：“费雷先生，您……您是不是认识伊娜？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T090147Z" creationid="ACER" creationdate="20181213T090147Z">
+        <seg>"Mr Felic... ..." Hanke just left the hall, but he returned, standing at the step, looking hesitant, and mumbled, "Mr Felic, do you... ... Do you know Ina?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“费雷先生……我……”伊娜白皙的小手紧握，不断在心里为自己打气，可“我”了半天，最后说出的却是：“费雷先生再见……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180906T040220Z">
@@ -31982,8 +31990,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>目送汉克走出公会大厅，林立也站起身来，轻轻拍去怒焰法袍上的灰尘，就打算先回奥兰纳魔法公会再说。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T085833Z" creationid="ACER" creationdate="20181213T085833Z">
-        <seg>"Seeing Hanke leaving the hall, Lin Li stood up and gently slapped the dust on his Robe of Wrath. He intended to returned to Alanna Guild of Magic first.  </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T085838Z" creationid="ACER" creationdate="20181213T085833Z">
+        <seg>Seeing Hanke leaving the hall, Lin Li stood up and gently slapped the dust on his Robe of Wrath. He intended to returned to Alanna Guild of Magic first.  </seg>
       </tuv>
     </tu>
     <tu>
