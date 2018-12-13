@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3468,6 +3468,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“哦……”林立很老实的跟了进去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T141045Z" creationid="sangni" creationdate="20181213T141045Z">
+        <seg>"Oh...", Lin Li went in just as instructed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“哦……”林立点了点头，又有些疑惑的问道：“那魔法公会，算是最高议会的下属机构了？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180906T040005Z">
@@ -5404,6 +5412,22 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180813T082140Z">
         <seg>"Let's go, Xiaonu!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“小子，你老老实实的告诉我……”麦德林脸色凝重，声音却稍稍显得有些激动：“你怎么会懂得锻造的？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T141325Z" creationid="sangni" creationdate="20181213T141325Z">
+        <seg>"Lin Li, tell me the truth...", Macklin showed his serious side and there were signs of agitation in his voice, he said, "How did you learn how to forge?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“小子，你跟我来！”麦德林连手上的伤口都顾不得去包扎，就一把拽着林立往外走去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T140622Z" creationid="sangni" creationdate="20181213T140622Z">
+        <seg>"Lin Li, follow me!", Macklin didn't care about his wound, he was only focused on bring Lin Li outside.</seg>
       </tuv>
     </tu>
     <tu>
@@ -10206,6 +10230,22 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“跟我来你就知道了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T140723Z" creationid="sangni" creationdate="20181213T140723Z">
+        <seg>"Follow me and you will find out."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“跟我进来。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T141030Z" creationid="sangni" creationdate="20181213T141030Z">
+        <seg>"Follow me in."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“轰……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181212T032147Z">
@@ -10458,6 +10498,15 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181008T041313Z">
         <seg>"This..." The mage in gray robe felt that he seemed to be bitten in the face at these words. However, since Lin Li had already asked, he could only try to mediate. "I saw what happened just now, it was indeed Bathrilor's fault. But I'm unlucky to know his grandfather. In order not to let that old fellow blame me for not doing anything to save his grandson from ruin, I had to intervene just now to help him. Besides, you've already taught him a lesson. Can you give me some face and forget about this matter..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这个……”林立犹豫了一下，不知道该怎么解释，难道告诉这老家伙，自己之所以懂得锻造，全是因为一张叫愿望卷轴的东西吗？那还不得被他一个火球轰死……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T141511Z" creationid="sangni" creationdate="20181213T141511Z">
+        <seg>"This...
+, Lin Li hesitated for a while, not knowing how to explain it. He wasn't sure whether to just be truthful and explain that his forging skills were thanks to a Scroll of Wishes? The consequences were dire, the whole universe would be here to question him too...</seg>
       </tuv>
     </tu>
     <tu>
@@ -11752,6 +11801,14 @@ Mason felt that he was on the verge of turning crazy. He always thought that sin
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“麦德林先生，有什么事？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T140637Z" creationid="sangni" creationdate="20181213T140637Z">
+        <seg>"Mr Macklin, what's the matter?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“麦格雷尼先生没事了，你应该高兴才是，哭什么哭……”林立将烧杯放进口袋，又细心的提醒伊娜：“不过人虽然没事了，身体还会很虚弱，我估计可能还要修养好一段时间才能恢复，你最好多劝劝他，两三个月之内，就不要再去接什么任务了。”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180920T033010Z">
@@ -12303,6 +12360,14 @@ He always felt that the greatest motivation for him—the reason why he could en
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181006T060002Z">
         <seg>In that moment, those with keen minds were astounded by their own guess.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一时间，老家伙眼睛都直了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T140503Z" creationid="sangni" creationdate="20181213T140503Z">
+        <seg>Macklin was instantly astonished. </seg>
       </tuv>
     </tu>
     <tu>
@@ -13587,6 +13652,14 @@ He had just the right time to carefully research the black essence force.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T054720Z">
         <seg>They stepped out of the log cabin. Andoine thought for long while before asking Lin Li, “Do you know why I stopped teaching you new spells, and instead had you practice elemental sequencing?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两人出了那幢低矮的建筑物，又回到公会大厅之内，这一次麦德林没有停留，而是直接带着林立，顺着那盘旋向上的阶梯，一路走到了三楼的一间房外。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T140938Z" creationid="sangni" creationdate="20181213T140938Z">
+        <seg>They exited the low-rise buildings, before returning inside the Guild's Hall. However, Macklin didn't stay. He directly brought Lin Li over to climb the spiral stairs and they went directly to a room on the third floor.</seg>
       </tuv>
     </tu>
     <tu>
@@ -24293,6 +24366,14 @@ If they are able to open this relic, who still has the authority to challenge Al
       </tuv>
       <tuv lang="EN-US" changeid="ACER" changedate="20181210T082432Z">
         <seg>Zhan Wu Shuang glances at the fighting scene, stated,"Qian Wan Guan arranged for reinforcement troops, and this fight has ended. It is unexpected that Zhang Sun Tun Long collaborated with Jiang Qi Lin that idiot, and how is it possible for them to be the genius troublemaker Qian Wan Guan's opponent?"   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>房内陈设相当简单，一张桌子几把藤椅，这就是间房内所有的东西，林立看了一遍，居然连个垃圾桶都没找到。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T141205Z" creationid="sangni" creationdate="20181213T141205Z">
+        <seg>The room had simple decoration, it consisted of a chair and a few vine chairs. Lin Li scanned through it and couldn't even find a dustbin. </seg>
       </tuv>
     </tu>
     <tu>
@@ -40882,6 +40963,14 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181212T043035Z">
         <seg>Macklin was a man of words. He fulfilled his promise of punishing Mason.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>麦德林站在门外，低声念了两句咒语，然后林立就看见，那紧闭的房门忽然打开了……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T141023Z" creationid="sangni" creationdate="20181213T141023Z">
+        <seg>Macklin stood outside the door and mumbled two spells before Lin Li witnessed the door that was shut open by itself.</seg>
       </tuv>
     </tu>
     <tu>
