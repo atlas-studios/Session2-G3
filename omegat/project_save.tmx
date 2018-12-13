@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2160,8 +2160,8 @@ Immediately, feeling vexed, Ina yelled,"Those Magical Crystals were obtained by 
       <tuv lang="ZH-CN">
         <seg>“全是马迪亚斯这家伙不好，居然挑拨我们跟欧灵兄弟的感情，太狡猾了！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T075333Z" creationid="Irene Tan" creationdate="20181213T075333Z">
-        <seg>"Its all Matthias fault! He tried to sow discord to sour the relationship between Olive and us! What a sly fellow!"</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164608Z" creationid="Irene Tan" creationdate="20181213T075333Z">
+        <seg>"Its all Matthias fault! He tried to sow discord to sour our relationship with Olive! What a sly fellow!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -12468,8 +12468,8 @@ Mason felt that he was on the verge of turning crazy. He always thought that sin
       <tuv lang="ZH-CN">
         <seg>一听见这句话，两个目瞪口呆的魔法师，差点没把魂给吓掉，赶紧摇头否认的同时，还悄悄往后退了几步，感觉就好象退这几步，就能跟马迪亚斯脱离关系似的……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T074809Z" creationid="Irene Tan" creationdate="20181213T074753Z">
-        <seg>Listening to what Lin Li said, the two Mages that were watching with their mouth gaped was frightened out of their wits. They shook their head profusely in response and slowly backed away, as if they could distance themselves from Matthias... </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164450Z" creationid="Irene Tan" creationdate="20181213T074753Z">
+        <seg>Listening to what Lin Li said, the two Mages who were watching with their mouth gaped was frightened out of their wits. They shook their head profusely in response and slowly backed away, as if they could distance themselves from Matthias... </seg>
       </tuv>
     </tu>
     <tu>
@@ -18718,8 +18718,8 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
       <tuv lang="ZH-CN">
         <seg>别说欧灵没侮辱过谁的公会，就算他真侮辱了又怎么样，对着这么个怪物，谁会傻得站出来承认？万一又把这家伙惹毛了，他又是四发奥术飞弹，直接把自己轰成残废怎么办？这不自己把自己往火坑里推么……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T075228Z" creationid="Irene Tan" creationdate="20181213T075208Z">
-        <seg>Not to say Olive didn't even insulted anyone's Guild, even if he really did, who would dare to stand up to admit it in front of this freak? If this chap gets provoked once again, he might send four Arcane Missiles at them to disable them. It was plainly not worth it to be embroiled in such a thankless job...</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164545Z" creationid="Irene Tan" creationdate="20181213T075208Z">
+        <seg>Not to say Olive didn't even insult anyone's Guild, even if he really did, who would dare to stand up to admit it in front of this freak? If this chap was to be provoked again, he might send four Arcane Missiles at them to disable them. It was plainly not worth it to be embroiled in such a thankless job...</seg>
       </tuv>
     </tu>
     <tu>
