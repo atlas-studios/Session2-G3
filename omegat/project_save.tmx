@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -17543,8 +17543,8 @@ Two years ago he was forced to move out from the Jiang Residence’s rear court 
       <tuv lang="ZH-CN">
         <seg>先前看见一个燃烧火球被林立硬吃，他们就已经觉得这个世界太疯狂，可没想到在这之后，这家伙居然还干出了一件更没人性的事——瞬发燃烧火球！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T065911Z" creationid="Irene Tan" creationdate="20181213T065911Z">
-        <seg>Prior to that,when they saw that the Flaming Sphera was swallowed by Lin Li, they already felt that it was an out of the world deed. Who knew that this chap performed an even more remarkable act — summoning the Flaming Sphera within a blink of the eye! </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T163815Z" creationid="Irene Tan" creationdate="20181213T065911Z">
+        <seg>Prior to that, when they saw that the Flaming Sphera that was swallowed by Lin Li, they already felt that it was an out of the world deed. Who knew that this chap performed an even more remarkable act — summoning the Flaming Sphera within a blink of the eye! </seg>
       </tuv>
     </tu>
     <tu>
@@ -21123,8 +21123,8 @@ Even splitting entire mountains, flying freely in the sky, and becoming virtuall
       <tuv lang="ZH-CN">
         <seg>在这一刻，几乎所有人都有撞墙的冲动，这家伙简直就是丧尽天良！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T070021Z" creationid="Irene Tan" creationdate="20181213T070021Z">
-        <seg>At this moment, everyone had the urge to hit the wall. This chap was thoroughly despicable!  </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T163832Z" creationid="Irene Tan" creationdate="20181213T070021Z">
+        <seg>At this moment, everyone had the urge to hit themselves on the wall. This chap was thoroughly despicable!  </seg>
       </tuv>
     </tu>
     <tu>
@@ -40720,8 +40720,8 @@ Jiang Yi's face was scrunched with anger and he coldly retorted, " Qian Wan Guan
       <tuv lang="ZH-CN">
         <seg>长达五秒的吟唱，被压缩到一瞬间之后，将会让燃烧火球的元素排列方式复杂几千几万倍，在一瞬间内排列出如此复杂的元素结构，完全超越了凡人所能达到的极限，就算这个凡人的精神力再怎么强大，也是不可能的事，因为这已经脱离了精神力的范畴，属于另一个凡人所无法理解的领域。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T082114Z" creationid="Irene Tan" creationdate="20181213T064027Z">
-        <seg>A recitation that typically lasts for five seconds, is now summoned within a split second. This meant that the difficulty in sequencing for the Flaming Sphera way exceeds the threshold that a normal mortal can handle. Even if this mortal had a powerful mental strength, this was out of the possibility because it already deviates beyond the scope of one's mental strength and  belonged entirely to another level that is incomprehensible by ordinary people. </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T163729Z" creationid="Irene Tan" creationdate="20181213T064027Z">
+        <seg>A recitation that typically lasts for five seconds, was now been summoned within a split second. This meant that the difficulty in sequencing for the Flaming Sphera way exceeds the threshold that a normal mortal can handle. Even if this mortal had a powerful mental strength, this was out of the possibility because it already deviates beyond the scope of one's mental strength and belonged entirely to another level that is incomprehensible by ordinary people. </seg>
       </tuv>
     </tu>
     <tu>
@@ -41314,8 +41314,8 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>马迪亚斯的惨叫声久久回荡……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T071749Z" creationid="Irene Tan" creationdate="20181213T071749Z">
-        <seg>Matthias' howls echoed in the ears of the onlookers lastingly...</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T163937Z" creationid="Irene Tan" creationdate="20181213T071749Z">
+        <seg>Matthias' howls echoed lastingly in the ears of the onlookers...</seg>
       </tuv>
     </tu>
     <tu>
