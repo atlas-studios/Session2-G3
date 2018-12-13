@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -701,8 +701,8 @@ Although Lin Li has seen many who decided to betray their own team in the very l
       <tuv lang="ZH-CN">
         <seg>“不然你以为……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T164837Z">
-        <seg>"Or else what do you think..."</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165752Z">
+        <seg>"What else do you think..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -5999,10 +5999,10 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“废话……”自从受了伤之后，欧灵似乎变了许多，不但脸上多了些表情，连话也好象比平时多了，听到马森问出这么白痴的问题，他居然罕见的没有骂人，只是很无奈的翻了个白眼：“你见过能把十二级魔导士打成残废的七级魔法师？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T135915Z">
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165730Z">
         <seg>"What crap..." 
 
-Olive had changed a lot ever since the day he injured himself. He started to have more expressions on his face and became more talkative. It is rare that Olive did not scold Mason for such a foolish question. While he just rolled his eyes, he asked, "Have you ever seen a level-7 Mage defeating and crippling a level-12 Archmage?"</seg>
+Olive had changed a lot ever since he injured himself. He started to have more expressions on his face and became more talkative. It was rare that Olive did not scold Mason for such a foolish question. While he just rolled his eyes, he asked, "Have you ever seen a level-7 Mage defeating and crippling a level-12 Archmage?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -18646,8 +18646,8 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
       <tuv lang="ZH-CN">
         <seg>刚才扶着欧灵上楼的时候，他可是看得清清楚楚，不管是脸上痛苦的神色，还是手臂扭曲的奇怪角度，这些东西无论如何是做不了假的，马森甚至敢用脑袋打赌，欧灵那条右手，确确实实是被折断了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T175447Z">
-        <seg>It was only just then that he witnessed the agony Olive was in while he was helping him return to his room–the pain reflected through his facial features, and the awkward angle his arm was positioned in—all these could not be falsified! Mason could even dare to bet his life on this—Olive's right arm had indeed broke!</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165603Z">
+        <seg>It was only just then that he witnessed the agony Olive was in while he was helping him return to his room–the pain reflected through his facial features, and the awkward angle his arm was positioned in—all these could not be falsified! Mason dared to bet his life on this—Olive's right arm had indeed broke!</seg>
       </tuv>
     </tu>
     <tu>
@@ -21816,8 +21816,8 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       <tuv lang="ZH-CN">
         <seg>奥术飞弹可是真正的二级魔法，魔导士级别以下，根本就没有瞬发的可能，这也就意味着，这个自称七级魔法师的家伙，其实至少拥有十级以上的实力。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T175004Z">
-        <seg>The Arcane Missile was an authentic level-two magical skill. Under the Archmage-level, it is impossible for the Arcane Missile to be launched at an instantaneous speed. This means that this self-proclaimed level-seven Mage owned at least the powers of a level-10 Mage.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165530Z">
+        <seg>The Arcane Missile was an authentic level-two magical skill. Under the Archmage-level, it was impossible for the Arcane Missile to be launched at an instantaneous speed. This meant that this self-proclaimed level-seven Mage owned at least the powers of a level-10 Mage.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23593,8 +23593,8 @@ This meant his essence force refining speed was an entire thirty times slower th
       <tuv lang="ZH-CN">
         <seg>年仅二十岁的十三级魔导士……这世界上还有比这更恐怖的人吗？(未完待续，如欲知后事如何，请登陆www.qidian.com，章节更多，支持作者，支持正版阅读！)</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T012528Z">
-        <seg>A level-13 Archmage at the age of 20... Are there anybody else more terrifying than this?</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165820Z">
+        <seg>A level-13 Archmage at the age of 20... Would there be anybody else more terrifying than this?</seg>
       </tuv>
     </tu>
     <tu>
@@ -36949,8 +36949,8 @@ Only the word "stunning" could be used to describe his Back Coupling Spell. Mack
       <tuv lang="ZH-CN">
         <seg>至于这个家伙的真正实力，连欧灵也不得不承认，他根本无法看透，只能根据先前那一场战斗勉强猜测，可能是十二级顶峰，也可能是刚刚踏入十三级，总之……绝不会象他自称的那样，是个什么七级魔法师……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181211T175135Z">
-        <seg>Olive had to admit that he lacked the skill to judge Lin Li's true capability. He could only base his entire hypothesis on that single battle. This implied that Lin Li's real ability may either be at the peak of level 12, or at the beginner stage of level 13... 
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165540Z">
+        <seg>Olive had to admit that he lacked the skill to judge Lin Li's true capability. He could only base his entire deduction on that single battle. This implied that Lin Li's real ability may either be at the peak of level 12, or at the beginner stage of level 13... 
 
 Definitely not what he claimed to be.</seg>
       </tuv>
