@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -18272,6 +18272,14 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180916T133921Z">
         <seg>Out of the ten Spirit Pills, he had consumed nine of them, and he... had also finally cultivated his power up to the second stage of the Cast Tripod Realm! He used his inner vision to see that, within his dantian, he acquired twice the amount of blue essence force as before, with its colour being darker by a grade. Jiang Yi could not help but release a loud holler towards the sky, releasing the happiness in his heart.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>千叶酒馆离冒险者公会倒是不远，再加上林立救人心切，一连两个迅捷术，一个给了自己，一个给了汉克，在迅捷术的效果下，两人更是健步如飞，只不过两三分钟时间，就到了千叶酒馆之外。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T111310Z" creationid="ACER" creationdate="20181213T111310Z">
+        <seg>Thousand Leaf Tavern was not far away from Adventurers Guild, and with Lin Li's determination to save the people, both of them </seg>
       </tuv>
     </tu>
     <tu>
