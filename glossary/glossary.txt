@@ -1,4 +1,4 @@
-﻿好马不吃回头草	a good man doesn't backtrack
+好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
 说曹操，曹操到	speak of the devil
@@ -1187,3 +1187,6 @@ MDZZ	fucking retard
 打铁	ironworks
 老家伙	old fellow
 红月佣兵团	Blood Moon Troops
+汉克	Hanke
+白银	White Silver Guild
+白银之手	White Silver Hand Guild
