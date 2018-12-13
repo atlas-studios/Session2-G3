@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -271,6 +271,14 @@ Although Lin Li has seen many who decided to betray their own team in the very l
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180814T055308Z">
         <seg>"..." Even Lin Li was shaking his head as he listened from the side. Circumstance was a scary factor, even an honest person like Kevin was poisoned into lying as he opened his mouth.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“……”麦德林的话一出口，林立当场吓得寒毛都竖起来了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T164505Z" creationid="sangni" creationdate="20181213T164505Z">
+        <seg>"...", Macklin's words had caused Lin Li to be unnerved. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11114,6 +11122,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181202T141624Z">
         <seg>"Elder Liu can be so mean," he grumbled in a low voice. "I used up so much essence force, yet he refused to give me one or two high-grade Spirit Pills to supplement my essence force..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这样。”麦德林一看，知道光空口承诺是不行了，于是老家伙咬了咬牙：“打出这把魔法武器，你就可以向我们一个要求，只要是能力所及的事，我们这两个老家伙，一定帮你办到！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T164413Z" creationid="sangni" creationdate="20181213T164413Z">
+        <seg>"It's like this.", Macklin looked and realized that an empty promise wasn't going to convince Lin Li. He was determined and said, "As long as you successfully build a magical weapon for us, you'll have the chance to gain a favor from us. As long as the favor is within our capabilities, we will try our best to fulfil your request!"</seg>
       </tuv>
     </tu>
     <tu>
