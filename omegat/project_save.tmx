@@ -27326,8 +27326,8 @@ If one wished to enter the Martial Arts Hall without a level of power in the Pur
       <tuv lang="ZH-CN">
         <seg>汉克原本是想回白银之手驻地求救的，可是在经过冒险者公会门口的时候，却忽然想起了跟自己约好见面的魔法师先生。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T095641Z" creationid="ACER" creationdate="20181213T095641Z">
-        <seg>Initially, Hanke wanted to return White Silver Hand Guild for help, but when he passed by the Adventurers Guild Doorway, he suddenly recalled his meeting with the wizard. </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T095742Z" creationid="ACER" creationdate="20181213T095641Z">
+        <seg>Initially, Hanke wanted to return White Silver Hand Guild for help, but when he passed by the Adventurers Guild Doorway, he suddenly recalled his meeting with the Mr Wizard. </seg>
       </tuv>
     </tu>
     <tu>
@@ -40130,6 +40130,14 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180904T061405Z">
         <seg>A mage and a mage apprentice. It was one of heaven, and one of hell...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>魔法师先生实力如何，他并不怎么了解，但是跟魔法师先生一起的那个怪物战士，却是给他留下了无比深刻的印象，那天晚上在黑山镇的林荫旅店，他可是看得清清楚楚，那怪物战士一个人，就毫不费力的杀了十几个强盗，其中还包括一个八级的战士。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T100402Z" creationid="ACER" creationdate="20181213T095704Z">
+        <seg>He was unaware of Mr Wizard's strength but the Weird Warrior who was with Mr Wizard left him an unforgettable impression. That night at Tree-lined Hostel in Black Hill Town, he saw it very clearly that the Weird Warrior, without any difficulty, killed more than ten thieves alone, including a level-eight warrior.  </seg>
       </tuv>
     </tu>
     <tu>
