@@ -1,4 +1,4 @@
-好马不吃回头草	a good man doesn't backtrack
+﻿好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
 说曹操，曹操到	speak of the devil
@@ -1153,7 +1153,7 @@ MDZZ	fucking retard
 千叶酒馆	Thousand Leaf Tavern
 级	level
 奥术飞弹	Arcane Missile
-魔导士	Archmage
+大魔导士	Archmage
 费雷	Felic
 魔力反馈	Back Coupling Spell
 费雷	Felic	A new identiy that Andoine created for Lin Li
