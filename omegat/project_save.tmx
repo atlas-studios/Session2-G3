@@ -5448,6 +5448,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“小子，你以为你是谁？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T144852Z" creationid="ACER" creationdate="20181213T144852Z">
+        <seg>"Hey, who do you think you are?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“小子，你老老实实的告诉我……”麦德林脸色凝重，声音却稍稍显得有些激动：“你怎么会懂得锻造的？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181213T141325Z" creationid="sangni" creationdate="20181213T141325Z">
@@ -6718,6 +6726,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180920T033117Z">
         <seg>"I've introduced him, he's Mr Felic. I met him when Father and I were in the Sunset Mountains. He's an impressive mage and helped me and Father many times. Unfortunately I haven't had the chance to repay him..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“我们先找个地方坐坐吧，麦格雷尼先生留下了一件东西，他让我一定要转交给你。”林立一手牵着伊娜，目光从一群红月佣兵团的冒险者身上扫过：“麻烦几位让让。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T144833Z" creationid="ACER" creationdate="20181213T144833Z">
+        <seg>"Let's find a place to sit down first. Mr McGrenn left something and requested me to pass it to you." Lin Li stated, holding Ina's hand and scanned through the Blood Moon Troops Adventurers, "Please move away." </seg>
       </tuv>
     </tu>
     <tu>
