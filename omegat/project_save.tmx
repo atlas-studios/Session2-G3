@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -1529,6 +1529,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180822T105914Z">
         <seg>"Why are you all looking at me like that... Also Kevin, if you're to be disappointed, you should be disappointed in that old fellow." Lin Li shook his head resignedly, and slowly pulled out a sky-blue bottle from his pockets. "If his brain wasn't damaged, he would have asked for help long ago. Does he really think that he could take the whole of Jarrosus City being an archmage..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你先休息一下，换我来了。”麦德林一进门，就从会长大人手上接过了铁锤。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T084551Z" creationid="sangni" creationdate="20181213T084551Z">
+        <seg>"You should take a rest, it;s my turn to do this.", Macklin entered through the door and took the hammer over from the President.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11778,8 +11786,8 @@ Mason felt that he was on the verge of turning crazy. He always thought that sin
       <tuv lang="ZH-CN">
         <seg>一块通红的铁胚，被他敲得乱七八糟，力气时大时小不说，铁锤还经常敲错地方，十次敲下去，起码有五次敲在铁砧上，看这位会长大人打铁，真是很容易把心脏病吓出来，有时候林立真担心，他手上的铁锤敲着敲着，会不会突然飞出来把人给砸了……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T073409Z" creationid="sangni" creationdate="20181213T073409Z">
-        <seg>He had even messed up with  a heated iron embryo   </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T083823Z" creationid="sangni" creationdate="20181213T073409Z">
+        <seg>He was brash and clumsy even when dealing with an already heated iron embryo. While he could be forgiven for his inconsistent use of strength, he still made other unforgivable mistakes like hammering the wrong area, with five out of ten times of his hammering landing on the anvil. It wouldn't be surprising if spectators of the president had triggered a heart attack. This caused Lin Li to be constantly worried, what if his hammer flies out of his hand and hurts anyone...  </seg>
       </tuv>
     </tu>
     <tu>
@@ -20760,6 +20768,14 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T133252Z">
         <seg>"Even if Alanna's Guild of Magic was stronger, it is after all, the capital city of Felan Kingdom with only an approximate of slightly more than three thousand people.    </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>奥德文也是累得不行，一见有人接班，忙把铁锤交了过去，只见他一边抹着额头上的汗水，一边在那喘着粗气，过了好一会之后，他才好象是忽然注意到了门口的林立。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T084748Z" creationid="sangni" creationdate="20181213T084748Z">
+        <seg>Odin was also exhausted, when he saw someone took over, he hurriedly handed over the hammer and wiped away his forehead sweat while panting heavily. It was only after a while, that Odin had noticed Lin Li who was standing by the door.</seg>
       </tuv>
     </tu>
     <tu>
