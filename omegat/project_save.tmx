@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8767,6 +8767,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T081144Z">
         <seg>"For real?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“真的就一把铁剑？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T125519Z" creationid="sangni" creationdate="20181213T125519Z">
+        <seg>"Is it really just an ordinary sword?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -26232,6 +26240,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林立想不明白，这老家伙究竟是发什么疯，打一把普通铁剑而已，连魔法装备都算不上，为了这么个破东西，居然把失传的十五级咒语都拿出来了……要不要搞得这么严重？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T125504Z" creationid="sangni" creationdate="20181213T125504Z">
+        <seg>Lin Li couldn't understand why the old fellow was constantly going bonkers. It was just a matter of creating a normal sword, it didn't even count as magic equipment. Why did he put out the level-15 spell just for this...did they need to over-exaggerate it? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林立想谦虚两句，却又发现气氛有些不对，于是干脆闭上嘴巴，老老实实的听安度因说下去。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180906T033519Z">
@@ -36714,6 +36730,14 @@ Definitely not what he claimed to be.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180908T062037Z">
         <seg>Seeing that Lin Li had wanted to continue his ramble, the two men became enraged and held their fists up.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>见林立问得郑重，麦德林也不由犹豫了一下，想了想，才有些尴尬的补充了一句：“最好……能锋利点，能刺穿皮甲就最好了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T130117Z" creationid="sangni" creationdate="20181213T130117Z">
+        <seg>Macklin then hesitated after seeing Lin Li's serious questioning Macklin thought for a while and awkwardly added, "It'll be better...if it were to be sharper, and it would be the best if it could penetrate a leather armor."  </seg>
       </tuv>
     </tu>
     <tu>
