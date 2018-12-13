@@ -5924,8 +5924,8 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       <tuv lang="ZH-CN">
         <seg>“当然，你也用不着紧张。”见林立没吭声，麦德林很满意的拈着山羊胡子，死不要脸的吹嘘起来：“有我们这两个锻造大师在，包你很快就能成为一个不错的铁匠，来来来……你先看看，我是怎么使用铁锤的……这可是技术含量很高的事。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T115017Z" creationid="sangni" creationdate="20181213T115017Z">
-        <seg>"Of course, but you dont have to be nervous.", seeing Lin Li stay quiet made Macklin extremely proud of himself. He held his goatee and shamelessly boasted, "With such formidable trainers like us, I'll guarantee that you'll become a skilled blacksmith soon...you shall first observe how I am going to sue the hammer...this is a technical matter."</seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134457Z" creationid="sangni" creationdate="20181213T115017Z">
+        <seg>"Of course, but you dont have to be nervous.", seeing Lin Li stay quiet made Macklin extremely proud of himself. He held his goatee and shamelessly boasted, "With such Masters of forging like us, I'll guarantee that you'll become a skilled blacksmith soon...you shall first observe how I am going to sue the hammer...this is a technical matter."</seg>
       </tuv>
     </tu>
     <tu>
@@ -9263,6 +9263,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180830T051838Z">
         <seg>"I'll tear down your lousy net and see if you can still laugh!" It was the first time Lin Li took out his own staff from the Space Ring since leaving the log cabin. It was the only thing Andoine had gifted him—a magic staff embedded with the magical crystal of the Frost Troll. Lin Li had named it Winter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“老子虽然不是锻造大师，可老子随便一找，就找了个锻造大师来帮忙，这可比锻造大师厉害多了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134353Z" creationid="sangni" creationdate="20181213T134353Z">
+        <seg>"</seg>
       </tuv>
     </tu>
     <tu>
@@ -37662,6 +37670,14 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>还好……老家伙脸皮够厚。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134327Z" creationid="sangni" creationdate="20181213T134327Z">
+        <seg>Thankfully...that old fellow was shameless enough.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>还好……这一面元素护盾，应该还能顶一发燃烧火球。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T043803Z" creationid="Irene Tan" creationdate="20181213T043803Z">
@@ -40792,8 +40808,8 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>麦德林就更不用说了，刚刚在人家面前吹嘘了一番锻造大师什么的，结果一转眼却发现，人家手艺比自己强一百倍，这感觉简直比被人捉奸在床还尴尬……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134251Z" creationid="sangni" creationdate="20181213T134033Z">
-        <seg>Macklin was worse, he had just boasted about being a formidable trainer but didn't have the skills to back it up. Lin Li was about a hundred times more skillful than himself, and this feeling was even more embarrassing for Macklin than being caught red-handed in an affair. </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T134404Z" creationid="sangni" creationdate="20181213T134033Z">
+        <seg>Macklin was worse, he had just boasted about being a Master of forging but didn't have the skills to back it up. Lin Li was about a hundred times more skillful than himself, and this feeling was even more embarrassing for Macklin than being caught red-handed in an affair. </seg>
       </tuv>
     </tu>
     <tu>
