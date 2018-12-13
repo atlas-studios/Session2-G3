@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4597,6 +4597,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“在法兰王国，能跟奥德文抗衡的强者，用一只手都数得过来，而风暴剑圣奥拉吉尔，就正是其中一个。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T170603Z" creationid="sangni" creationdate="20181213T170603Z">
+        <seg>"There are only fewer than five people combined who can try to compete against Odin in Felan Kingdom. Temperamental blade-master, Oleandro would have to be one of the few."  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“地阶丹药？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055908Z">
@@ -4809,6 +4817,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180807T081517Z">
         <seg>"We have to turn in failed quests as well, or we won't be able to receive new ones."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“奥德文的实力，你应该知道吧？法兰王国最强的二十一级法师。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T170424Z" creationid="sangni" creationdate="20181213T170424Z">
+        <seg>"You should know about Odin's capabilities right? He is the strongest level-21 mage in Felan Kingdom." </seg>
       </tuv>
     </tu>
     <tu>
@@ -6557,6 +6573,14 @@ Matthias looked over at Lin Li cockily as though he was looking at someone insig
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180912T090816Z">
         <seg>"Mm, we'll do just that." Gerian nodded. He was going to entrust a mage with this important task but hesitated. "I shall just do it personally, it'll seem more respectful this way..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“恩，我知道。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T170435Z" creationid="sangni" creationdate="20181213T170435Z">
+        <seg>"Yes, I know."</seg>
       </tuv>
     </tu>
     <tu>
