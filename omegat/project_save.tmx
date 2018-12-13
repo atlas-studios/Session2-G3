@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -901,6 +901,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不过这个永恒神殿，究竟在什么地方……”自从答应麦格雷尼之后，这件事就一直困扰着林立，他想过很多办法，也问过很多人，却始终没找到永恒神殿的线索。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T171833Z" creationid="ACER" creationdate="20181213T171833Z">
+        <seg>"But this Eternity Temple, the exact location... ..." Ever since agreeing to help Mr McGrenn, this matter had been burdening Lin Li. He had thought of many ideas, and asked many people but he still could not find any clues about the Eternity Temple.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不错不错，能看出这一点来，你也算是个不错的医生了。”林立笑眯眯的夸了两句，之后却话锋一转：“可惜就是眼睛不太好……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180920T032240Z">
@@ -1489,6 +1497,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180919T025147Z">
         <seg>"Ina, bring me to Mr McGrenn first. I can't think of any solution yet."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“伊娜，在白银之手待得惯吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T165223Z" creationid="ACER" creationdate="20181213T165203Z">
+        <seg>"Ina, are you comfortable in White Silver Hand Guild?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -2383,6 +2399,14 @@ Lin Li stared at Matthias for a long time and the ends of his mouth curve up sli
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“出完气了？”林立站在千叶酒馆门外，前眼目睹了这一幕，一时间有些哭笑不得。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T165019Z" creationid="ACER" creationdate="20181213T165019Z">
+        <seg>"Finished venting your anger?" Lin Li asked as he stood outside of the Thousand Leaf Tavern, witnessing whatever had happened and he did not know whether he should laugh or cry at this moment. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“刚……刚才……刚才我跟伊娜去打水的时候，旁边忽然冒出一只怪物！它它它……它把伊娜给……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T072103Z">
@@ -2451,6 +2475,14 @@ Lin Li stared at Matthias for a long time and the ends of his mouth curve up sli
       </tuv>
       <tuv lang="EN-US" changeid="cktal" changedate="20180813T072237Z">
         <seg>“Leviathan Gorilla?”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“别哭，都过去了……”林立轻轻拍着她的肩膀，低声安慰着。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T170101Z" creationid="ACER" creationdate="20181213T170101Z">
+        <seg>"Don't cry, it's all over... ..." Lin Li comforted her as he patted on her shoulders gently. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2935,6 +2967,14 @@ Lin Li stared at Matthias for a long time and the ends of his mouth curve up sli
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“可是……可是爸爸一直告诉我，妈妈在生我的时候，就因为难产去世了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T171217Z" creationid="ACER" creationdate="20181213T171207Z">
+        <seg>"But... ... But my Father used to tell me that my Mother died due to difficult labour when I was born." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“可是费雷先生他……”伊娜神色间有些委屈，扑闪扑闪的大眼睛向林立投去了求助的目光。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180920T032129Z">
@@ -3211,6 +3251,14 @@ Lin Li stared at Matthias for a long time and the ends of his mouth curve up sli
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180919T073557Z">
         <seg>"Huh...."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“呼……”而与此同时，一群红月佣兵团的冒险者，也是不约而同的松了口气，一个个脸上都露出了如释重负的表情，对于他们来说，这是真正的劫后余生。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T163825Z" creationid="ACER" creationdate="20181213T163825Z">
+        <seg>"Hu... ..." All the Adventurers from Blood Moon Troops heaved a sigh of relief simultaneously. All their faces showed their tensed feeling and to them, they were really lucky to be surviving from the incident. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3673,6 +3721,14 @@ Lin Li stared at Matthias for a long time and the ends of his mouth curve up sli
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“哦……没什么。”林立摇了摇头，暂时把永恒神殿放到一边，想了想之后，又轻声向长腿美女问道：“伊娜，你打算什么时候回加洛斯？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T174734Z" creationid="ACER" creationdate="20181213T174734Z">
+        <seg>"Oh... ... Nothing much." Lin Li shook his head and put aside the Eternity Temple and thought for a while before asking Long-leg Beauty,"Ina, when are you going back to Jarrosus?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“哦……那他现在在哪？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180912T040822Z">
@@ -3861,6 +3917,14 @@ Lin Li stared at Matthias for a long time and the ends of his mouth curve up sli
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180918T135402Z">
         <seg>"Hmph!" Old Merlin could not keep it in at last. With a flick of his sleeves, he left with Cromwell in the midst of Gerian's arrogant laughter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“哼！”长腿美女鼻子一皱，轻轻一甩金发，很神气的走了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T164645Z" creationid="ACER" creationdate="20181213T164645Z">
+        <seg>"Hmph!" Long-leg Beauty gently swung her golden hair, walking away boldly.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -4081,6 +4145,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181002T041254Z">
         <seg>"Ah!" Lin Li took the letter, dumbfounded. The envelope turned out to be an equivocal pink with a bright-red lip print on the bottom right side...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“啊！”白银之手的制式皮靴，可是专为各种冒险者定做的，做工虽然不怎么精细，那靴底却是硬得吓人，踢在马尔科的脸上，就好象用鞭子抽上去一样，当场就踢肿了他大半边脸。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T164424Z" creationid="ACER" creationdate="20181213T164424Z">
+        <seg>"Ouch!" The boots that were designed by White Silver Hand Guild were specially made for the Adventurers. Although the workmanship were not that fine, the soles of the boots were horrifying hard. Kicking it onto Malcor's face was as if using a whip to whipped on his face. Instantly, half of his face was swollen. </seg>
       </tuv>
     </tu>
     <tu>
@@ -5149,6 +5221,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“妈妈！”伊娜惊声问道：“费雷先生，爸爸真是这么说的？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T171049Z" creationid="ACER" creationdate="20181213T171049Z">
+        <seg>"Mother?!" Ina was surprised and asked, "Mr Felic, did my Father really said these?" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“妈的……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181211T175507Z">
@@ -5369,6 +5449,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180922T061801Z">
         <seg>"Right... The Martial Arts Hall! I should go to the Martial Arts Hall and be a sparring partner! Like that, not only can I make some money, I might even be able to meet Young Mistress Ji!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“对了伊娜，麦格雷尼先生，让我把这个交给你。”见伊娜情绪有些低落，林立忙从口袋中掏出那半截断箭，希望能转移她的注意力。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T170317Z" creationid="ACER" creationdate="20181213T170317Z">
+        <seg>"Oh ya Ina, Mr McGrenn requested me to pass this to you." Lin Li said as he pulled out a half-broken arrow from his pocket, hoping to divert her attention when he saw her being so upset.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6175,6 +6263,14 @@ Olive had changed a lot ever since he injured himself. He started to have more e
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“很习惯呀，大家都对我很好，玛莉团长就象姐姐一样，费雷先生，我跟你说，玛莉团长可是一位大美女哦，前几天我们去噩梦山脉，遇到了很多很多的魔兽，然后我们就……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T165420Z" creationid="ACER" creationdate="20181213T165420Z">
+        <seg>"Yes, I am comfortable there. Everyone treats me very well. Captain Mary is just like my sister. Mr Felic, let me tell you, Mary is actually a beauty. A few days ago, when we went Mountains of Koshmar, we encountered a lot Demon beast, and then we ... ..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“很厉害！”林立还是没听明白：“可是……这关我什么事？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181213T171250Z" creationid="sangni" creationdate="20181213T171250Z">
@@ -6589,6 +6685,14 @@ Matthias looked over at Lin Li cockily as though he was looking at someone insig
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181017T043902Z">
         <seg>“Alright!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“恩！”伊娜重重的点了点头，那双天蓝色的美目中，终于多了几分生气，至少她现在知道，自己在这个世界上还有亲人。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T171433Z" creationid="ACER" creationdate="20181213T171433Z">
+        <seg>"Yeah!" Ina nodded her head intensely. Now she knew that in this world, she still had a family member. </seg>
       </tuv>
     </tu>
     <tu>
@@ -9250,6 +9354,16 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“穿过幽暗之海？”林立听得一惊，就连他这个穿越者都听过，幽暗之海无边无际，海中各种魔兽，比陆地上强大百倍，所以又有死亡之海的别称，安瑞尔历史上，还从未有人横跨过这片禁忌之海，难道麦格雷尼年轻的时候，竟在无人知晓的情况下，完成过这一壮举？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T172703Z" creationid="ACER" creationdate="20181213T172510Z">
+        <seg>"Passing by the sea of darkness?" Lin Li exclaimed when he heard, feeling shocked. Even a time traveler like him had heard before that the sea of darkness had no boundary. There were all kinds of Demon beast, even stronger than those on the land by a hundred times, so it had a nickname of sea of death.
+
+In the history of Anril, there were no one who were able to pass through this forbidden sea. Did Mr McGrenn did it when he was young, without anyone knowing?  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“立刻收拾好你的东西，从我家里滚出去！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180731T090401Z">
@@ -10028,6 +10142,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“让你说下流话，不要脸！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T164052Z" creationid="ACER" creationdate="20181213T164052Z">
+        <seg>"Who allowed you to say such low words? Shameless!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“让让，让让……”胖叔叔刚刚说了没几句话，就一时不慎被人挤到了旁边，他哪里肯甘心，赶忙凭着身体的优势将林立挤开，又凑到了凯文跟前：“凯文魔法师，宴会完了之后一起吃个饭怎么样？罗德叔叔手上正好有笔生意想跟魔法公会谈谈！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181001T050124Z">
@@ -10145,6 +10267,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T044416Z">
         <seg>"Who knows. Maybe he thinks the rich are here, and would like to get some money for a potion to level up." 
 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“谁让他说下流话的……”伊娜娇俏的皱了皱鼻子。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T165138Z" creationid="ACER" creationdate="20181213T165138Z">
+        <seg>"Who asked him to say such cheap words... ..." Ina replied as she wrinkled her nose. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10301,6 +10431,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“费雷先生什么时候回去，我就什么时候回去……”伊娜小脸微红，声音又轻又低，但一双美目中，却透出一丝坚定。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T174937Z" creationid="ACER" creationdate="20181213T174937Z">
+        <seg>"I will go back when Mr Felic go back... ..." Ina muttered, feeling very shy, yet firmly. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“费雷先生怎么一个人坐在这里，是不是在怪艾萨克招呼不周？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181002T080829Z">
@@ -10321,6 +10459,14 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       </tuv>
       <tuv lang="EN-US" changeid="ACER" changedate="20181213T082928Z" creationid="ACER" creationdate="20181213T082928Z">
         <seg>"Mr Felic!" Hanke shouted when he saw Lin Li from afar as he entered the hall. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“费雷先生，你在想什么？”见年轻魔法师久久不语，伊娜有些好奇的问道。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T174618Z" creationid="ACER" creationdate="20181213T174618Z">
+        <seg>"Mr Felic, what are you thinking?" Seeing the Young Mage silent for so long, Ina was curious and asked him. </seg>
       </tuv>
     </tu>
     <tu>
@@ -10868,6 +11014,14 @@ Just as Lin Li was about to help Olive up, he spotted Mason from afar who was pa
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181213T165938Z" creationid="sangni" creationdate="20181213T165938Z">
         <seg>"This...could you please tell me the reason?", Lin Li hesitated for a long time before he was finally relaxing a bit. Honestly speaking, he was rather curious about the matter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“这个……我记得有一次，爸爸喝醉了酒之后，好象提到过什么什么神殿……”伊娜皱起眉头的样子，显得异常可爱：“不过那个时候，我年纪还小，好多话都已经记不清了，我只记得爸爸说，那是个很远的地方，要坐船穿过幽暗之海……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T172211Z" creationid="ACER" creationdate="20181213T172211Z">
+        <seg>"Erm... ... I remembered there was once that when Father was drunk, he mentioned about some temple... ..."Ina said as she frowned, looking very cute," But at that time, I was still young so there were many words that I had forgotten but I remembered very clearly that Father said it was a very far place, and had to sit on a boat, passing by the sea of darkness... ..." </seg>
       </tuv>
     </tu>
     <tu>
@@ -11546,6 +11700,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180925T040645Z">
         <seg>"We'll do as you wish..." Gerian only nodded after hearing what Lin Li said and did not ask what was so extraordinary about the necklace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那应该是麦格雷尼先生觉得你年纪还小，不适合知道这些事，所以才骗你说，你妈妈生你的时候难产去世了。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T171340Z" creationid="ACER" creationdate="20181213T171340Z">
+        <seg>"Maybe Mr McGrenn think that you were still young so it was inappropriate to let you know about these stuffs, and thus he came up with this lie, saying that your Mother died due to difficult labour." </seg>
       </tuv>
     </tu>
     <tu>
@@ -12246,6 +12408,14 @@ Mason felt that he was on the verge of turning crazy. He always thought that sin
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180920T033010Z">
         <seg>"McGrenn is fine now, you should be happy. Why are you crying..." Lin Li kept the beaker into his pocket, then carefully reminded Ina, "Although he's fine now, his body will still be extremely weak. I reckon it might still take some time for him to recover. You had better persuade him not to take on any quests for the next two to three months."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“麦格雷尼先生说，让你拿着这半截断箭，去永恒神殿找你妈妈。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T170910Z" creationid="ACER" creationdate="20181213T170910Z">
+        <seg>"Mr McGrenn wants you to hold onto this half-broken arrow and go to Eternity Temple to look for your Mother." </seg>
       </tuv>
     </tu>
     <tu>
@@ -13118,6 +13288,16 @@ He always felt that the greatest motivation for him—the reason why he could en
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>一群红月佣兵团的人在那面面相觑，望向马尔科的目光无不带着几分同情……惹谁不好，非要去惹这泼辣女人，那可是白银之手出了名的小辣椒！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T164922Z" creationid="ACER" creationdate="20181213T164917Z">
+        <seg>The people from Blood Moon Troops looked at each other, and when they looked towards Malcor, they could not help but sympathized him... ... 
+
+Why did he even offend that rude and unreasonable woman? She was the famous rude and unreason woman in White Silver Hand Guild! </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一群红月佣兵团的人突然闯了进来，领头的是一个叫马尔科的九级战士，他们一冲进千叶酒馆，就叫嚣着要让伊娜他们交出那一批魔晶，否则就要把他们全部抓起来，交给红月佣兵团团长处理。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="ACER" changedate="20181213T094610Z" creationid="ACER" creationdate="20181213T094610Z">
@@ -13641,6 +13821,14 @@ If he had a large number of elixirs and continued relying on black essence force
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181010T045323Z">
         <seg>At that moment, whether it was the fat man who wanted to introduce his daughter to Kevin, the aunty with the full bosom, or even Anthony Rolin trying to get Bathrilor's favor by flattery, the looks they gave to Grimm Burnside were full of heartfelt admiration.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>不管麦格雷尼身上藏着多少秘密，他始终只是一个六级战士，就算以生命为代价，使用了破灭斗气，也不过十级而已，这样的实力连林立都打不过，又怎么可能抗衡上古魔兽？那可是一个呼吸，就能粉碎大魔导士的变态存在！</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T174118Z" creationid="ACER" creationdate="20181213T174118Z">
+        <seg>No matter how many secrets that Mr McGrenn had hidden, he was still a level-six warrior. Even if his life was at stake, and he used the Shattered Strike, he was only at level-ten. Lin Li could not even fight against these Ancient Demon beast, so how was it even possible for Mr McGrenn to fight with them? These Demon beast were creatures that could destroy the Magic Shooter with just a breadth. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14237,6 +14425,14 @@ He had just the right time to carefully research the black essence force.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181212T134403Z">
         <seg>When the duo was conversing, Lin Li came into the room and passed a sparkling blue glass bottle into the hands of Olive. He did not say anything else but only reminded him to remember to consume it before sleeping.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两人漫无目的的走在奥兰纳街头，林立静静的听着，听伊娜讲着自己的经历，从她怎么离开加洛斯，到怎么加入白银之手佣兵团，再从各种任务，到跟红月佣兵团的纠纷……此时的长腿美女，就好象一只欢快的小麻雀一般。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T165836Z" creationid="ACER" creationdate="20181213T165836Z">
+        <seg>Without looking, both of them walked to the Alanna street. Lin Li listened attentively while Ina talked about her experience; from how she left Jarrosus to joining White Silver Hand Guild and doing a variety of missions to arguing with Blood Moon Troops... ... The Long-leg Beauty at this moment looked like a happy sparrow. </seg>
       </tuv>
     </tu>
     <tu>
@@ -17483,6 +17679,14 @@ Should he ever dare to head up the Western Hills, he would have no other future 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>但说着说着，伊娜却是神色一黯，声音中隐隐带着一丝哭腔：“大家都对我很好，可……可我还是想家，还是想爸爸……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T170017Z" creationid="ACER" creationdate="20181213T170017Z">
+        <seg>As she said all these, Ina looked dull and depressed, with her voice faintly including a crying element, "Everyone treats me well, but... .... But I still miss home and I miss Father... ..."  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>但说者无心听者却是有意，一句“医术高明”落入罗琳耳中，一张俏脸顿时变得煞白，虽然伊娜一直没怪过她，但她对那天的事却始终耿耿于怀，若不是眼前的年轻魔法师坚持，自己竟险些害了最好朋友的父亲，这个念头就象一条毒蛇，始终盘踞在罗琳心里，让她无时无刻不陷于自责与懊悔当中。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181005T033503Z">
@@ -20017,6 +20221,14 @@ It was definitely the case that as he could not identify the additional ingredie
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T064859Z" creationid="Irene Tan" creationdate="20181213T064859Z">
         <seg>Then again... how do you explain what just happened？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>可是……除了这个理由之外，又怎么解释永恒神殿的神秘？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T174211Z" creationid="ACER" creationdate="20181213T174211Z">
+        <seg>But... ...Other this reason, what else can explain about the mystery of Eternity Temple? </seg>
       </tuv>
     </tu>
     <tu>
@@ -23919,6 +24131,16 @@ This meant his essence force refining speed was an entire thirty times slower th
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>幽暗之海中，不知潜伏着多少上古魔兽，早在巨龙与泰坦争霸的洪荒年代，这些上古魔兽就生活在海洋当中，它们的力量，远非凡人所能抗衡，即便是黑暗年代之时，强极一时的高等精灵一族，也不敢挑衅这些海中霸主的威严。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T173716Z" creationid="ACER" creationdate="20181213T173716Z">
+        <seg>In the Sea of darkness, there were many hidden ancient Demon beast. During the era when the Legendary Dragon and Titan were fighting for supremacy, those ancient Demon beast had been living in the sea. 
+
+Their strengths were far away from what a mortal could handle. Even during the Dark Ages, even the very strong and tough High Elves Clan would not have the guts to challenge the dignity of the Lords of the Sea,  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>幽纹魔豹自带抗魔属性，又天生精通黑暗魔法，用这种仿佛放风筝一样的战术，简直就象找死，一个黑暗魔法，就能将那风筝从天上射下来。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181212T092113Z">
@@ -25659,6 +25881,14 @@ After instructing his maidservant to serve some aromatic tea, he gave a small sm
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T045751Z">
         <seg>Lin Li massaged his aching shoulder. He took a look back at the stupefied onlookers before packing his tools and turning into the direction of the pharmacy. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>提起白银之手佣兵团，伊娜俏脸上显得神采飞扬。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T165503Z" creationid="ACER" creationdate="20181213T165503Z">
+        <seg>When mentioning White Silver Hand Guild, Ina expression seemed to be very excited. </seg>
       </tuv>
     </tu>
     <tu>
@@ -28286,6 +28516,14 @@ He then snorted coldly. "Jiang Song, you can get out of my sight now! You no lon
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180906T040028Z">
         <seg>Just as he was absorbed in his thoughts, the party had reached the doorstep of the Adventurers Guild.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>正当所有人都觉得庆幸的时候，千叶酒馆的大门，却忽然被人推开了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T163908Z" creationid="ACER" creationdate="20181213T163908Z">
+        <seg>Just when everyone felt relieved, the door of the Thousand Leaf Tavern was pulled open by someone. </seg>
       </tuv>
     </tu>
     <tu>
@@ -33014,6 +33252,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>然后一群冒险者就看见，那个长腿美女风风火火的闯了进来，穿着小皮靴的美腿，狠狠的踢到了马尔科脸上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T164024Z" creationid="ACER" creationdate="20181213T164024Z">
+        <seg>The Adventurers saw the Long-leg Beauty entering ferociously. Wearing a pair of boots, she kicked Malcor's face hardly. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>然后两人又进了会客室，谈话内容连凯文都不知道。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="cktalon" changedate="20180910T024943Z">
@@ -33590,6 +33836,14 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>目送这瘟神走出千叶酒馆，马尔科真是吓得脸都白了，背上一阵凉嗖嗖的，就好象刚被水浸过，一直到脚步声渐渐远去，他才长长的吁了口气，伸手抹去额头上的冷汗，一时之间，这觉得浑身无力，就这么软软的坐到了地上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T163532Z" creationid="ACER" creationdate="20181213T163532Z">
+        <seg>After seeing Lin Li leaving the Thousand Leaf Tavern, Malcor was really terrified till his face white and his back was so chilling, as if he lied on the ice previously. He could only heave a sigh of relief when the sound of the footsteps were further away. He used his hand to wipe off the cold sweat on his forehead, and for that instant, he felt weak and sat on the ground directly. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>相同等级的魔法中，咒语越长结构越复杂，威力自然也就越大，既然都消耗相同的魔力，谁不愿意选威力大的？这就跟打麻将一样，一把好牌拿起来，谁不愿意做做清一色什么的？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180907T053224Z">
@@ -34160,6 +34414,14 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181212T093731Z">
         <seg>Chapter 114: Matthias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第一百一十章 大魔导士打铁</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T163133Z" creationid="ACER" creationdate="20181213T162620Z">
+        <seg>Chapter 110 Archmage doing Ironworks</seg>
       </tuv>
     </tu>
     <tu>
@@ -36015,6 +36277,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180904T041051Z">
         <seg>Lin Li was afraid as well. But he was even more afraid of this cursed forest. If he wished to walk out of this forest, he could not let the Wyvern turn those three into corpses. Sometimes, the reason for doing a good deed was just as simple as this.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>老实说，林立这一段时间，已经问过不少人了，包括那个山羊胡子麦德林，林立都曾经旁敲侧击的向他打听过，而得到的答案，却是出奇的一致——什么鸟毛永恒神殿？没听过……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T174509Z" creationid="ACER" creationdate="20181213T174509Z">
+        <seg>Frankly speaking, during this time, Lin Li had asked many people, including the mustache Macklin. Lin Li tried all kinds of ways to obtain clues about this place but the only answer he had was --- What temple? I had not heard about it before... ... </seg>
       </tuv>
     </tu>
     <tu>
@@ -39264,6 +39534,16 @@ He slapped his forehead and exclaimed, "What I am thinking? Refining elixirs? I 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>这个办法确实有效，他一拿出这半截断箭，伊娜就忘记了悲伤，只见她脸上露出了几分疑惑的神色：“这个我好象见过，记得小时候，爸爸就经常一个人看着这半截断箭发呆，有时候一看就是一下午，不过后来我年纪大了之后，爸爸就很少把它拿出来了，费雷先生，爸爸把这个交给你的时候，有没有说些什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T170720Z" creationid="ACER" creationdate="20181213T170712Z">
+        <seg>This idea was indeed effective. The moment he took out the half-broken arrow, Ina forgot her sadness. Her face showed some form of uncertainty and stated, "I seem to have seen this arrow before. I remembered when I was young, Father will frequently daze at this half-broken arrow, and some times, he will look at this for the whole afternoon. 
+
+But when I grow up, Father rarely bring this out. Mr Felic, when my Father asked you to pass this to me, did he say anything?"   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>这个叫马迪亚斯的魔法师，跟他身后那两个家伙，肯定是同一个试炼小队的。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181213T154030Z">
@@ -39458,6 +39738,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180828T072154Z">
         <seg>His actions reminded the trio of a vampire, and it sent chills down their spines...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这似乎是不太可能的……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T172715Z" creationid="ACER" creationdate="20181213T172715Z">
+        <seg>But this seemed to be impossible... ...</seg>
       </tuv>
     </tu>
     <tu>
