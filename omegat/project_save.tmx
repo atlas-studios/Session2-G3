@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -2883,6 +2883,14 @@ Lin Li stared at Matthias for a long time and the ends of his mouth curve up sli
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180904T043609Z">
         <seg>“Just call me Felic, it will do…” Lin Li was rather troubled. He had mentioned it several times on the way, but McGrenn still insisted on calling him with honorifics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“可以。”麦德林很干脆：“风暴剑圣知道吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T170042Z" creationid="sangni" creationdate="20181213T170042Z">
+        <seg>"Okay.", Macklini decisively asked, "Does the Temperamental blade-master know about it?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -10792,6 +10800,14 @@ Just as Lin Li was about to help Olive up, he spotted Mason from afar who was pa
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“这个……您能告诉我原因吗？”林立犹豫了很久，口气终于有些松动，老实说，他对这件事，确实充满了好奇。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T165938Z" creationid="sangni" creationdate="20181213T165938Z">
+        <seg>"This...could you please tell me the reason?", Lin Li hesitated for a long time before he was finally relaxing a bit. Honestly speaking, he was rather curious about the matter.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“这个……这个叫锻造！”麦德林可不管这些，使劲吹嘘起来：“铁匠知道吧？很厉害的一种职业！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181213T114706Z" creationid="sangni" creationdate="20181213T114621Z">
@@ -11346,6 +11362,14 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181003T061555Z">
         <seg>"Then, take a good rest." Isaac hesitated for a moment, and then, still slightly worried, asked Lin Li for help. "Mage Felic, could you help keep an eye on my daughter for the time being? There are many guests today and I really can't excuse myself. Rowling has not been in good health since young, I'm afraid just in case..." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“那你是答应了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T165852Z" creationid="sangni" creationdate="20181213T165852Z">
+        <seg>"So is that a yes from you?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -27094,6 +27118,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180929T014934Z">
         <seg>Lin Li looked up and cast a glance, only to find that the owner of the Gilded Rose seemed a little too young. He looked to be in his twenties and not quite 30. He was handsome, fair, and refined, exuding a scholarly aura that would leave a good impression on people.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林立摇了摇头，否定了他的猜测：“试炼当然要凭自己的实力。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T165839Z" creationid="sangni" creationdate="20181213T165839Z">
+        <seg>Lin Li shook his head and denied Macklin's inference. He said, "We should definitely rely on our own capabilities when participating in quests."</seg>
       </tuv>
     </tu>
     <tu>
