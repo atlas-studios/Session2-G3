@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13876,8 +13876,8 @@ He had just the right time to carefully research the black essence force.</seg>
       <tuv lang="ZH-CN">
         <seg>两人将欧灵扶到花圃旁坐下，那三个家伙也同时跟了上来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181212T054250Z">
-        <seg>As they helped Olive to take a seat at the flower nursery, the three fellows also followed them.  </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T154849Z">
+        <seg>As they helped Olive to take a seat by the flowerbed, the three fellows also followed them.  </seg>
       </tuv>
     </tu>
     <tu>
