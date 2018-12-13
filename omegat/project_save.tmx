@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -8772,8 +8772,8 @@ Jiang Yi recalled the sequence of events that had taken place in the morning. Hi
       <tuv lang="ZH-CN">
         <seg>“现在，你可以去提交决斗申请了。”林立怜悯的看了马迪亚斯一眼，目光又落到了那两个一唱一和的魔法师身上，只见他皱了皱眉头，很有礼貌的问了一句：“我想请问一下，刚才我那位队友，是不是也侮辱到了两位的公会了？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T074332Z" creationid="Irene Tan" creationdate="20181213T074332Z">
-        <seg>"There... you can now summit the request for a battle." Lin Li scoffed and looked at Matthias pitifully. He then scanned at the two other Mages that were chiming in previously and pulled his brows together, scowling, "If I'm not wrong... I heard that my teammate offended both of your Guilds as well, isn't it?" </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164347Z" creationid="Irene Tan" creationdate="20181213T074332Z">
+        <seg>"There... you can now summit the request for a battle." Lin Li scoffed and looked at Matthias pitifully. He then scanned at the two other Mages that were chiming in previously and pulled his brows together, scowling, "If I'm not wrong... I heard that my teammate had also offended both of your Guilds, didn't he?" </seg>
       </tuv>
     </tu>
     <tu>
@@ -20327,16 +20327,16 @@ Additionally, once his sense of smell became stronger, he was able to smell even
       <tuv lang="ZH-CN">
         <seg>四肢折断的痛苦，远非一般人所能承受，痛苦的哀号一阵接着一声，惨叫声听得所有人都不禁头皮发麻，只见马迪亚斯那一张痛不欲生的脸上汗珠密布，身体紧紧蜷曲，就好象一只被开水烫过的虾米一样。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T073754Z" creationid="Irene Tan" creationdate="20181213T073754Z">
-        <seg>Having all four limbs broken is not a pain that anyone could withstand. The wails that were never ending seemed to be accusing Lin Li of his cruelty. Matthias' blood-curdling screams sounded hair raising to the onlookers. He was squirming around and he broke out in cold sweat as he winced in pain. </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164235Z" creationid="Irene Tan" creationdate="20181213T073754Z">
+        <seg>Having all four limbs broken was not a pain that anyone could withstand. The wails that were never-ending seemed to be accusing Lin Li of his cruelty. Matthias' blood-curdling screams was hair-raising to the onlookers. He was squirming around, breaking out in cold sweat as he winced in pain. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="ZH-CN">
         <seg>四记奥术飞弹轰出，带来了四声清脆的声响，同时也折断了马迪亚斯的四肢，就好象他刚才对欧灵所做的一样，只不过他刚才是断了欧灵一条手臂，而林立则干得更彻底，直接就将他四肢折断……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T072647Z" creationid="Irene Tan" creationdate="20181213T072647Z">
-        <seg>After shooting the four Arcane Missiles, four crisp sounds ensued. Matthias' four limbs were broken, just like what he did to Olive previously. However, he only broke one of Olive's arm, but Lin Li was much more ruthless and broke all four limbs of Matthias... </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164132Z" creationid="Irene Tan" creationdate="20181213T072647Z">
+        <seg>After shooting the four Arcane Missiles, four crisp sounds ensued. Matthias' four limbs were broke, just like what he did to Olive previously. However, he only broke one of Olive's arm. Lin Li was much more ruthless and broke all of his limbs...</seg>
       </tuv>
     </tu>
     <tu>
@@ -21195,8 +21195,8 @@ Even splitting entire mountains, flying freely in the sky, and becoming virtuall
       <tuv lang="ZH-CN">
         <seg>在这凄厉的惨叫声中，几乎所有人都听到了一阵清脆的声响，他们知道，那是骨头折断的声音。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T082256Z" creationid="Irene Tan" creationdate="20181213T072336Z">
-        <seg>Amidst the shrill screams, everyone could hear a crisp cracking sound. They all knew, it was the sound of Matthas' bone cracking.  </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T164016Z" creationid="Irene Tan" creationdate="20181213T072336Z">
+        <seg>Amidst the shrill screams, everyone could hear a crisp cracking sound. They all knew that was the sound of Matthias' bone.</seg>
       </tuv>
     </tu>
     <tu>
