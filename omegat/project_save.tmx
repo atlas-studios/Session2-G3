@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12855,8 +12855,8 @@ He always felt that the greatest motivation for him—the reason why he could en
       <tuv lang="ZH-CN">
         <seg>一直到今天欧灵才知道，这个自称七级魔法师的室友，是一个多么变态的家伙。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T014704Z">
-        <seg>It was only until this day that Olive knew, how terrifying the self-proclaimed level-seven roommate was.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165940Z">
+        <seg>It was only till this day that Olive knew, how terrifying the self-proclaimed level-seven roommate was.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14827,8 +14827,8 @@ Due to unknown reasons, Jiang BieLi did not marry his mother and his mother left
       <tuv lang="ZH-CN">
         <seg>于是，老家伙这大半个上午，就一直在图书馆里看书，等到差不多该吃午饭的时候，才磨磨蹭蹭的进了公会大厅。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T134303Z">
-        <seg>Thus, old Macklin had always been reading in the library in the entire morning. It was only until lunchtime when he slowly proceeded towards the hall.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170117Z">
+        <seg>Thus, old Macklin had been reading in the library in the entire morning. It was only until lunchtime when he slowly strolled towards the hall.</seg>
       </tuv>
     </tu>
     <tu>
@@ -21800,8 +21800,8 @@ The guard clad in black armor brought Jiang Yi into a corridor on the left-hand 
       <tuv lang="ZH-CN">
         <seg>天色渐渐暗了下来，三人折腾了一天，早就累得不成样子，这一躺到床上，几乎都是一觉睡到了天亮。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T134648Z">
-        <seg>The sky gradually darkened. The trio who have been restless for the entire day was already so exhausted that they immediately fell into deep slumber. </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170000Z">
+        <seg>The sky gradually darkened. The trio who had been restless for the entire day was already so exhausted that they immediately fell into deep slumber. </seg>
       </tuv>
     </tu>
     <tu>
@@ -23845,8 +23845,8 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       <tuv lang="ZH-CN">
         <seg>当他揉着惺忪睡眼打开房门的时候，看见的却不是意料中的马森，而是一位一他想都没想过的人物。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T020540Z">
-        <seg>As he rubbed his bleary eyes, who he saw was not the expected Mason, but a person he never would have thought about.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170040Z">
+        <seg>As he rubbed his bleary eyes, what came to view was not Mason but a person he never expected.</seg>
       </tuv>
     </tu>
     <tu>
@@ -23893,8 +23893,8 @@ This time he prepared to store extra—by not sleeping and instead extracting fo
       <tuv lang="ZH-CN">
         <seg>当初在洛特丹公会的时候，会长大人——也就是自己的导师，就曾经高价购买过几瓶，欧灵到现在都还记得，当自己听到价格的时候，脸都差点吓白了，那几瓶恢复药剂的价格，甚至足以装备出一个象样的魔导士了！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T144552Z">
-        <seg>The President—or his mentor, had once purchased a few bottles of the potion at an incredibly exorbitant price at the Guild of Rosterdam. Olive still remembered when how shock he was when he first heard of the price of the Recovery Potions. The cost of those potions was even sufficient to equip an Archmage fully!</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165919Z">
+        <seg>The President—or his mentor, had once purchased a few bottles of the potion at an exorbitant price at the Guild of Rosterdam. Olive still remembered how shock he was when he first heard of the price of the Recovery Potions. The cost of those potions was sufficient to fully equip an Archmage!</seg>
       </tuv>
     </tu>
     <tu>
@@ -27954,8 +27954,8 @@ He then snorted coldly. "Jiang Song, you can get out of my sight now! You no lon
       <tuv lang="ZH-CN">
         <seg>欧灵现在都还记得，当他将那瓶恢复药剂递过来的时候，根本就连眉头都没皱一下，就好象递过来的不是上万金币，而是一块不起眼的石头一样。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T014448Z">
-        <seg>Olive still remembered, when how casually he passed the bottle of Recovery Potion to him, as though the pricey bottle was just a piece of unwanted stone.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T165931Z">
+        <seg>Olive still remembered, how casually he passed the bottle of Recovery Potion to him, as though the pricey bottle was just a piece of unwanted stone.</seg>
       </tuv>
     </tu>
     <tu>
@@ -34278,8 +34278,8 @@ All of them were wearing masks of bronze-green beasts, with many of them having 
       <tuv lang="ZH-CN">
         <seg>第二天，林立是被一阵敲门声吵醒的。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T134703Z">
-        <seg>The second day, Lin Li was wakened by the knocking sound on his door.</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170013Z">
+        <seg>The second day, Lin Li was awakened by the knocking sound on his door.</seg>
       </tuv>
     </tu>
     <tu>
@@ -41786,8 +41786,8 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>麦德林真是想想就火大，今天本来想拿拿导师姿态，先让那三个小家伙等两个小时再说，他甚至连台词都想好了，就等他们三个等得不耐烦的时候，自己再大义凛然的站出来，好好教育他们一番：“连这点耐心都没有，以后又怎么忍受枯燥的魔法学习？年轻人呀……还是太毛躁了一点。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T134536Z">
-        <seg>The thought of it made Macklin shudder in fury. He had wanted to put up the front of a mentor and make those three fellas wait for at least two hours. He even had his grand entrance and lines planned if they were to get impatient. He would chide, "Without this bit of patience, how are you able to endure the tedious Magic training in the future? Haiz... You youngsters, are too short-tempered..." </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170051Z">
+        <seg>The thought of it made Macklin shudder in fury. He wanted to put up the front of a mentor and make those three fellas wait for at least two hours. He even had his grand entrance and lines planned if they were to get impatient. He would chide, "Without this bit of patience, how are you able to endure the tedious Magic training in the future? Haiz... You youngsters, are too short-tempered..." </seg>
       </tuv>
     </tu>
     <tu>
