@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6333,6 +6333,14 @@ Matthias looked over at Lin Li cockily as though he was looking at someone insig
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T155507Z">
         <seg>"How are you feeling?" Lin Li asked as he carefully helped Olive up, afraid that he would accidentally touch his broken arm.  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“怎么样？”见他久久不语，麦德林有些急了，又继续诱惑：“就一把魔法武器，也用不着太厉害，只要带点魔法属性就可以了，你好好考虑考虑，这件事只要办成了，我们两个老家伙，一定会重重的感谢你！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T164047Z" creationid="sangni" creationdate="20181213T164047Z">
+        <seg>"How is it?", seeing that he has still not spoken, Macklin got a little anxious and continued tempting Lin Li by saying, "It's just a magical weapon, you shouldn't need so much time to consider, as long as it has some magical properties, it'll be fine. You should think this over and once the deal is on, we two old fellows will reward you handsomely!"</seg>
       </tuv>
     </tu>
     <tu>
@@ -27026,6 +27034,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林立挠了挠头，却没有说话，他很想听听，这老家伙的重谢究竟是什么……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T164125Z" creationid="sangni" creationdate="20181213T164125Z">
+        <seg>Lin Li scratched his head, but he didn't speak. He wanted to listen and decipher what the reward that this old fellow had mentioned was...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林立探出头去望了一眼，却发现这位镀金玫瑰的主人，似乎年轻得有些过分了，看上去不过二十多岁，还不到三十岁的样子，容貌俊秀，白净斯文，身上带着浓浓的书卷气，让人一见之下不由大生好感。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180929T014934Z">
@@ -39090,6 +39106,14 @@ Despite coming up with so many ideas, the seal neither loosened nor changed. Yet
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180912T033736Z">
         <seg>Kevin had repeated this for at least a thousand times in the past two days. But never had he felt this joyful saying it. The words came as he opened his mouth, and he had spoken without feeling burdened, much less worried that he'd sleep-talk in the night. He had even felt a stone lifted off his heart after he'd finished the sentence...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这句话，林立记得很清楚。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T163832Z" creationid="sangni" creationdate="20181213T163832Z">
+        <seg>Lin Li remembers this saying by heart.	</seg>
       </tuv>
     </tu>
     <tu>
