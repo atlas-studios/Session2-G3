@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -26792,6 +26792,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林立翻了个白眼，心头小声嘀咕：“这次算慢的了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T135714Z" creationid="sangni" creationdate="20181213T135714Z">
+        <seg>Lin Li rolled his eyes before mumbling softly, "This is considered slow enough..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林立翻了个白眼，心想你这不是废话吗，这是打铁，又不是打石头，有象你这样双手举起铁锤开砸的？</seg>
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181213T120320Z" creationid="sangni" creationdate="20181213T120320Z">
@@ -34987,6 +34995,14 @@ Only the word "stunning" could be used to describe his Back Coupling Spell. Mack
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老家伙正在那暗暗得意，却忽然听到“滋”的一声，等到他回过神来的时候，那小子都已经在找他要十五级咒语了，麦德林顿时下了一跳：“这么快？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T135632Z" creationid="sangni" creationdate="20181213T135632Z">
+        <seg>The old fellow was still feeling extremely please, when he suddenly heard a sizzle. When he had finally recovered, Lin Li had already asked for the level-15 spell. Macklin felt shocked and thus asked, "So fast?"    </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老家伙气得山羊胡子一抖一抖，盯着马森的目光，凶得就好象要吃人一样：“你还敢问我什么事？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181212T134813Z">
@@ -40866,6 +40882,14 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T133831Z">
         <seg>As Macklin was recounting the incident, he was deeply grieved and distressed about the circumstance that the Guild of Magic was in. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>麦德林还有些不太相信，又几步走到水桶边上，想用手捞起那半截刚刚淬完火的剑身。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T135942Z" creationid="sangni" creationdate="20181213T135942Z">
+        <seg>Macklin was initially in disbelief before he walked beside the bucket, thinking of using his bare hands to fish out the body of the quenched sword. </seg>
       </tuv>
     </tu>
     <tu>
