@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -619,10 +619,26 @@ Although Lin Li has seen many who decided to betray their own team in the very l
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“不急不急……等一下我会慢慢说给你听的。”麦德林一脸的如释重负，一张老脸上笑得都快开出花来了，只见他伸出手来，在口袋里摸了摸，然后掏出一卷皱巴巴的羊皮纸：“你先把这个收好，十五级咒语魔力扰乱。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T151141Z" creationid="sangni" creationdate="20181213T151141Z">
+        <seg>"There's no hurry...I'll explain everything later.", Macklin was relieved, smiling brightly and stretching his hand out to fiddle with his pockets. He then handed over a crumpled script of parchment paper, saying "You should keep this in a secure place,  the level-15 spell's magical powers disturbance." </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“不想你们虎哥死，立即给我退后！”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180919T050657Z">
         <seg>"If you don't want your Brother Hu to die, back away from me immediately!" </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“不明白……”林立答得理所当然。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T151950Z" creationid="sangni" creationdate="20181213T151950Z">
+        <seg>"I don't understand it...", Lin Li answered naturally. </seg>
       </tuv>
     </tu>
     <tu>
@@ -1681,6 +1697,14 @@ Manager Rong hurriedly shouted to the group of individuals in Jiang Yi's corner 
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180904T105032Z">
         <seg>"How much do you know about that young mage?" There was not much reproach from the look on Old Merlin's face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“你小子可别瞧不起这条咒语。”见他神色随意，老家伙又好心提醒道：“这可是真正的好东西，要不是看你小子帮了我个大忙，我还真舍不得把它拿出来，实话跟你说了吧，这咒语说是十五级，真要用得好了，搞不好连十七八级的魔法都没它厉害，魔力扰乱的意思你明不明白？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T151914Z" creationid="sangni" creationdate="20181213T151855Z">
+        <seg>"You better not look down on this spell.", observing Lin Li's nonchalant expression, the old fellow added, "This is real good stuff, if it wasn't for your help, I would be reluctant to to bring it out. The level-17/18 spells may not even be a match for it, do you understand what is magical powers disturbance? </seg>
       </tuv>
     </tu>
     <tu>
@@ -4050,6 +4074,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“啊？”林立听得莫名其妙。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T144727Z" creationid="sangni" creationdate="20181213T144727Z">
+        <seg>"Ah?", Lin Li felt that Macklin's words were ridiculous. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“啊？”林立正在那心不在焉的想着心事，却忽然听见有人跟自己说话，而且从那声音听来，好象还是一个陌生人，林立不由有些疑惑的转过头望去，却看见一名面容英俊的青年正站在自己面前，神色间带着某种林立很不喜欢的东西……</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181007T034142Z">
@@ -4698,6 +4730,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“太好了！”麦德林一拍大腿，兴奋的站了起来：“费雷，你这下可帮了我们大忙了！”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T144609Z" creationid="sangni" creationdate="20181213T144609Z">
+        <seg>"That's great!", Macklin slapped his thigh and stood up excitedly, exclaiming, "Felic, you've done us a great favor!" "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“夫人和那个人如此强大，少主的资质怎么会差？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181210T080923Z">
@@ -4908,8 +4948,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“好象会一点点……”在不知道麦德林的目的之前，林立回答得很谨慎。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T144334Z" creationid="sangni" creationdate="20181213T144334Z">
-        <seg> g"I do know a little...", before he finds out about Macklin's motive, Lin Li answered his questions cautiously.</seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T144341Z" creationid="sangni" creationdate="20181213T144334Z">
+        <seg>"I do know a little...", before he finds out about Macklin's motive, Lin Li answered his questions cautiously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -27247,6 +27287,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180829T053914Z">
         <seg>Lin Li took a smell of the medicine and knew the old man had added leaves from the Wisdom Tree once again..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林立随手接过：“哦，谢谢麦德林先生。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T151443Z" creationid="sangni" creationdate="20181213T151443Z">
+        <seg>Lin Li took it and thanked Mr Macklin. </seg>
       </tuv>
     </tu>
     <tu>
