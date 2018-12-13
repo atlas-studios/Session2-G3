@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4708,6 +4708,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Joey" changedate="20180926T124717Z">
         <seg>"Alright, Young Master Yi, I'll be leaving!"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好了，现在换你来。”还好，麦德林脸皮虽厚，却还是有些廉耻的，连他自己都知道，再这么示范下去，很容易示范出事来，又随口忽悠了几句之后，就把铁锤交到了林立手上。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T121927Z" creationid="sangni" creationdate="20181213T121927Z">
+        <seg>"Okay, it's now your turn.", luckily, Macklin had still had some sense of shame left despite his shameless character. He himself knew that if he continues with the demonstration, it could possibly lead to an accident. Hence, he casually handed the hammer to Lin Li after blabbering a few lines. </seg>
       </tuv>
     </tu>
     <tu>
@@ -11668,6 +11676,14 @@ Mason felt that he was on the verge of turning crazy. He always thought that sin
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181212T151009Z" creationid="sangni" creationdate="20181212T151009Z">
         <seg>"Mr Macklin...", Lin Li stood outside the door with a doubtful expression on his face.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“麦德林先生，我能不能再问一下，您想要打一点什么东西？”林立摇了摇头，从麦德林手中接过铁锤，同时夹起那块已经冷却的铁胚，丢进火炉里重新熔炼，这两个老家伙，也算是天才了，铁胚都已经冷成这样了，还在那敲得高高兴兴……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T122442Z" creationid="sangni" creationdate="20181213T122442Z">
+        <seg>"Mr Macklin, may I ask again, what item would you like to build?", Lin Li shook his head and took the hammer over from Macklin. He picked up the piece of iron embryo that had cooled down and threw it into the fire. These two old fellows were considered geniuses, the iron embryo had already cooled down but they still happily continued with the hammering. </seg>
       </tuv>
     </tu>
     <tu>
@@ -26580,6 +26596,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181212T133913Z">
         <seg>Lin Li gripped onto his Winter Staff and called on the Hastening Spell. While retreating, he struck two wind blades at his opponents concurrently. Olive and Mason who were by his sides also took action simultaneously, each calling out a magic shield and started to recite the spell at top-speed.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林立翻了个白眼，心想你这不是废话吗，这是打铁，又不是打石头，有象你这样双手举起铁锤开砸的？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T120320Z" creationid="sangni" creationdate="20181213T120320Z">
+        <seg>Lin Li rolled his eyes and thought that he was speaking nonsensically. It isn't even hitting stones, it is impossible for Macklin to start hammering with both hands raised. </seg>
       </tuv>
     </tu>
     <tu>
