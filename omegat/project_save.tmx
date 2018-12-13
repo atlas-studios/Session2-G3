@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6201,8 +6201,8 @@ Olive had changed a lot ever since he injured himself. He started to have more e
       <tuv lang="ZH-CN">
         <seg>“快去快去，你们只有一个下午的时间，如果今天天黑之前，还不能把那件东西给我拿出来的话，哼哼……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T152143Z">
-        <seg>"Swift, swift. You only have an afternoon to complete the task. If you fail to get the object back to me before the sky darkens, heh..."</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170600Z">
+        <seg>"Hurry off. You only have an afternoon to complete the task. If you fail to get the object back to me before the sky darkens, heh..."</seg>
       </tuv>
     </tu>
     <tu>
@@ -7301,10 +7301,10 @@ Matthias looked over at Lin Li cockily as though he was looking at someone insig
       <tuv lang="ZH-CN">
         <seg>“我靠！”林立忍不住又是一句粗话冒了出来，刚刚三人一番配合，才不过杀了二十几只，看看现在冒出来这些，一眼望去怕不有上百只之多，这还怎么搞下去？你把这一百多只杀完，狼王大爷又是一吼，又出来两三百只，别说咬，就累能把人给累死……(未完待续，如欲知后事如何，请登陆www.qidian.com，章节更多，支持作者，支持正版阅读！)</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T133019Z">
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170757Z">
         <seg>"SHIT!" Lin Li could not help but blurted another swear word. 
 
-The collaboration of the trio had only enabled them to slain 20 wolves. Now that another hundred of wolves appeared, how are they going to deal with it? Even if you managed to kill them all, what would happen if King Wolf called out another 200 or 300 members? Not to mention being bitten by the wolves, they would lose their lives due to exhaustion...</seg>
+The collaboration of the trio had only enabled them to slain 20 wolves. Now that another hundred of wolves appeared, how are they going to deal with it? Even if they managed to kill them all, what would happen if King Wolf called out another 200 or 300 members? Not to mention being bitten by the wolves, they would lose their lives due to exhaustion...</seg>
       </tuv>
     </tu>
     <tu>
@@ -12148,8 +12148,8 @@ Mason felt that he was on the verge of turning crazy. He always thought that sin
       <tuv lang="ZH-CN">
         <seg>“麦……麦德林先生，您不跟我们一起进去吗？”马森吞了口口水，用很忐忑的目光望着麦德林。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T133853Z">
-        <seg>"Mr. M-Macklin, you are not entering the jungle with us?" Mason inquired meekly as he gazed at Macklin uneasily. </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170550Z">
+        <seg>"Mr. M-Macklin, are you not entering the jungle with us?" Mason inquired meekly as he gazed at Macklin uneasily. </seg>
       </tuv>
     </tu>
     <tu>
@@ -27938,8 +27938,8 @@ He then snorted coldly. "Jiang Song, you can get out of my sight now! You no lon
       <tuv lang="ZH-CN">
         <seg>树林外那老混蛋，该不会是葛瑞安的兄弟吧？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T070842Z">
-        <seg>Might the old bastard outside the jungle be Gerian's brother?</seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170617Z">
+        <seg>Could the old bastard outside the jungle be Gerian's brother?</seg>
       </tuv>
     </tu>
     <tu>
@@ -35419,6 +35419,14 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>继续满地打滚求月票！！！！(未完待续，如欲知后事如何，请登陆www.qidian.com，章节更多，支持作者，支持正版阅读！)</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170528Z" creationid="USER" creationdate="20181213T170528Z">
+        <seg>Rolling on the ground to beg for your votes! (This story is incomplete and to continue reading, please log on to www.qidian.com, there are more chapters available, please do support the author and original publications)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>缭绕的火焰渐渐熄灭，十级强者特有的气息也消弭于无形，此时的红发美女，只是一个做错了事的小姑娘，她紧紧抱着伊娜，声音中带着一丝哭腔：“对不起伊娜……我……我真的只是想帮麦格雷尼叔叔……我没想过……我真的没想过……”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180920T032809Z">
@@ -40094,8 +40102,8 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       <tuv lang="ZH-CN">
         <seg>连最低级的冒险者都知道，三眼血狼的等级，是以三眼和毛色来判断的，毛色越浅，三眼越红，等级也就越高，象眼前这头毛色灰白，三眼深红的家伙，百分之百是群狼之王！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="USER" changedate="20181212T082831Z">
-        <seg>Even an Adventurer of the basest ranking would know, that the level of a Three-eyed Blood Wolf was to be deciphered based on the color of their eyes and fur coat. The lighter the fur and the redder the eye, the higher its level—just like THIS creature before them! </seg>
+      <tuv lang="EN-US" changeid="USER" changedate="20181213T170718Z">
+        <seg>Even an Adventurer of the basest ranking would know, that the level of a Three-eyed Blood Wolf was to be deciphered based on the color of their eyes and fur coat. The lighter the fur and the redder the eye, the higher its level. THIS creature before them was definitely the King! </seg>
       </tuv>
     </tu>
     <tu>
