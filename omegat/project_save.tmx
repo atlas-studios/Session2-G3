@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20232,6 +20232,14 @@ What I needed to do now is to make myself stronger. I understand that if I want 
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>因为他已经被吓住了，直接利用精神力进行冲击，这是什么概念……</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T153721Z" creationid="sangni" creationdate="20181213T153721Z">
+        <seg>Just because he was stunned, it doesn't mean that the jolting of mental strength could be used as a solution. This was a peculiar concept...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>因为他很清楚，狮蝎身上最可怕的不是爪子，而是那条带着倒勾的尾巴。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180831T064913Z">
@@ -35334,6 +35342,14 @@ Only the word "stunning" could be used to describe his Back Coupling Spell. Mack
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>老家伙在那吹嘘，林立却没答话。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T153620Z" creationid="sangni" creationdate="20181213T153620Z">
+        <seg>The old fellow was still boasting, while Lin Li didn't answer. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>老家伙正在那暗暗得意，却忽然听到“滋”的一声，等到他回过神来的时候，那小子都已经在找他要十五级咒语了，麦德林顿时下了一跳：“这么快？”</seg>
       </tuv>
       <tuv lang="EN-US" changeid="sangni" changedate="20181213T135632Z" creationid="sangni" creationdate="20181213T135632Z">
@@ -36432,6 +36448,14 @@ Only the word "stunning" could be used to describe his Back Coupling Spell. Mack
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20180906T035815Z">
         <seg>He had fled in panic back to the cave, but this low-life mage had managed to save Ina. Ina's attitude towards him was not polite as it usually was at all. There was only disdain now, the kind of disdain that she regarded him as air. Until now, Ina had still not looked him in the eye—not even once.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>自己的精神力怎么样，林立心里很清楚，麦德林所谓的“精神力足够强大”对他来说，根本就不是一个问题，在自己庞大的精神力冲击下，恐怕还真可以在大魔导士级别横着走了……(未完待续，如欲知后事如何，请登陆www.qidian.com，章节更多，支持作者，支持正版阅读！)</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T154556Z" creationid="sangni" creationdate="20181213T154556Z">
+        <seg>Regardless of Lin Li's mental strength, he was clear that Macklin's definition of "great mental strength" wouldn't be a problem for him. With his great jolting of mental strength, he might really have the chance to be on the same level as an Archmage... (This story is incomplete, to continue reading, pls log on to www.qidian.com, where there are more chapters, support the author and authentic work!)</seg>
       </tuv>
     </tu>
     <tu>
@@ -39193,6 +39217,14 @@ It seemed as though Martial Arts Halls had existed ever since the start of the e
       </tuv>
       <tuv lang="EN-US" changeid="USER" changedate="20181212T030756Z">
         <seg>How would Macklin even dare to offend such an individual?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>这样一条咒语落在自己手上，恐怕也只能用天意来解释了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T153941Z" creationid="sangni" creationdate="20181213T153941Z">
+        <seg>The only explanation for the spell landing in Lin Li's hands would be heaven's will. </seg>
       </tuv>
     </tu>
     <tu>
