@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -13937,8 +13937,8 @@ He had just the right time to carefully research the black essence force.</seg>
       <tuv lang="ZH-CN">
         <seg>之后的谈判，始终围绕着一个中心——怎么才能在这两个完全不同的领域当中，让两家公会分出一个高下？</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181211T163356Z">
-        <seg>"The negotiations that followed up were mainly centered on how to decide on the winner among the two Guilds of totally contrasting natures.  </seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181213T125016Z">
+        <seg>"The negotiations that followed up were mainly centered on how to decide on the winner between the two Guilds of totally contrasting natures.  </seg>
       </tuv>
     </tu>
     <tu>
