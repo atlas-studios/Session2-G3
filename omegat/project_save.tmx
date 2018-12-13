@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4892,6 +4892,14 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       </tuv>
       <tuv lang="EN-US" changeid="Jeremy" changedate="20181110T055422Z">
         <seg>"How weird! To think that this black essence force could actually increase the medicinal power of an elixir..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“好象会一点点……”在不知道麦德林的目的之前，林立回答得很谨慎。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T144334Z" creationid="sangni" creationdate="20181213T144334Z">
+        <seg> g"I do know a little...", before he finds out about Macklin's motive, Lin Li answered his questions cautiously.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11483,6 +11491,14 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181017T044237Z">
         <seg>"Other than the Warlock's Eyes, there was something else that's abnormal too... These few years, because of the Shadow's Nest, I've spent a great deal of effort on the Demon Fall Valley. Apart from the 125 Warlock's Eyes, about 20 additional sentry posts were set up as well. But last night, these 20 sentry posts were as if nonexistent. The people of the Shadow's Nest had sneaked in all the way but I didn't even receive any news…”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“除了用精铁锻造之外，你还会不会锻造其他金属？”麦德林好象生怕他听不明白似的，还特意说明了一下：“比如秘银瑟银之类的魔法金属。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181213T144243Z" creationid="sangni" creationdate="20181213T144243Z">
+        <seg>"Besides iron forging, are you skilled in other forms of forging?", Macklin was afraid that Lin Li couldn't comprehend his question, and even provided a description, saying "For example, mithril and thorium, these kinds of magical metals." </seg>
       </tuv>
     </tu>
     <tu>
