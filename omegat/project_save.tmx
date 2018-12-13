@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6318,6 +6318,14 @@ Olive had changed a lot ever since the day he injured himself. He started to hav
       </tuv>
       <tuv lang="EN-US" changeid="Irene Tan" changedate="20181212T053638Z">
         <seg>“Thats right."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“恩。”从林立怀中仰起头来时，伊娜那张泪痕未干的俏脸上，有着几分羞涩，也有几分喜悦，她乖巧的点了点头，声音犹如蚊呐。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T144631Z" creationid="ACER" creationdate="20181213T144631Z">
+        <seg>"Yeah." Ina replied with a soft voice and nodded her head. She raised her head, where her teary face showed some shyness and some happiness. </seg>
       </tuv>
     </tu>
     <tu>
@@ -14180,6 +14188,14 @@ He had just the right time to carefully research the black essence force.</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181002T041005Z">
         <seg>There seemed to be some celebration today; the Castellan Mansion was brightly lit with lights.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>也不知道哭了多久，情绪激动的伊娜，才渐渐平静下来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T144318Z" creationid="ACER" creationdate="20181213T144318Z">
+        <seg>Unknowingly, Ina who was emotionally unstable then started to feel calmed.</seg>
       </tuv>
     </tu>
     <tu>
@@ -26257,6 +26273,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>林立只是默默的听着：“我知道，我都知道……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T144108Z" creationid="ACER" creationdate="20181213T144108Z">
+        <seg>Lin Li acknowledged as he listened, "I know, I know what happened... ..."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>林立可以容忍很多事，比如罗琳那自以为是的性格。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181004T052000Z">
@@ -27069,6 +27093,14 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       </tuv>
       <tuv lang="EN-US" changeid="Vivian" changedate="20181007T034602Z">
         <seg>Lin Li's eyes followed the source of the aged voice and saw an old man wearing a gray mage robe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>林立轻轻拍了拍姑娘的香肩：“好了伊娜，不要哭了……”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181213T144359Z" creationid="ACER" creationdate="20181213T144359Z">
+        <seg>Lin Li patted on her shoulder gently and whispered, "It's okay Ina. Don't cry anymore... ..."</seg>
       </tuv>
     </tu>
     <tu>
