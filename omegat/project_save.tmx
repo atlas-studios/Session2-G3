@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19605,8 +19605,8 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       <tuv lang="ZH-CN">
         <seg>原本他是想叫上希恩一起去的，打算趁这个机会给他买几件衣服，可是在公会里找了一圈下来，却怎么也找不到这家伙，最后林立不得不一个人出了魔法公会，沿着那繁华的街道一路往冒险者公会走去。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181212T035358Z">
-        <seg>At first, he wanted to ask Chiene to go together, making use of this opportunity to buy for him some clothes, but even after thorough search in the Guild, he could not seem to be able to find this fellow. In the end, Lin Li had to leave the Guild of Magic by himself and walked along the bustling streets, towards the Adventurers Guild. </seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181214T013003Z">
+        <seg>At first, he wanted to ask Chiene to go together, making use of this opportunity to buy for him some clothes, but even after a thorough search in the Guild, he could not seem to be able to find this fellow. In the end, Lin Li had to leave the Guild of Magic by himself and walked along the bustling streets, towards the Adventurers Guild. </seg>
       </tuv>
     </tu>
     <tu>
