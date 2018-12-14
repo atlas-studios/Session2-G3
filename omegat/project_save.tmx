@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -16646,8 +16646,8 @@ Unless you conduct a massacre at the Skyplume City, your identity will not be co
       <tuv lang="ZH-CN">
         <seg>他真的很想问问这两个老家伙，现在世道真有那么艰难吗？连你们都沦落到打铁的地步了……麦德林也就算了，现在连奥德文，这个二十一级的传奇法师，居然也敢往火炉旁边站！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181212T153401Z" creationid="sangni" creationdate="20181212T153241Z">
-        <seg>Lin Li really wanted to confront the two old fellows and question them abut whether times were really that hard for them? Even the elders had fallen to having to work as a blacksmith... forget about Macklin, even Odin</seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181214T020234Z" creationid="sangni" creationdate="20181212T153241Z">
+        <seg>Lin Li really wanted to confront the two old fellows and question them abut whether times were really that hard for them? Even the elders had fallen to having to work as blacksmiths... While it was reasonable to count Macklin out, even Odin, a level-21 legendary mage had the guts to stand beside the fireplace.  </seg>
       </tuv>
     </tu>
     <tu>
