@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -19685,8 +19685,8 @@ Upon hearing the voice, he thought to himself that trouble had finally caught up
       <tuv lang="ZH-CN">
         <seg>去白银之手驻地的事，林立倒不是很急，反正他有三个月的时间，再说如果他真想去的话，就算没汉克介绍也是一样，堂堂十二级的魔导士，随便到什么佣兵团，都只会被当成上宾对待，绝对没有任何人敢不欢迎他。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T085705Z" creationid="ACER" creationdate="20181213T085705Z">
-        <seg>Lin Li was not anxious to go to the headquarter of White Silver Hand Guild, since he had three months to do so. Furthermore, if he was really determined to go there, even without Hanke's recommendation, as a level-twelve wizard, if he were to randomly reached a mercenary team, people will treat him as an honored guest, and definitely, no one will dare not to welcome him. </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T012800Z" creationid="ACER" creationdate="20181213T085705Z">
+        <seg>Lin Li was not anxious to go to the headquarter of White Silver Hand Guild, since he had three months to do so. Furthermore, if he was really determined to go there, even without Hanke's recommendation, as a level-twelve wizard, if he were to randomly reach a mercenary team, people would treat him as an honored guest, and definitely, no one would dare not to welcome him. </seg>
       </tuv>
     </tu>
     <tu>
@@ -33965,8 +33965,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>目送汉克走出公会大厅，林立也站起身来，轻轻拍去怒焰法袍上的灰尘，就打算先回奥兰纳魔法公会再说。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T085838Z" creationid="ACER" creationdate="20181213T085833Z">
-        <seg>Seeing Hanke leaving the hall, Lin Li stood up and gently slapped the dust on his Robe of Wrath. He intended to returned to Alanna Guild of Magic first.  </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T012819Z" creationid="ACER" creationdate="20181213T085833Z">
+        <seg>Seeing Hanke leaving the hall, Lin Li stood up and gently slapped the dust on his Robe of Wrath. He was intending to return to Alanna Guild of Magic first.  </seg>
       </tuv>
     </tu>
     <tu>
