@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -6987,8 +6987,8 @@ Matthias looked over at Lin Li cockily as though he was looking at someone insig
       <tuv lang="ZH-CN">
         <seg>“我……”麦德林稍稍犹豫了一下，最后还是狠下心来，猛的一咬牙：“我送你一条失传的十五级咒语！”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181212T153954Z" creationid="sangni" creationdate="20181212T153954Z">
-        <seg>"I...", Macklin hesitated for a while, before he toughened up and ferociously shouted, "I'll gift you with a grade 15 spell that was failed to be handed down from the past generations."</seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181214T010631Z" creationid="sangni" creationdate="20181212T153954Z">
+        <seg>"I...", Macklin hesitated for a while, before he toughened up and ferociously shouted, "I'll gift you with a level-15 spell that was failed to be handed down from the past generations."</seg>
       </tuv>
     </tu>
     <tu>
