@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -14262,8 +14262,8 @@ He had just the right time to carefully research the black essence force.</seg>
       <tuv lang="ZH-CN">
         <seg>两个二十一级的家伙，一场打下来完全不分胜负，两人打了两天两夜，最后一个耗尽魔力一个耗尽体力，竟同时在擂台上晕了过去……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181214T012912Z" creationid="sangni" creationdate="20181213T165355Z">
-        <seg>Two level-21 fellows fought for two days and nights, which eventually ended in a tie when one had exhausted his magical powers and the other had exhausted his physical strength. They had both fainted on the ring. </seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181214T013825Z" creationid="sangni" creationdate="20181213T165355Z">
+        <seg>The two level-21 fellows fought for two days and nights straight, which eventually ended in a tie when one had exhausted his magical powers and the other had exhausted his physical strength. They had both fainted on the ring. </seg>
       </tuv>
     </tu>
     <tu>
