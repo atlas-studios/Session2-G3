@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -12307,8 +12307,8 @@ Jiang Yi’s heart ached as he read Xiaonu’s ugly, spider-like handwriting.</s
       <tuv lang="ZH-CN">
         <seg>“马尔科先生。”林立望着马尔科，脸上的笑容充满了遗憾：“真的很抱歉，你这位手下，刚刚伤过我一位朋友，所以他必须付出一点代价。”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T160115Z" creationid="ACER" creationdate="20181213T160115Z">
-        <seg>"Mr Malcor." Lin Li looked at Malcor as he state and looked regretful, "I am so sorry. This subordinate of yours injured my friend, so he has to pay a price for it." </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T014320Z" creationid="ACER" creationdate="20181213T160115Z">
+        <seg>"Mr Malcor." Lin Li looked at Malcor as he stated and looked regretful, "I am so sorry. This subordinate of yours injured my friend, so he has to pay a price for it." </seg>
       </tuv>
     </tu>
     <tu>
@@ -19033,8 +19033,8 @@ He turned to the Netherworld King next to him and said, "Your Majesty, this Empy
       <tuv lang="ZH-CN">
         <seg>刚刚被一冰锥刺死那个，叫马拉多纳德，这名字听起来有点土，但实力却绝对不土，在这一队人当中，已是最强的一个，就算跟马尔科自己比起来，也只不过差了一线而已，论个人等级，更是至少八级顶峰，马尔科怎么也想不明白，这样厉害的手下，怎么会一眨眼就被人杀掉……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T160952Z" creationid="ACER" creationdate="20181213T160941Z">
-        <seg>The one who died from the icicle was called Maradona. Although his name might sound old-fashioned, but his strength was definitely not old-fashioned at all. Within this troop, he was one of the strongest. Even when he was compared with Malcor himself, they only had a slight difference and looking at the individual level, he was at least at the peak of level-eight. Malcor did not understand why such great subordinate could be killed in a blink of an eye.  </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T014359Z" creationid="ACER" creationdate="20181213T160941Z">
+        <seg>The one who died from the icicle was called Maradona. Although his name might sound old-fashioned, but his strength was definitely not old-fashioned at all. Within this troop, he was one of the strongest. Even when he was compared with Malcor himself, they only had a slight difference and looking at the individual level, he was at least at the peak of level-eight. Malcor did not understand why such powerful subordinate could be killed in a blink of an eye.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -33147,8 +33147,8 @@ Immediately being reminded of something, he grinned widely as he said, "Xiaonu, 
       <tuv lang="ZH-CN">
         <seg>温和的笑容当中，一根冰锥已经撕开了空气，就听见“噗”的一声，离他最近的一名冒险者，已经带着一脸茫然的表情，直挺挺的倒了下去，在一片喷涌的鲜血当中，插在他胸膛上的那根冰锥，还正冒着森森寒气……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T154816Z" creationid="ACER" creationdate="20181213T154816Z">
-        <seg>Within the gentle smile, an icicle broke the atmosphere. There was a "puff" sound, and the Adventurer nearest to him, looking lost, fell directly onto the ground. In the bloody scene, an icicle was injected on his chest and there was still a densed chill... ... </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T014155Z" creationid="ACER" creationdate="20181213T154816Z">
+        <seg>Within that gentle smile, an icicle broke the atmosphere. There was a "puff" sound, and the Adventurer nearest to him, looking lost, fell directly onto the ground. In the bloody scene, an icicle was injected on his chest and there was still a dense chill... ... </seg>
       </tuv>
     </tu>
     <tu>
@@ -33725,8 +33725,8 @@ Besides, should Elder Liu return, he could just say that he was trying to learn 
       <tuv lang="ZH-CN">
         <seg>现在想想，自己真是够可笑的，看看费雷魔法师都干了些什么，随手一发冰锥，就杀了一个七级以上的战士，这是什么样的实力？就算团长大人跟他比起来，恐怕也稍有不如吧？这样的人物，又怎么会把红月佣兵团的人放在眼里……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T160000Z" creationid="ACER" creationdate="20181213T160000Z">
-        <seg>Now that he thought about it, he found himself absurd. Looking at what Mage Felic had done, a random icicle could kill a warrior that was level-seven and above. What kind of potential is this? Even if the Captain was to compare with him, they were not even on the same level, wasn't it? A person like him would not even take a look at the people from Blood Moon Troops... ... </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T014309Z" creationid="ACER" creationdate="20181213T160000Z">
+        <seg>Now that he thought about it, he found himself absurd. Looking at what Mage Felic had done, a random icicle could kill a warrior that was level-seven and above. What kind of potential is this? Even if the Captain was to compare with him, they were not on the same level, wasn't it? A person like him would not even take a look at the people from Blood Moon Troops... ... </seg>
       </tuv>
     </tu>
     <tu>
@@ -42169,8 +42169,8 @@ After a short period of time, Jiang Xiaonu ran into the backyard. "Young Master,
       <tuv lang="ZH-CN">
         <seg>马尔科更加确定，这个年轻魔法师没什么背景，一时之间，就连声音都提高了几度：“那你来干什么？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T154221Z" creationid="ACER" creationdate="20181213T154221Z">
-        <seg>Malcor was even assured that this Young Mage had no background. THe next moment, he raised his voice and shouted,"Then why did you come?"</seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T014131Z" creationid="ACER" creationdate="20181213T154221Z">
+        <seg>Malcor was even assured that this Young Mage had no background. The next moment, he raised his voice and shouted,"Then why did you come?"</seg>
       </tuv>
     </tu>
     <tu>
