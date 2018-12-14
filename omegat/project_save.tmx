@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10409,8 +10409,8 @@ In the history of Anril, there were no one who were able to pass through this fo
       <tuv lang="ZH-CN">
         <seg>“费……费雷先生？”在这一刻，伊娜几乎以为自己是在做梦，她怎么也没有想到，在千里之外的奥兰纳，自己竟还能见到这个年轻的魔法师，林立的出现，勾起了伊娜无数的回忆，她想起了落日山脉，想起了双足飞龙，想起了克伦威尔，想起了独自面对一群魔导士的父亲……</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T120514Z" creationid="ACER" creationdate="20181213T120345Z">
-        <seg>"Fe... ... Mr Felic?" Ina mumbled. At that moment, Ina seemed to think that she was dreaming. She could not believe that Alanna which is so far away from here, she could see the Young Mage and Lin Li's presence led to her memories of the Sunset Mountains, Wyvern, Cromwell and facing a group of Father Wizards alone.  </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T013455Z" creationid="ACER" creationdate="20181213T120345Z">
+        <seg>"Fe... ... Mr Felic?" Ina mumbled. At that moment, Ina seemed to think that she was dreaming. She could not believe that Alanna which is so far away from here, she could see the Young Mage and Lin Li's presence led to her memories of the Sunset Mountains, Wyvern, Cromwell and her Father facing all the Magic Shooter alone.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -10473,8 +10473,8 @@ In the history of Anril, there were no one who were able to pass through this fo
       <tuv lang="ZH-CN">
         <seg>“费雷先生……爸爸……爸爸他……”先前还异常坚强，手持利剑力抗强敌的姑娘，此时竟“哇”的一声哭了出来。(未完待续，如欲知后事如何，请登陆www.qidian.com，章节更多，支持作者，支持正版阅读！)</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T120824Z" creationid="ACER" creationdate="20181213T120824Z">
-        <seg>"Mr Felic... ... Daddy... ... Daddy he .... ..." Ina mumbled. A women who was seen to be strong and holding on to sharp sword, was actually crying right now!  </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T013531Z" creationid="ACER" creationdate="20181213T120824Z">
+        <seg>"Mr Felic... ... Father... ... Father he .... ..." Ina mumbled. A women who was always seen to be strong and holding on to sharp sword, was actually crying right now!  </seg>
       </tuv>
     </tu>
     <tu>
@@ -13363,8 +13363,8 @@ Why did he even offend that rude and unreasonable woman? She was the famous rude
       <tuv lang="ZH-CN">
         <seg>一群红月佣兵团的人突然闯了进来，领头的是一个叫马尔科的九级战士，他们一冲进千叶酒馆，就叫嚣着要让伊娜他们交出那一批魔晶，否则就要把他们全部抓起来，交给红月佣兵团团长处理。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T094610Z" creationid="ACER" creationdate="20181213T094610Z">
-        <seg>A group of Blood Moon Troops people budged in, and the lead is called Malcor, a level-nine warrior. They forced their way into Thousand Leaf Tavern and demanded Ina to hand over the Magical Crystals; if not, they will capture all of them and hand them over to Blood Moon Troops Captain to settle.  </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T013014Z" creationid="ACER" creationdate="20181213T094610Z">
+        <seg>A group of Blood Moon Troops people budged in, and the lead was called Malcor, a level-nine warrior. They forced their way into Thousand Leaf Tavern and demanded Ina to hand over the Magical Crystals; if not, they would capture all of them and hand them over to Blood Moon Troops Captain to settle.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -17144,8 +17144,8 @@ Should he ever dare to head up the Western Hills, he would have no other future 
       <tuv lang="ZH-CN">
         <seg>伊娜他们当然不肯，双方一番争执，很快发生了冲突。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T094701Z" creationid="ACER" creationdate="20181213T094701Z">
-        <seg>Ina was obviously unwilling and both sides have an argument, and soon, it became a fight. </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T013020Z" creationid="ACER" creationdate="20181213T094701Z">
+        <seg>Ina was obviously unwilling and both sides had an argument, and soon, it became a fight. </seg>
       </tuv>
     </tu>
     <tu>
@@ -28009,8 +28009,8 @@ The person who arrived was a teenage girl dressed in fiery-red martial artist ro
       <tuv lang="ZH-CN">
         <seg>林立真想给这家伙一脚。两个公会之间，至少隔着一个多小时路程，一来一回不知道要浪费多少时间，再等自己把希恩找到，到时候连黄花菜都凉了，还救人，救个鸟毛！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T102132Z" creationid="ACER" creationdate="20181213T102132Z">
-        <seg>Lin Li really thought of giving this fellow a kick. The distance between two Guilds took more than an hour of travelling, </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T013310Z" creationid="ACER" creationdate="20181213T102132Z">
+        <seg>Lin Li really thought of giving this fellow a kick. The distance between two Guilds took more than an hour of travelling. Travelling here and there would have wasted a lot of time and if he were to find Chiene, even the dishes on the tables would have been cold. Save? How to save in this case? </seg>
       </tuv>
     </tu>
     <tu>
@@ -29133,8 +29133,8 @@ If one wished to enter the Martial Arts Hall without a level of power in the Pur
       <tuv lang="ZH-CN">
         <seg>汉克看看时间还早，也就没有推辞，一起加入了庆祝。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T094147Z" creationid="ACER" creationdate="20181213T094147Z">
-        <seg>Seeing that the time is still early, Hanke did not reject and joined the celebration. </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T012935Z" creationid="ACER" creationdate="20181213T094147Z">
+        <seg>Seeing that the time was still early, Hanke did not reject and joined the celebration. </seg>
       </tuv>
     </tu>
     <tu>
