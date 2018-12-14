@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -10457,8 +10457,8 @@ In the history of Anril, there were no one who were able to pass through this fo
       <tuv lang="ZH-CN">
         <seg>“费雷先生……”可是才刚走到公会大厅门口，却又看见汉克折了回来，只见他站在台阶下面，脸上神色异常犹豫：“费雷先生，您……您是不是认识伊娜？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T090201Z" creationid="ACER" creationdate="20181213T090147Z">
-        <seg>"Mr Felic... ..." Hanke just left the hall, but he returned, standing on the step, looking hesitant, and mumbled, "Mr Felic, do you... ... Do you know Ina?" </seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181214T013941Z" creationid="ACER" creationdate="20181213T090147Z">
+        <seg>"Mr Felic..." Hanke just left the hall, but he returned, standing on the step, looking hesitant, and mumbled, "Mr Felic, do you...Do you know Ina?" </seg>
       </tuv>
     </tu>
     <tu>
