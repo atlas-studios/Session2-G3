@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20426,8 +20426,8 @@ It was definitely the case that as he could not identify the additional ingredie
       <tuv lang="ZH-CN">
         <seg>可走进奥兰纳冒险者公会，林立却一连看见好几个接近十级的冒险者，其中一名盗贼甚至达到了十二级！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181213T080252Z" creationid="ACER" creationdate="20181213T080252Z">
-        <seg>However, when Lin Li walked into Alanna Adventurers Guild, he saw a number of adventurers who are close to level-ten, and one of the thieves even reached level-twelve. </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T012415Z" creationid="ACER" creationdate="20181213T080252Z">
+        <seg>However, when Lin Li walked into Alanna Adventurers Guild, he saw a number of adventurers who were close to level-ten, and one of the thieves even reached level-twelve. </seg>
       </tuv>
     </tu>
     <tu>
@@ -36434,10 +36434,10 @@ Regardless of whether Jiang Yi was only suited to practice the lowest level of m
       <tuv lang="ZH-CN">
         <seg>老实说，这一个上午下来，他对三人的表现相当满意，除了马森比较蠢之外，其他两个绝对是难得一见的天才，特别是那个叫费雷的小子，那一记魔力反馈，只能用惊艳来形容，麦德林还从来没见过，有谁能在这个年纪，达到如此高度。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181212T033650Z">
-        <seg>To be truthful, Macklin is satisfied with the performances of the three of them this afternoon. Other than Mason being slightly dumber, the other two were rare geniuses, especially the guy named Felic. 
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T012303Z">
+        <seg>To be truthful, Macklin was satisfied with the performances of the three of them this afternoon. Other than Mason being slightly dumber, the other two were rare geniuses, especially the guy named Felic. 
 
-Only the word "stunning" could be used to describe his Back Coupling Spell. Macklin has never seen anyone, at such a young age, to reach such level.  </seg>
+Only the word "stunning" could be used to describe his Back Coupling Spell. Macklin had never seen anyone, at such a young age, to reach such level.  </seg>
       </tuv>
     </tu>
     <tu>
