@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -20426,8 +20426,8 @@ It was definitely the case that as he could not identify the additional ingredie
       <tuv lang="ZH-CN">
         <seg>可走进奥兰纳冒险者公会，林立却一连看见好几个接近十级的冒险者，其中一名盗贼甚至达到了十二级！</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="ACER" changedate="20181214T012415Z" creationid="ACER" creationdate="20181213T080252Z">
-        <seg>However, when Lin Li walked into Alanna Adventurers Guild, he saw a number of adventurers who were close to level-ten, and one of the thieves even reached level-twelve. </seg>
+      <tuv lang="EN-US" changeid="Irene Tan" changedate="20181214T013126Z" creationid="ACER" creationdate="20181213T080252Z">
+        <seg>However, when Lin Li walked into Alanna Adventurers Guild, he saw a number of adventurers who were close to level-10, and one of the thieves even reached level-twelve. </seg>
       </tuv>
     </tu>
     <tu>
