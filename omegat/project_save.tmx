@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -3169,8 +3169,8 @@ Lin Li stared at Matthias for a long time and the ends of his mouth curve up sli
       <tuv lang="ZH-CN">
         <seg>“呵……呵呵……”林立脸上的笑容很僵，这件事他可是记得轻轻楚楚，远不是断两根手指那么轻松，当时要不是老格林阻拦，他早把巴瑟罗尔给干掉了，如今站在奥德文面前，就算他脸皮再厚，也不禁有些不自在起来。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T111804Z" creationid="sangni" creationdate="20181213T111804Z">
-        <seg>"Heh...heh heh...", Lin Li had a stiff smile on his face. He remembers the matter exactly as it is. It is not as easy as just breaking Bathrilor's two fingers. If it wasn't for Old Grimm's obstruction, he would have gotten rid of Bathrilor long ago. Standing infront of Odin was not easy for Lin Li, even if he had no shame, it was still rather awkward for him. </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T020458Z" creationid="sangni" creationdate="20181213T111804Z">
+        <seg>"Heh...heh heh...", Lin Li had a stiff smile on his face. He remembered the matter exactly as it was. It was not as easy as just breaking Bathrilor's two fingers. If it wasn't for Old Grimm's obstruction, he would have gotten rid of Bathrilor long ago. Standing infront of Odin was not easy for Lin Li, even if he had no shame, it was still rather awkward for him. </seg>
       </tuv>
     </tu>
     <tu>
@@ -4959,8 +4959,8 @@ A long sickle-like weapon appeared out of thin air and floated into the hands of
       <tuv lang="ZH-CN">
         <seg>“好……”这一声招呼，倒也正合林立的意思，站在奥德文面前，他总有点别扭，于是袖子一挽就直接过去了。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T113936Z" creationid="sangni" creationdate="20181213T113537Z">
-        <seg>"Okay...", this greeting was according to Lin Li's wishes. He had always felt awkward standing in front of Odin. Hence, he just held his sleeves and and walked away directly. </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T020535Z" creationid="sangni" creationdate="20181213T113537Z">
+        <seg>"Okay...", this greeting was according to Lin Li's wishes. He had always felt awkward standing in front of Odin. Hence, he just held his sleeves and walked away directly. </seg>
       </tuv>
     </tu>
     <tu>
@@ -34129,8 +34129,8 @@ He cupped his hands and said in a low voice, "Elder Liu, I’ll take my leave," 
       <tuv lang="ZH-CN">
         <seg>看林立反应这么大，奥德文呵呵笑道：“放轻松点小伙子，我不会把你怎么样的，我那孙子不成器，全奥兰纳都知道，你断了他两根手指，让他得了个教训的，这是好事，我奥德文活了一大把年纪，又不是不通情理的人，再说你还是安度因的弟子，那老家伙，我可不能不给面子，听说他最近跟药剂师公会的格林-伯恩塞德走得很近，我以后要求他的事可还多着呢……”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T111441Z" creationid="sangni" creationdate="20181213T111441Z">
-        <seg>Seeing Lin Li's reaction, Odin laughed and said, "Chill, I won't do anything to you. The whole city of city Alanna knows that my grandson is useless. When you break his two fingers and let him receive his deserving treatment, this will be a good matter. I've lived a for long time and I'm not an unreasonable person. Moreover, you are Andoine's disciple. I will definitely give that old fellow some face. I've heard that he has close ties with Grimm Burnside of the Pharmacists Guild, I've still got some matters to ask them for help..."  </seg>
+      <tuv lang="EN-US" changeid="ACER" changedate="20181214T020416Z" creationid="sangni" creationdate="20181213T111441Z">
+        <seg>Seeing Lin Li's reaction, Odin laughed and said, "Chill, I won't do anything to you. The whole city of city Alanna knows that my grandson is useless. When you break his two fingers and let him receive his deserving treatment, this will be a good matter. I've lived for a long time and I'm not an unreasonable person. Moreover, you are Andoine's disciple. I will definitely give that old fellow some face. I've heard that he has close ties with Grimm Burnside of the Pharmacists Guild, I've still got some matters to ask them for help..."  </seg>
       </tuv>
     </tu>
     <tu>
