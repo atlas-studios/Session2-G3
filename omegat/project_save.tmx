@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10485" segtype="paragraph" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_3_10490" segtype="paragraph" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -11681,8 +11681,8 @@ Jiang Yi was rendered speechless, as he found something wrong with a strand of b
       <tuv lang="ZH-CN">
         <seg>“那再帮我们个忙如何？”麦德林打铁手艺虽然糟糕，却也明白打铁趁热的道理，一看林立被那条咒语迷住，老家伙趁势就加了一句。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="sangni" changedate="20181213T155310Z" creationid="sangni" creationdate="20181213T155310Z">
-        <seg>"How about you do us a favor again?", although Macklin had horrible skills in ironworks, he understood the theory of striking the iron while it is hot. Seeing that Lin Li was smitten by the spell, he added.</seg>
+      <tuv lang="EN-US" changeid="sangni" changedate="20181214T014242Z" creationid="sangni" creationdate="20181213T155310Z">
+        <seg>"How about you do us a favor again?", although Macklin had horrible skills in ironworks, he understood how to strike the iron while it was hot. Seeing that Lin Li was smitten by the spell, he added.</seg>
       </tuv>
     </tu>
     <tu>
